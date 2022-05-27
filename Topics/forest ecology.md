@@ -80,7 +80,7 @@ Very high level of diversity. It’s rare for a single species to dominate, whet
 - Why don't we find L. oregana in young forests?
 	- Some think that there's more light available in mature forests, or that mature forests have a better microclimate, or lichen gets overtopped by a growing forest canopy before it can grow that much. 
 - After 100 yrs, L organica becomes a huge player in N fixation. Very few forests in the US reach 100 years old. - Most timberlands are cut from 40 - 75 rotation age.
-- This age really changes the N fixation sources. Red alder is the main source from symbiosis. However, red alder is suppressed on commercial timber land. These forests squeak by on the leftover N in the soil and through rotting wood bacteria. 
+- This age really changes the N fixation sources. Red alder is the main source from [[symbiosis]]. However, red alder is suppressed on commercial timber land. These forests squeak by on the leftover N in the soil and through rotting wood bacteria. 
 - Managing red alder is hard. It can't economically grow everywhere. 
 ## Results of young forest practices
 - Managers have turned to N fertilization. Only sites with poor soils or poor productivity are fertilized. 

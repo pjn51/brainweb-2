@@ -1,18 +1,16 @@
-# Symbiosis
-`TAGS:` 
-
 ---
-# Introduction
-Studied in [[biology]] and [[environmental science]], a symbiotic relationship is one in which two or more organisms rely on one another to survive. 
+aliases: [symbiote, symbiotic]
+---
+# Symbiosis
+---
+Studied in [[biology]] and [[environmental science]], a symbiotic relationship is one in which two or more organisms, usually of different [[species]], rely on one another for a benefit. 
 
-# Varieties
-Symbiotic relationships can be mutualistic, commensalistic, or parasitic.
+[[Symbiosis can be mutualistic, commensalistic, or parasitic]].
 
-## Mutualism
-In a mutualistic relationship, each [[species]] engaged in the relationship has a net benefit. 
-
-## Commensalism
-In a commensalistic relationship, one species benefits while the other species is unaffected.
-
-## Parasitism
-In a parasitic relationship, one species benefits while the other is harmed. 
+# Unsorted ideas
+```dataview
+LIST
+FROM [[symbiosis]]
+AND "Ideas"
+AND -outgoing([[symbiosis]])
+```

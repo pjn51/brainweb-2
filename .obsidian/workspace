@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Days/2022-05-27.md",
+            "file": "Topics/symbiosis.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "48a718d7a3d77ea6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics/Stoicism.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -56,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Days/2022-05-27.md",
+                "file": "Topics/symbiosis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Days/2022-05-27.md",
+                "file": "Topics/symbiosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Days/2022-05-27.md"
+                "file": "Topics/symbiosis.md"
               }
             }
           },
@@ -123,26 +136,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9a9e50aa3bdb0c0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "221ba98a85b08b68",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4522fc8368c1d409",
+            "id": "93bbff9640038a94",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0446f30f3b7f5da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -155,15 +160,15 @@
   },
   "active": "bf6b713c7accc8b4",
   "lastOpenFiles": [
+    "Topics/symbiosis.md",
+    "Topics/Stoicism.md",
+    "Ideas/Symbiosis can be mutualistic, commensalistic, or parasitic.md",
+    "People & Organizations/Pancho Villa.md",
     "Journal/Days/2022-05-27.md",
+    "Journal/Days/2021-12-16.md",
     "Templates/daily template.md",
     "Topics/naive bayes.md",
     "Topics/Bayes theorem.md",
-    "Meetings/IMT/2022-06-09 reading group.md",
-    "Journal/Days/2022-05-26.md",
-    "Literature & Reference/The State and Revolution (1917).md",
-    "Stories/PHX consolidation writeup.md",
-    "Journal/Days/2022-05-16.md",
-    "Journal/Days/2022-05-24.md"
+    "Meetings/IMT/2022-06-09 reading group.md"
   ]
 }

@@ -6,5 +6,4 @@ died: 1923
 `TAGS`: #people 
 
 ---
-## Introduction
 Pancho Villa led a section of the [[peasantry]] in northern [[Mexico]] during the Mexican revolution at the start of the 20th century. 
