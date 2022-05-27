@@ -1,0 +1,5 @@
+# Vicodin
+`LINKS`: [[drugs]]
+`TAGS`: 
+
+---

@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "fc27ef983a2a4886",
+    "type": "split",
+    "children": [
+      {
+        "id": "12a3f029da1d04b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meetings/IMT Meetings/2021/2021-09-19 aggregate.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a32710dbd2f35df",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f81af5e9fc3bfbc2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ab0fbe47d8d67718",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e6915779c756a256",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "75dfdaefb4ebd34d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1444715a990a7bd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Meetings/IMT Meetings/2021/2021-09-19 aggregate.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "288f8df2ce9ed7b4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Meetings/IMT Meetings/2021/2021-09-19 aggregate.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f95df197191de3ce",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Meetings/IMT Meetings/2021/2021-09-19 aggregate.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "12a3f029da1d04b0",
+  "lastOpenFiles": [
+    "Meetings/IMT Meetings/2021/2021-09-19 aggregate.md"
+  ]
+}

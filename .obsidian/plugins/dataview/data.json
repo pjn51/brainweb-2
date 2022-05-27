@@ -1,0 +1,21 @@
+{
+  "renderNullAs": " ",
+  "taskLinkLocation": "end",
+  "taskLinkText": "🔗",
+  "taskCompletionTracking": false,
+  "taskCompletionText": "completion",
+  "warnOnEmptyResult": false,
+  "refreshEnabled": false,
+  "refreshInterval": 100,
+  "defaultDateFormat": "yyyy-MM-d",
+  "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
+  "maxRecursiveRenderDepth": 6,
+  "tableIdColumnName": "Note",
+  "tableGroupColumnName": "",
+  "inlineQueryPrefix": "=",
+  "inlineJsQueryPrefix": "$=",
+  "enableDataviewJs": true,
+  "enableInlineDataviewJs": false,
+  "prettyRenderInlineFields": true,
+  "schemaVersion": 1
+}

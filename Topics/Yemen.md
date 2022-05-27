@@ -1,0 +1,4 @@
+---
+aliases: [Yemeni]
+---
+# Yemen 🇾🇪

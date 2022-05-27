@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "purplegraph"
+  ]
+}

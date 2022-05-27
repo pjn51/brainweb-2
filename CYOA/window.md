@@ -1,0 +1,1 @@
+You squint your eyes as you see a bunch of police cars in the street below you. You're on the third floor and have a good view into the street. 

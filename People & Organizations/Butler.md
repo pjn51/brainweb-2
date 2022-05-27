@@ -1,0 +1,6 @@
+---
+born:
+died:
+---
+# Judith Butler
+---

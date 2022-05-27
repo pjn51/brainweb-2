@@ -1,0 +1,79 @@
+{
+  "userAdmonitions": {
+    "one": {
+      "type": "one",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "dice-one",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "First Week",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "two": {
+      "type": "two",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "dice-two",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Second Week",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "three": {
+      "type": "three",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "dice-three",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Third Week",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "four": {
+      "type": "four",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "dice-four",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Fourth Week",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "9.0.3",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": true,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.91b637",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "allowMSSyntax": true,
+  "livePreviewMS": true
+}

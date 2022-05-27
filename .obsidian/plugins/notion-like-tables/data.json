@@ -1,0 +1,58 @@
+{
+  "appData": {},
+  "state": {
+    "Journal/Days/2022-05-21.md": {
+      "table-id-q4u5n2": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-4hbogl",
+              "content": "Testing notion-like tables",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-jvqxka",
+              "content": "Does this work well?",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "row-id-w84e1w",
+              "creationTime": 1653148939034
+            }
+          ],
+          "cells": [
+            {
+              "id": "cell-id-64635p",
+              "rowId": "row-id-w84e1w",
+              "headerId": "column-id-4hbogl",
+              "type": "text",
+              "expectedType": null,
+              "text": "It's still a bit buggy, but getting there."
+            },
+            {
+              "id": "cell-id-pus28p",
+              "rowId": "row-id-w84e1w",
+              "headerId": "column-id-jvqxka",
+              "type": "text",
+              "expectedType": null,
+              "text": "For some reason, the column names are cut short"
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  }
+}
