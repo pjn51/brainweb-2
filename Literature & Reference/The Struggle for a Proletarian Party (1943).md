@@ -16,7 +16,7 @@ genre: political
 - [[The party is a combat organization]]
 - [[Neutrality is impossible]]
 
-Cannon notes that it is possible for members of the [[petty bourgeoisie]] to come over to the side of the workers, as [[Lenin]], [[People & Organizations/Trotsky]], and [[Rosa Luxemburg]] did. However, he says that it was necessary for these people to firmly desert their former class, and he says this is unlike the petty bourgeois intellectuals in the SWP at the time of the split [1]. 
+Cannon notes that it is possible for members of the [[petty bourgeoisie]] to come over to the side of the workers, as [[Lenin]], [[Trotsky]], and [[Rosa Luxemburg]] did. However, he says that it was necessary for these people to firmly desert their former class, and he says this is unlike the petty bourgeois intellectuals in the SWP at the time of the split [1]. 
 
 Cannon argues that most American left-wing intellectuals have been no help to the movement, apart from the shining example of De Leon, who Cannon says was a genuine revolutionary who decisively cut ties with the academic establishment [2]. 
 

@@ -8,7 +8,7 @@ genre: political
 
 ---
 > [!abstract] 
-> In his masterpiece on the [[Russia|Russian]] revolution, [[People & Organizations/Trotsky]] gives a detailed analysis of the processes of revolution. Not to be confused with his earlier, shorter work, [[History of the Russian Revolution to Brest-Litovsk (1918)]]. 
+> In his masterpiece on the [[Russia|Russian]] revolution, [[Trotsky]] gives a detailed analysis of the processes of revolution. Not to be confused with his earlier, shorter work, [[History of the Russian Revolution to Brest-Litovsk (1918)]]. 
 
 # Preface
 Trotsky explains that it is the lag of consciousness behind events that gives rise to the explosive situation of a revolution, where the conscsiousness of the masses rapidly snaps forward to the current conditions (p.xvi). [[Human consciousness is conservative]], and [[Consciousness changes on the basis of events]]. 

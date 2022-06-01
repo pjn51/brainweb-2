@@ -58,7 +58,7 @@ Sewell highlights that in total betrayal of the socialist cause, the SPD chairpe
 Sewell calls the SPD out for using quotations from Marx and Engels taken out of context. 
 
 ## 1.2. Internationalists at war
-Sewell tells us the position that internationalists had during the first world war. He says that the true Marxists were reduced to small handfuls in their respective countries. He says that at the Zimmerwald confrence in 1915, they joked that all the world's internationalists could fit into two stage-coaches. Lenin, [[People & Organizations/Trotsky]], [[Liebknecht]], Luxemburg, and [[Connolly]] were the leaders of their small groupings across Europe and Russia.
+Sewell tells us the position that internationalists had during the first world war. He says that the true Marxists were reduced to small handfuls in their respective countries. He says that at the Zimmerwald confrence in 1915, they joked that all the world's internationalists could fit into two stage-coaches. Lenin, [[Trotsky]], [[Liebknecht]], Luxemburg, and [[Connolly]] were the leaders of their small groupings across Europe and Russia.
 
 Sewell gives us a short introduction to the work of Liebknecht and Luxemburg. He says that Liebknecht was a SPD deputy in the Reichstag, the only one to initially vote against the war credits, and that a small group began to form around him and Rosa. Sewell says that this group voted to start the publication of a secret paper, called *Spartacus,* and were referred to as [[Spartacists]]. 
 

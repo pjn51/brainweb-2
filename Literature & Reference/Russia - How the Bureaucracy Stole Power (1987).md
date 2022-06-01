@@ -13,7 +13,7 @@ This is a republished pamphlet from 1987, by someone in the [[CWI]]. It gives th
 ## The October Revolution
 The original Congress of Soviets asserted that revolution must be international, and it must usher in a democratic workers’ government. 
 
-[[Lenin]] and [[People & Organizations/Trotsky]] spoke for the majority of delegates in saying as much.
+[[Lenin]] and [[Trotsky]] spoke for the majority of delegates in saying as much.
 
 ## The Counter-Revolution
 The behavior of the workers just after workers power was declared shows that once the working class has taken control, it is impossible to halt the expropriation of the whole capitalist class. 

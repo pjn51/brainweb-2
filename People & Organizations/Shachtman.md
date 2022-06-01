@@ -14,7 +14,7 @@ He was born in Poland to a Jewish family, and moved to NYC in 1905. After becomi
 
 After the CPUSA launched the legal Workers Party of America, Shachtman joined and rose to become an alternate member of the central committee. 
 
-Shachtman was expelled from CPUSA along with [[James Cannon]], leaving to found *The Militant* newspaper. He was the first [[USA|American]] to visit [[People & Organizations/Trotsky]] in exile in 1930. 
+Shachtman was expelled from CPUSA along with [[James Cannon]], leaving to found *The Militant* newspaper. He was the first [[USA|American]] to visit [[Trotsky]] in exile in 1930. 
 
 After the expulsion of Trotskyists from the Socialist Party in 1937, Shachtman was a founding member of the [[SWP (USA)]]. 
 

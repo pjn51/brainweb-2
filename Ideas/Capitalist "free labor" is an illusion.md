@@ -4,7 +4,7 @@ Nothing could be further from the truth. Workers are threatened, not overtly, bu
 
 Furthermore, no matter how many times you switch your job, you will still find that [[All capitalist labor is exploitative]]. 
 
-This is an argument that [[People & Organizations/Trotsky]] makes as part of his [[During the Russian Civil War, Trotsky justified compulsory labor|justification of compulsory labor in the USSR]]. 
+This is an argument that [[Trotsky]] makes as part of his [[During the Russian Civil War, Trotsky justified compulsory labor|justification of compulsory labor in the USSR]]. 
 
 #idea/politics/economics 
 #idea/politics 

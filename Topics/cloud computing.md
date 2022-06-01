@@ -1,11 +1,8 @@
 # Cloud Computing
-`TAGS:` 
-
 ---
-# Introduction
-Relevant to the fields of [[data science]] and [[data engineering]], cloud computing is the practice of using non-local resources to complete computing tasks or to store data. 
+Relevant to the fields of [[data science]] and [[data engineering]], cloud computing is the practice of using non-local resources to complete computing tasks or to store [[data]]. 
 
-[[Cloud computing centralizes compute resources]], transforming individual firms from owners to renters of compute power. 
+[[The cloud centralizes compute resources]], transforming individual firms from owners to renters of compute power. 
 
 There are four categories of cloud computing services.
 

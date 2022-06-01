@@ -4,7 +4,7 @@
 Developed in [[South Korea]] in the 90s and 2000s, K-pop refers to the highly bureaucratized and centralized manufacturing of pop stars and musical groups. These artists are trained in singing, dancing, and choreography in academies from a very early age, and are tied into virtual slave-contracts for their entire career. 
 
 ## Overview of my analysis
-I see themes from [[Imperialism - The Highest Stage of Capitalism (1916)]], as well as the theory of combined and uneven development from [[People & Organizations/Trotsky]] at play in the development of K-pop. 
+I see themes from [[Imperialism - The Highest Stage of Capitalism (1916)]], as well as the theory of combined and uneven development from [[Trotsky]] at play in the development of K-pop. 
 
 [[USA|America]], being the dominant capitalist power, basically rebuilt post-war South Korea in its image, but instead of having the long development of [[USA|American]] [[capitalism]], which built lots of contradictions and complexity into the system, the Korean system of capitalism came about on a much higher basis. 
 

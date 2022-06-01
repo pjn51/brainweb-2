@@ -49,6 +49,115 @@
         "viewType": "live-preview",
         "shouldUpdate": true
       }
+    },
+    "Journal/Days/2022-05-27.md": {
+      "table-id-8s5zkr": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-pa6jyo",
+              "content": "$",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-jhzhn2",
+              "content": "Desc",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "row-id-joxni8",
+              "creationTime": 1653682337068
+            },
+            {
+              "id": "row-id-h42rn7",
+              "creationTime": 1653682346402
+            },
+            {
+              "id": "row-id-eozpbj",
+              "creationTime": 1653682360547
+            },
+            {
+              "id": "row-id-cqfeq0",
+              "creationTime": 1653682382725
+            }
+          ],
+          "cells": [
+            {
+              "id": "cell-id-23ul2t",
+              "rowId": "row-id-joxni8",
+              "headerId": "column-id-pa6jyo",
+              "type": "text",
+              "expectedType": null,
+              "text": "$82,000"
+            },
+            {
+              "id": "cell-id-arv6bd",
+              "rowId": "row-id-joxni8",
+              "headerId": "column-id-jhzhn2",
+              "type": "text",
+              "expectedType": null,
+              "text": "Base salary"
+            },
+            {
+              "id": "cell-id-m01apx",
+              "rowId": "row-id-h42rn7",
+              "headerId": "column-id-pa6jyo",
+              "type": "text",
+              "expectedType": null,
+              "text": "$8,200"
+            },
+            {
+              "id": "cell-id-4852dv",
+              "rowId": "row-id-h42rn7",
+              "headerId": "column-id-jhzhn2",
+              "type": "text",
+              "expectedType": null,
+              "text": "Quarterly bonus"
+            },
+            {
+              "id": "cell-id-7a4wks",
+              "rowId": "row-id-eozpbj",
+              "headerId": "column-id-pa6jyo",
+              "type": "text",
+              "expectedType": null,
+              "text": "$2,554.69"
+            },
+            {
+              "id": "cell-id-un7vb2",
+              "rowId": "row-id-eozpbj",
+              "headerId": "column-id-jhzhn2",
+              "type": "text",
+              "expectedType": null,
+              "text": "Year 1 RSU ($10,218.75 total)"
+            },
+            {
+              "id": "cell-id-uwdytk",
+              "rowId": "row-id-cqfeq0",
+              "headerId": "column-id-pa6jyo",
+              "type": "text",
+              "expectedType": null,
+              "text": "$92,754.69"
+            },
+            {
+              "id": "cell-id-b2tp4w",
+              "rowId": "row-id-cqfeq0",
+              "headerId": "column-id-jhzhn2",
+              "type": "text",
+              "expectedType": null,
+              "text": "TOTAL Y1 COMP"
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true
+      }
     }
   },
   "focusedElement": {

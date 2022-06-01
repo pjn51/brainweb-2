@@ -10,7 +10,7 @@ genre: political
 
 ---
 # Introductory
-The author begins by claiming that the murder of Kirov was caused by the assasin's "education in counter-revolution in the [[People & Organizations/Trotsky]]-[[Zinoviev]] organization."
+The author begins by claiming that the murder of Kirov was caused by the assasin's "education in counter-revolution in the [[Trotsky]]-[[Zinoviev]] organization."
 
 He goes on to uncritically reprint the "confessions" extracted at the Moscow Trials as fact, saying that "once more a gigantic surge of hatred rose among the millions of friends of the Soviet Union the world over for this man, Trotsky."
 

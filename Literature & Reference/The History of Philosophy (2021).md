@@ -12,13 +12,13 @@ This is a book by [[Alan Woods]] that seeks to trace the development of [[philos
 
 ---
 # Accident and necessity
-Woods quotes [[People & Organizations/Trotsky]], who says that a leader really reflects the relations between people, their combined interests and needs, rather than a personality (275). To him, this reflects the relationship between accident and necessity - the necessity of having a leader is reflected by the more-or-less accidental nature of the rise of any individual leader. 
+Woods quotes [[Trotsky]], who says that a leader really reflects the relations between people, their combined interests and needs, rather than a personality (275). To him, this reflects the relationship between accident and necessity - the necessity of having a leader is reflected by the more-or-less accidental nature of the rise of any individual leader. 
 
 # Christianity
 Woods argues that while [[Christianity]] initially reflected a revolutionary impulse from the most oppressed, it was adopted by the ruling class and further fossilized after the Council of Nicea. He says that from then on, it was an extremely reactionary force. [[Religious movements tend to start as revolutionary and end as repressive]], and in this case,[[Nicea institutionalized Christianity]]. 
 
 # Common sense
-Woods says that common sense relies heavily on impression, and is good enough to work most of the time. However, he criticizes it, saying that it insufficient beyond certain limits. He says that the dialectical method is the opposite of this process (258). 
+Woods says that common sense relies heavily on impression, and is good enough to work most of the time. However, he criticizes it, saying that it insufficient beyond certain limits. He says that the dialectical method is the opposite of this process (258). [[Common sense has limitations]]. 
 
 # Contradiction
 Woods agrees with [[Hegel]] that contradictions lie at the heart of reality, and cannot be avoided (270). 

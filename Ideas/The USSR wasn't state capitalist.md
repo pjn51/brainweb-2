@@ -1,5 +1,5 @@
 # The USSR wasn't state capitalist.
-While [[Cliff called the USSR state capitalist]], I think he was incorrect, and I agree with [[Ted Grant]] and [[People & Organizations/Trotsky]] - [[Trotsky always defended the USSR as a workers' state]]. 
+While [[Cliff called the USSR state capitalist]], I think he was incorrect, and I agree with [[Ted Grant]] and [[Trotsky]] - [[Trotsky always defended the USSR as a workers' state]]. 
 
 I think that Cliff's argument has some serious holes, which are explored in [[Against the Theory of State Capitalism (1949)]]. 
 

@@ -24,7 +24,7 @@ Yes. Without [[Bolsheviks]], the fury of the Russian working class would likely 
 ## About the present work
 Alan Woods is a committed Marxist who declares his bias openly. This bias does not prevent him from being objective, as he seeks to expose the flaws of the Bolsheviks so that we won’t repeat them. 
 
-This book seeks to use non-Bolshevik sources wherever possible, as well as relying heavily on the extensive writings of [[Lenin]] and [[People & Organizations/Trotsky]]. Even bourgeois sources are used, when they are objective. 
+This book seeks to use non-Bolshevik sources wherever possible, as well as relying heavily on the extensive writings of [[Lenin]] and [[Trotsky]]. Even bourgeois sources are used, when they are objective. 
 
 ## How the Bourgeois ‘Explain’ October
 Whether bourgeois historians call it a coup, or say that the masses were too stupid to realize what was happening to them, they have no real explanation for how this  event came to pass. They are too scared to admit that their real project is not historical analysis, but to act as a warning against revolution, against any sort of rebellion against the capitalists system. This admission would make their position more clear, but good luck getting them to come clean. 

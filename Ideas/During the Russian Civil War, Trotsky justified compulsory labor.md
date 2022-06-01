@@ -1,4 +1,4 @@
-*During the Russian Civil War, Trotsky justified compulsory labor.* In his book, [[Terrorism and Communism (1920)]], [[People & Organizations/Trotsky]] explains that while compulsory labor has nothing at all to do with [[socialism]], it was needed in the historical context of the [[Russia|USSR]] during and after the civil war in the 20s. 
+*During the Russian Civil War, Trotsky justified compulsory labor.* In his book, [[Terrorism and Communism (1920)]], [[Trotsky]] explains that while compulsory labor has nothing at all to do with [[socialism]], it was needed in the historical context of the [[Russia|USSR]] during and after the civil war in the 20s. 
 
 He says that while [[capitalism]] relied on harsh market forces to push labor power onto the market, the USSR had no forces pushing labor power onto the market, and no currency or commodities to pull laborers into service. Since, he continues, the country was in dire need of labor power, they were compelled to force workers into service. 
 

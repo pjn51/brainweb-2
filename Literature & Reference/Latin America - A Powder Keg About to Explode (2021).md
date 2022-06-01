@@ -45,7 +45,7 @@ format: article
  
  Although he praises the victory of Castillo as reflective of a rapidly maturing situation, Martin criticizes *Peru Libre* for some defects in their program. He argues that by framing the issue as that of "neoliberalism," *Peru Libre* allows capitalism to escape blame for the crisis. Martin further asserts that the program of *Peru Libre* betrays [[class independence]] by calling on the "national, productive business community" to ally with the Peruvian people against neoliberalism. 
  
- Martin casts scorn on this idea, and compares it to the ideas of [[Stalinism]] on the two-stage theory of revolution. He cites [[People & Organizations/Trotsky]] and [[The Permanent Revolution (1931)]] as explaining why this theory is absurd and counter-revolutionary. 
+ Martin casts scorn on this idea, and compares it to the ideas of [[Stalinism]] on the two-stage theory of revolution. He cites [[Trotsky]] and [[The Permanent Revolution (1931)]] as explaining why this theory is absurd and counter-revolutionary. 
  
  ## Balance of "progressive governments"
  The author compares *Peru Libre* with the government of Morales in [[Bolivia]]. He says this, along with other "progressive" governments in the region, benefited from high raw material prices, a pattern that existed between 2003 and 2014. 

@@ -1,4 +1,5 @@
-*The future will either be socialism or barbarism.* We know that [[Capitalism is in decline]], and there is an opportunity for socialism to be the next stage of human history. However, [[Marxism isn't deterministic]], and there is the possibility that all attempts to overthrow [[capitalism]] will fail, until [[climate change]] has moved past the point of no return, or a nuclear war has pushed human development backwards too far.
+# The future will either be socialism or barbarism.
+We know that [[Capitalism is in decline]], and there is an opportunity for socialism to be the next stage of human history. However, [[Marxism isn't deterministic]], and there is the possibility that all attempts to overthrow [[capitalism]] will fail, until [[climate change]] has moved past the point of no return, or a nuclear war has pushed human development backwards too far.
 
 Some might say that this is a false dichotomy, and reforms can extend the shelf life of capitalism indefintely. However, I would argue that [[Reforms are only possible during economic upswing]] and therefore [[Reformism is doomed during capitalist decline]] which we see today. Since [[Capitalism is in decline]] generally, we are unlikely to see a powerful reform movement emerge. 
 

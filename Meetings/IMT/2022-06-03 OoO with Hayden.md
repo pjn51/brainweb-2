@@ -10,6 +10,7 @@ with: Hayden
 ---
 # ✅ Topics to discuss
 - [[Marxism vs Queer Theory (2020)]]
+- Their contact, Fern, was invited to branch, didn't attend. Status report?
 
 # ✏️ Notes
 - Class society, oppression, and culture

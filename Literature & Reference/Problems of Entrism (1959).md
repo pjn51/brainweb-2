@@ -23,7 +23,7 @@ Grant dives into a history of the [[Comintern]], saying that it was created as a
 
 At this point, Grant says, the Left Opposition declared the formation of new revolutionary parties and the [[Fourth International]]. However, Grant reminds us that there's a wide gulf between the ability to declare a new formation and the ability to create one with a mass basis. 
 
-Under the conditions of being thrown back, Grant says, [[People & Organizations/Trotsky]] first posed the question of [[entryism]]. Grant says that it's significant that Trotsky posed this question in a British context.
+Under the conditions of being thrown back, Grant says, [[Trotsky]] first posed the question of [[entryism]]. Grant says that it's significant that Trotsky posed this question in a British context.
 
 Grant turns to a brief history of entryism in the UK. He outlines how the government of the [[Labour Party (UK)]] between 1929 and 1931 shattered faith in [[reformism]], and how this shift led to the formation of the Independent Labour Party, or ILP. 
 

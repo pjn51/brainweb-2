@@ -6,7 +6,7 @@ aliases: [Trotskyist, Trotskyists]
 
 ---
 # Introduction
-Trotskyism is a Marxist current basing itself of the works of [[People & Organizations/Trotsky]] and the thinkers in his tradition. 
+Trotskyism is a Marxist current basing itself of the works of [[Trotsky]] and the thinkers in his tradition. 
 
 *In my opinion*, Trotskyism is the genuine sucessor to [[Marx]]'s, [[Engels]]', and [[Lenin]]'s legacy, but in the interest of objectivity I'm defining it as separate from orthodox [[Marxism]]. 
 
@@ -38,7 +38,7 @@ I'm not sure how valid the label of "Trotskyist" is. I don't really consider mys
 - [[Militant]]
 - [[Socialist Alternative]]
 - [[SPEW]]
-- [[People & Organizations/Trotsky]]
+- [[Trotsky]]
 
 ## Topics Related to Trotskyism
 - [[Marxists should use positive demands]]

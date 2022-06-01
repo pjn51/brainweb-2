@@ -5,7 +5,7 @@ genre: political
 ---
 # The Permanent Revolution
 `LINKS:`[Source](https://www.marxists.org/archive/trotsky/1931/tpr/prre.htm)
-`AUTHOR:` [[People & Organizations/Trotsky]]
+`AUTHOR:` [[Trotsky]]
 `TAGS:` #book #wip 
 
 ---

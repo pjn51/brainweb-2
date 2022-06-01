@@ -2,14 +2,7 @@
 `TAGS`: 
 
 ---
-# Income
-## TA income
-I got paid $30 / hour as a TA before taxes, and $25.52 after taxes. If I work two days a week, that means my monthly net pay will be around $1,429 per month. That amounts to a net income of around $17,000 annually. However, I can probably get a few hours from the asynchronous material, so my takehome will be higher than $1,400 monthly. 
-
-If I work three days a week, my income would be $2,143 per month, which projects to $25,724 annually. That's my plan for the next few months, until my hours likely get cut in September. 
-
-## Atos income
-My total compensation is $2,577 per pay period, and my take home is $1,845 every two weeks. This amounts to $23.07 after tax per hour, and $32.22 gross hourly wage. 
+For a breakdown of my income over time, see [[my income history]]. 
 
 # Household income
 ```
@@ -54,7 +47,7 @@ $7,982		amount available for max mortgage
 - [[housing search]]
 - [[housing budget]]
 
-
 # External links
-[Budget for 2021](https://docs.google.com/spreadsheets/d/1snf2msQEbKAxH8Fn7uXajTJs50ADfGZagkk9GrqNgC8/edit#gid=0)
+- [2021 budget spreadsheet](https://docs.google.com/spreadsheets/d/1snf2msQEbKAxH8Fn7uXajTJs50ADfGZagkk9GrqNgC8/edit#gid=0)
+- [2022 budget spreadsheet](https://docs.google.com/spreadsheets/d/1xPpTOACAYpzyd-eeBjDcy0D-iWJRQL5C2Hif0TlHIV4/edit#gid=0)
 

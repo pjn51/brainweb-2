@@ -68,7 +68,7 @@ Woods emphasizes that while the clashes had been limited to the students up unti
   # Military intervention?
   Woods explains that De Gaulle was certainly intent on using military force if needed against the crowds. However, he says that the military is not immune to the contradictions of society, and that if we judge the state's strength on numbers alone, than revolution would be impossible throughout all time.
   
-  Woods cites [[People & Organizations/Trotsky]]'s analysis of the Russian military: 
+  Woods cites [[Trotsky]]'s analysis of the Russian military: 
   
   > If an army as a whole is a copy of society, then when society openly splits, both armies are copies of the two warring camps. The army of the possessors contained the wormholes of isolation and decay.
 

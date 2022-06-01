@@ -17,7 +17,7 @@ Grant explains that since [[Classes arise due to the needs of production]], Clif
 The author also says that Cliff's effort to draw a dividing line between pre and post-1928 Russia is in vain, since the economic system has the same fundamental basis since the revolution in 1917.
 
 # Incorrect usage of quotations
-Grant argues that Cliff has warped [[People & Organizations/Trotsky]]'s quotes and taken him out of context, replying with a quote by Trotsky that clearly shows that [[Trotsky always defended the USSR as a workers' state]]. 
+Grant argues that Cliff has warped [[Trotsky]]'s quotes and taken him out of context, replying with a quote by Trotsky that clearly shows that [[Trotsky always defended the USSR as a workers' state]]. 
 
 # Can there be a struggle between two sections of the same class? French revolution - Russian revolution
 Grant explains that we can use the French Revolution and the Napoleonic counter-revolution as an example here, where the counter revolution still proceeded on the basis of a new form of production, [[capitalism]]. Despite its reactionary character, Grant says, Stalin (like Napoleon), was compelled to proceed on the basis of a new productive system, the planned economy with the workers as ruling class. 

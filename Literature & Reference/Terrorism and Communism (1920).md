@@ -8,7 +8,7 @@ genre: political
 
 ---
 # Summary
-In this book, written during the Russian civil war, [[People & Organizations/Trotsky]] defends the fact that [[The socialist transition requires a proletarian dictatorship]]. [[Kautsky]] had written a pamphlet slandering the [[Bolsheviks]] as an evil, "anti-democratic" force.
+In this book, written during the Russian civil war, [[Trotsky]] defends the fact that [[The socialist transition requires a proletarian dictatorship]]. [[Kautsky]] had written a pamphlet slandering the [[Bolsheviks]] as an evil, "anti-democratic" force.
 
 Throughout the book, Trotsky uses the Paris Commune as an allegory for a revolutionary situation under seige, and argues that the Communists are doing what the Parisian Communards ought to have done to avoid a slaughter. He also discusses the details of the militarization of labor, and the use of military detachments for other economic tasks. 
 

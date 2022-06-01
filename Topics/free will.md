@@ -20,4 +20,4 @@ That's basically where I stand on the question of free will.
 
 If that is true, then this implies some change in behavior that is a result of our being conscious. If we had no free will, then there would be no advantage to consciousness over unconscious impulse. Therefore, humans have *some* degree of free will.
 
-[[People & Organizations/Trotsky]] makes a similar argument in his *Notebooks.*
+[[Trotsky]] makes a similar argument in his *Notebooks.*

@@ -354,7 +354,7 @@ Returning to the story of Joe Hill, Woods says that he arrived in Utah in 1915 a
 ## Literature and revolution
 Woods says that Joe Hill demonstrated the revolutionary potential of music and poetry. His example was followed by Woody Guthrie and other radical folk artists such as Bob Dylan and Pete Seeger. 
 
-Woods says that it's a shame that most are unaware of the great American tradition of left wing artists. He names the author Jack London, who was an active socialist. In his novel *The Iron Heel,* which both [[Lenin]] and [[People & Organizations/Trotsky]] read and liked, London predicted the rise of [[fascism]], long before the rise of [[Hitler]]. Upton Sinclair is also a well known author who was a socialist. 
+Woods says that it's a shame that most are unaware of the great American tradition of left wing artists. He names the author Jack London, who was an active socialist. In his novel *The Iron Heel,* which both [[Lenin]] and [[Trotsky]] read and liked, London predicted the rise of [[fascism]], long before the rise of [[Hitler]]. Upton Sinclair is also a well known author who was a socialist. 
 
 Woods outlines Sinclair's novel *The Jungle,* and the effects of it. It was an instant best-seller, and actually resulted in legislation that was meant to keep canned meat sales up internationally as disgust spread. 
 

@@ -9,7 +9,7 @@ genre: political
 
 ---
 # Summary
-This book, written by [[People & Organizations/Trotsky]], is an analysis of the degeneration of the USSR under the Stalinist bureaucracy, leading to a state of proletarian [[Bonapartism]]. It is an important part of the theory of [[Trotskyism]]. 
+This book, written by [[Trotsky]], is an analysis of the degeneration of the USSR under the Stalinist bureaucracy, leading to a state of proletarian [[Bonapartism]]. It is an important part of the theory of [[Trotskyism]]. 
 
 This book reveals Trotsky's real stance towards the USSR, which is nothing like the caricature that he was anti-Soviet. 
 

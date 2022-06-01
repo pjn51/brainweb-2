@@ -1,5 +1,5 @@
 # The crisis of our era is the lack of proletarian leadership.
-[[People & Organizations/Trotsky]] formulated this in his time, and I agree that all the objective factors for revolution exist today, and have existed for more than a generation. However, a subjective factor is required to take advantage of the objective conditions.
+[[Trotsky]] formulated this in his time, and I agree that all the objective factors for revolution exist today, and have existed for more than a generation. However, a subjective factor is required to take advantage of the objective conditions.
 
 The leadership of the [[proletariat|workers]]' has been woefully unprepared for, and downright opposed to the seizure of power throughout the last 100 years. 
 

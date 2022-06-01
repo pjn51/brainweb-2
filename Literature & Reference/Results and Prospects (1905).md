@@ -6,11 +6,11 @@ genre: political
 # Results and Prospects
 `LINKS:` [Source](https://www.marxists.org/archive/trotsky/1931/tpr/rp-index.htm)
 `TAGS:` #wip #book 
-`AUTHOR:` [[People & Organizations/Trotsky]]
+`AUTHOR:` [[Trotsky]]
 
 ---
 # Summary
-This theory, written by [[People & Organizations/Trotsky]], came just after the 1905 revolution in [[Russia]]. He discusses the idea that [[Social development is always uneven]] and fleshes out the theory of [[combined and uneven development]]. 
+This theory, written by [[Trotsky]], came just after the 1905 revolution in [[Russia]]. He discusses the idea that [[Social development is always uneven]] and fleshes out the theory of [[combined and uneven development]]. 
 
 # Introduction
 Marxists, the only ones to predict the events of 1905 in theory, pointed out that the revolution was bourgeois, and thus the immediate aims of the revolution were the creation of conditions for [[capitalism]] to develop. 

@@ -10,4 +10,4 @@ Kautsky was a prominent theorist of the Second International as a member of the 
 
 # People insulting him
 > Kautsky loftily sweeps aside [[Marx]]'s views on terror... at that time, do you see, Marx was still very 'young' and consequently his views had not yet had time to arrive at that condition of complete enfeeblement which is so clearly to be observed in the case of certain theoreticians in the seventh decade of their life.
-> -- [[People & Organizations/Trotsky]], [[Terrorism and Communism (1920)]]
+> -- [[Trotsky]], [[Terrorism and Communism (1920)]]

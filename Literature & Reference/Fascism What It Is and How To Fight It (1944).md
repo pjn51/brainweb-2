@@ -10,11 +10,11 @@ genre: political
 
 ---
 > [!info]
-> This theory is a compilation of statements by [[People & Organizations/Trotsky]], dealing with a [[Trotskyism|Trotskyist]] analysis of the question: [[What is fascism?]]
+> This theory is a compilation of statements by [[Trotsky]], dealing with a [[Trotskyism|Trotskyist]] analysis of the question: [[What is fascism?]]
 # Introduction to the 1969 edition
 Indescriminate use of the term fascism only reflects an un-scientific attitude and a certain vagueness that many on the left have when it comes to fascism. The reformists and [[Stalinism|Stalinists]] prefer this since both groups totally failed to stand against fascism in [[Germany]] and would prefer that we not firmly understand how fascism arose and could have been defeated. 
 
-When the [[Nazi Party]] began to advance, the Communist movement was in the middle of an ultraleft binge (the Third Period). They were calling every bourgeois party fascist, and [[Stalin]] said that fascism and social democracy were twins. He then labled all socialists outside the Communist party as 'social-fascists' and told the German communists not to work with them under any circumstances, including [[People & Organizations/Trotsky]]. 
+When the [[Nazi Party]] began to advance, the Communist movement was in the middle of an ultraleft binge (the Third Period). They were calling every bourgeois party fascist, and [[Stalin]] said that fascism and social democracy were twins. He then labled all socialists outside the Communist party as 'social-fascists' and told the German communists not to work with them under any circumstances, including [[Trotsky]]. 
 
 After Hitler's rise, the Stalinists claimed to have been totally correct, and that fascism could only last a few months, to be followed by a Soviet Germany. These claims were also false. 
 

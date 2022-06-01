@@ -1,10 +1,7 @@
 ---
 aliases: [union, unionization]
 ---
-# Unions 🤝
-`TAGS:` |  #tactic
-`LINKS:` [[Marxism]]
-
+# Unions
 ---
 The unions are an important mode of organization of the [[proletariat]]. They are the first lines of working class defense in the cases where they are present. 
 
@@ -38,3 +35,11 @@ A strike is a basic weapon of the union. By depriving the bosses of their labor 
 
 ## The general strike
 A general strike is the highest form of the strike tactic. By organizing enough of the working class in general, a strike in all industries can be called. The committees that often emerge to manage such activity can even be used to pose the question of who ought to run society. 
+
+# Unsorted ideas
+```dataview
+LIST
+FROM [[unions]]
+AND "Ideas"
+AND -outgoing([[unions]])
+```

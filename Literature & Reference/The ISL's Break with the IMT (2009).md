@@ -27,7 +27,7 @@ The author quotes Lenin:
 > [!criticism]
 > I will note here that Lenin isn't saying that socialists should support the bourgeoisie in Morocco, just that we would "sympathize" with the workers there.
 
-The author also quotes [[People & Organizations/Trotsky]], who they say shared a similar position:
+The author also quotes [[Trotsky]], who they say shared a similar position:
 
 > We do not and never have put all wars on the same plane. [[Marx]] and [[Engels]] supported the revolutionary struggle of the Irish against Great Britain, of the Poles against the Tsar...To speak of "revolutionary defeatism" in general, without distinguishing between exploiter and exploited countries, is to make a miserable caricature of Bolshevism...
 

@@ -49,6 +49,17 @@
       "title": "Fourth Week",
       "injectColor": true,
       "noTitle": false
+    },
+    "critique": {
+      "type": "critique",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "angry",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,

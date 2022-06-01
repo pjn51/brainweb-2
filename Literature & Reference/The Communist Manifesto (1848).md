@@ -21,7 +21,7 @@ Continuing a discussion of the broad effects of capitalism, the authors say that
 
 The authors say that the [[bourgeoisie]]... “is like the sorcerer who is no longer able to control the powers of the nether world whom he has called up by his spells.” They put forward that the growth in the factors of production outstrip the ability of the bourgeoisie to manage and control them, a crisis which expresses itself through a crisis of overproduction (Ibid, p.8). In this, we can see how [[Capitalism creates revolutionaries]] in the form of the working class. We can also note how [[Social production contradicts private ownership]]. This contradiction is the result of such an outstripping, and therefore, [[Overproduction is fundamental to capitalism]]. 
 
-Marx and Engels argue that the cost of production of a worker tends towards the means of survival as the work becomes simpler and more repetitive. Therefore, they conclude that as the repulsiveness, monotony of the work increases, the wage decreases (Ibid, p.9). This involves the idea that [[The price of labor power tends towards the cost of reproduction of the worker]], and the idea that [[Capitalism spurs automation]].  
+Marx and Engels argue that the cost of production of a worker tends towards the means of survival as the work becomes simpler and more repetitive. Therefore, they conclude that as the repulsiveness, monotony of the work increases, the wage decreases (Ibid, p.9). This involves the idea that [[Capitalism suppresses wages over time]], and the idea that [[Capitalism spurs automation]].  
 
 Discussing events during revolutionary situations, the authors say that as the crisis intensifies, it's likely that a certain portion of the bourgeoisie will abandon their class and go over to the side of the proletariat, particularly the intelligentsia (Ibid, p.12). This reminds me of how [[Lenin argued only the intelligentsia could move the workers beyond trade union consciousness]], however Marx and Engels are not saying that here, and are only saying that the proletarian intelligentsia will have ex-bourgeois recruits.
 
@@ -38,7 +38,7 @@ Drawing on the lessons of [[dialectical materialism]], Marx and Engels say that 
 
 The authors point out that the abolition of private property is in no way unprecedented. They say that past property relations have been continually upset by historical changes in class structure. 
 
-They also say that [[capital]] is only created by the combined work and coordinated effort of many people, but its benefits are appropriated by a select few. Therefore, they claim [[capital]] is a social power wielded by the capitalist over the worker. Basically, [[Social production contradicts private ownership]]. They also explain that [[The price of labor power tends towards the cost of reproduction of the worker]] (Ibid, p.16). 
+They also say that [[capital]] is only created by the combined work and coordinated effort of many people, but its benefits are appropriated by a select few. Therefore, they claim [[capital]] is a social power wielded by the capitalist over the worker. Basically, [[Social production contradicts private ownership]]. They also explain that [[Capitalism suppresses wages over time]] (Ibid, p.16). 
 
 Analyzing the domination of [[capital]] over labor, Marx argues that in capitalist society, the past (reflected in "dead labor" or capital) dominates the present (reflected by living labor) (Ibid, p.17). We can abstract this, to say that [[Under capitalism, past dominates present]]. 
 

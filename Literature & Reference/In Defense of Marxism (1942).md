@@ -9,7 +9,7 @@ genre: political
 
 ---
 > [!info]
-> Published in 1942, this is a collection of [[People & Organizations/Trotsky]]'s writings in 1939 and 1940.
+> Published in 1942, this is a collection of [[Trotsky]]'s writings in 1939 and 1940.
 
 # A letter to James P. Cannon (September 1939)
 In a letter to the American [[James Cannon]], Trotsky explains his thoughts on the debate over the nature of the [[Russia|USSR]]. In his view, there was no reason to say that the pact between [[Germany]] and the Soviets fundamentally changed the character of the latter. If that was the case, he says, then we would be prisoners of the "Stalinist conception of the People's Front epoch."

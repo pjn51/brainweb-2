@@ -15,7 +15,7 @@ What the Nazis had in Germany was similar to this. Hitler relied on the [[bourge
 > \- [[Russia - How the Bureaucracy Stole Power (1987)]]
 
 # Proletarian bonapartism
-Proletarian bonapartism defines a state that is bonapartist where the ruling class is the proletariat. The Soviet Union degenerated into such a state, as [[People & Organizations/Trotsky]] discusses in [[The Revolution Betrayed (1937)]]. 
+Proletarian bonapartism defines a state that is bonapartist where the ruling class is the proletariat. The Soviet Union degenerated into such a state, as [[Trotsky]] discusses in [[The Revolution Betrayed (1937)]]. 
 
 # Military dictatorship
 This form of bonapartism is weaker than fascism, and less favorable for [[capitalism]] than bourgeois democracy. There is less of a mass base, and the military itself is the base for the regime, along with foreign capitalists in some cases. 

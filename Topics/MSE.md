@@ -9,5 +9,4 @@ $$
  - $\hat{y_i}$ = predicted value *i* of the dataset
  - $N$ = the number of observations in the dataset
 
-# Introduction
 MSE is one of the basic error [[metrics]] used for grading models performing [[regression]] [[modeling]] tasks. 

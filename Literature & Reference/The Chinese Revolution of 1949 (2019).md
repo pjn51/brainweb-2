@@ -19,7 +19,7 @@ Woods points to the dissolution of the [[CPC]] into the [[Kuomintang]] caused th
 ## Rottenness of Bourgeoisie
 Woods points out that the Revolution of 1949 succeeded only because of the total dead-end that landlordism and [[capitalism]] found itself in in China. He says that Chiang Kai-shek, who led the KMT to power over the corpses of the workers of Shanghai, had 20 years to provide bourgeois solutions, but failed. 
 
-Drawing upon the theories developed by [[People & Organizations/Trotsky]], Woods says that the national [[bourgeoisie]] of China was so bound to the international capitalist class through the proceesses of [[imperialism]] that they were a totally reactionary force. He says that the bourgeoisie was unwilling to solve the agrarian problem and unable to even fully introduce capitalism to China. 
+Drawing upon the theories developed by [[Trotsky]], Woods says that the national [[bourgeoisie]] of China was so bound to the international capitalist class through the proceesses of [[imperialism]] that they were a totally reactionary force. He says that the bourgeoisie was unwilling to solve the agrarian problem and unable to even fully introduce capitalism to China. 
 
 Woods highlights how the rottenness of the bourgeoisie was displayed during [[WW2]]. He says the KMT and CCP supposedly engaged in a "united front" against [[Japan]], but that the CCP did most of the fighting while the KMT manuvered to keep the CCP in check. 
 

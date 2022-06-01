@@ -233,7 +233,7 @@ The EC dives into some of the differences between the crash of the 1930s and tod
 
 First of all, the EC argues that the working class is too massive for a fascist or Bonapartist reaction, which requries a [[petty bourgeoisie]] or [[peasantry]] to lean on. Also, the EC says that the working class has an even more degenerate leadership than it had in the 30s. 
 
-When these factors combine, the EC says they point towards a lengthy crisis that is turbulent, with ups and downs that may last years. The EC reminds us of the "molecular process of revolution" which was coined by [[People & Organizations/Trotsky]]. They say that while COVID-19 and mass unemployment have acted as a brake on the class struggle, we should look under the surface and see the forces that act upon [[class consciousness]]. 
+When these factors combine, the EC says they point towards a lengthy crisis that is turbulent, with ups and downs that may last years. The EC reminds us of the "molecular process of revolution" which was coined by [[Trotsky]]. They say that while COVID-19 and mass unemployment have acted as a brake on the class struggle, we should look under the surface and see the forces that act upon [[class consciousness]]. 
 
 The EC argues that the youth are wide open to revolutionary ideas, and the contradictions of society continue to accumulate despite the lack of an open class struggle. 
 

@@ -1,4 +1,5 @@
-*Legacy authentication is often compromise.* Legacy authentication refers to any protocol that doesn't support [[MFA]]. 
+# Legacy authentication is often compromise.
+Legacy authentication refers to any protocol that doesn't support [[MFA]]. 
 
 Because bad actors often want to gain access to accounts while avoiding MFA, they will use legacy authentication as a workaround. 
 

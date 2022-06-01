@@ -6,7 +6,7 @@ Regardless of how stupid this sentence is, if you're going to ask this insane qu
 
 The very idea of throwing question after question into the void is actually very postmodernist if you think about it. [[Postmodernism is a philosophy of despair]], with postmoderninsts lacking the confidence to try to analyze the world in any meaningful way. 
 
-[[People & Organizations/Trotsky]] really roasts [[Shachtman]] for doing this in [[In Defense of Marxism (1942)]]:
+[[Trotsky]] really roasts [[Shachtman]] for doing this in [[In Defense of Marxism (1942)]]:
 
 > Shachtman declares: “The given state is not merely a degenerated workers’ state but ...” ... but? Shachtman has nothing further to say. Both the orator and the audience stare at each other, mouths wide open.
 

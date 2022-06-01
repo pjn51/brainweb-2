@@ -6,7 +6,7 @@ We can see that under the forces of [[capitalism]], [[capital]] tends to concent
 
 [[Economic crisis accelerates concentration of capital]], wiping out the smaller [[bourgeoisie|bourgeois]] and [[petty bourgeoisie|petty bourgeois]], and sending them into the [[proletariat]].  
 
-We can see this happening firsthand in today's tech sector, where [[Cloud computing centralizes compute resources]], and thus centralizes the built capital. 
+We can see this happening firsthand in today's tech sector, where [[The cloud centralizes compute resources]], and thus centralizes the built capital. 
 
 Once they've been established through the concentration of capital, [[Monopolies fight against the flow of capital]] outward and between industries. 
 

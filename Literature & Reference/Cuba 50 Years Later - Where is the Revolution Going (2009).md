@@ -59,7 +59,7 @@ Then came the Bay of Pigs invasion in 61.
 These events contain an important lesson. The fundamental problems that were solved by the bourgeois revolutions can no longer be solved in that way. In order to achieve even the limited forms of national liberation that those revolutions brought, the revolution must break with capitalism and with the capitalists. 
 
 ## The First Decade, Debates and Conflicts
-By breaking with capitalism, Cuba was propelled in the direction of the USSR. However, the USSR in the 60s was a contradictory state. The ruling bureaucracy was quite conservative, and even counter-revolutionary in outlook. The foreign policy of the USSR was based on peaceful co-existance with the capitalists, a far cry from the revolutionary internationalism of [[Lenin]] and [[People & Organizations/Trotsky]]. 
+By breaking with capitalism, Cuba was propelled in the direction of the USSR. However, the USSR in the 60s was a contradictory state. The ruling bureaucracy was quite conservative, and even counter-revolutionary in outlook. The foreign policy of the USSR was based on peaceful co-existance with the capitalists, a far cry from the revolutionary internationalism of [[Lenin]] and [[Trotsky]]. 
 
 [[Stalinism]] had a negative effect on the Cuban Communist Party, leading them astray before the revolution. This party, later renamed the Peoples' Socialist Party, often found itself to the right of Castro as he broke with capitalism. 
 

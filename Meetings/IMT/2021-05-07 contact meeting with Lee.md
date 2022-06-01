@@ -18,7 +18,7 @@
 	- Around 350 in the US, in over 40 national branches.
 	- Sections in 30 countries, largest section in [[Pakistan]].
 - Goals of the IMT
-	- Creation of what [[People & Organizations/Trotsky]] called a "general staff" to lead the [[proletariat]].
+	- Creation of what [[Trotsky]] called a "general staff" to lead the [[proletariat]].
 	- We would love to see the creation of a [[workers' party]] in the [[USA]].
 	- Revitalization of the trade union movement.
 	- International socialist revolution!

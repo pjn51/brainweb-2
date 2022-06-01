@@ -2,7 +2,7 @@
 
 If that is the case, then it naturally follows that we have some degree of freedom or control over our own actions, otherwise why would we be self-conscious and not operate strictly by unconscious instinct?
 
-[[People & Organizations/Trotsky]] makes this argument in his philisophical notebooks that I have as a part of [[The Revolutionary Philosophy of Marxism (2018)]]. 
+[[Trotsky]] makes this argument in his philisophical notebooks that I have as a part of [[The Revolutionary Philosophy of Marxism (2018)]]. 
 
 #idea/science/ecology #idea/philosophy/epistemology
 

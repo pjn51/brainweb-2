@@ -6,7 +6,7 @@ When the leaders of the class cave in to bourgeois public opinion, this creates 
 
 This is a huge reason why [[Marxists must fight against alien class ideas]]. We must provide a counter-weight to the naturally bourgeois leanings of the leadership of the class, especially when that [[Institutional leadership reflects the prior period's mood]] during a period of upswing and a dormant class struggle.
 
-[[People & Organizations/Trotsky]] discusses this in [[The Class, the Party, and the Leadership (1940)]]. 
+[[Trotsky]] discusses this in [[The Class, the Party, and the Leadership (1940)]]. 
 
 #idea/politics 
 

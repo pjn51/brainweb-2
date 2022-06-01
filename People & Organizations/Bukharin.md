@@ -10,7 +10,7 @@ died: 1938
 # Introduction
 Bukharin was one of the leading figures in [[Bolsheviks]]. He tended to represent the tendency of [[ultraleftism]] within the Party before the October Revolution, but he shifted towards the right afterwards and eventually led the Right Opposition. 
 
-[[Stalin]] and Bukharin formed an alliance in 1927 to remove [[People & Organizations/Trotsky]], [[Kamenev]], and [[Zinoviev]] from the Party. He was himself arrested on the orders of [[Stalin]] in 1937, and executed in 1938. 
+[[Stalin]] and Bukharin formed an alliance in 1927 to remove [[Trotsky]], [[Kamenev]], and [[Zinoviev]] from the Party. He was himself arrested on the orders of [[Stalin]] in 1937, and executed in 1938. 
 
 # Life
 Before he was executed by Stalin, he begged for his life and made an offer:

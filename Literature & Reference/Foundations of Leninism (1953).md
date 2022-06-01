@@ -49,7 +49,7 @@ Stalin says that under these condtions, it was imperative for the Russian Commun
 Stalin remarks that it was a similar situation that unfolded in [[Germany]] in the 1840s that caused [[Marx]] and [[Engels]] to develop their theories of scientific socialism in that country.
 
 > [!criticism]
-> I agree with Stalin's surprising claim that the Russian revolution was bound to progress to a socialst one due to the international situation of imperialism, and that the work of communists must be international in order to prevent the re-establishment of the bourgeois order, since this was the position of [[People & Organizations/Trotsky]], who Stalin was in the process of assasinating when this was written.
+> I agree with Stalin's surprising claim that the Russian revolution was bound to progress to a socialst one due to the international situation of imperialism, and that the work of communists must be international in order to prevent the re-establishment of the bourgeois order, since this was the position of [[Trotsky]], who Stalin was in the process of assasinating when this was written.
 
 ## Method
 Stalin expounds a history of the time between Marx & Engels, and Lenin. He says that the [[Second International]] was dominated, in reality, by [[opportunism]]. He says that "the opportunists adapted themselves to the bourgeois because of their adaptive, petty-bourgeois nature."

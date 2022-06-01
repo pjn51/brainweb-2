@@ -1,3 +1,6 @@
+---
+aliases: [wages, pay, salary]
+---
 # Wages 💵
 `TAGS:` 
 

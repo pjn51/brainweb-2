@@ -9,7 +9,7 @@ genre: political
 `AUTHOR:` Tom Trottier
 
 ---
-Trottier begins by quoting [[People & Organizations/Trotsky]] and [[Alan Woods]]:
+Trottier begins by quoting [[Trotsky]] and [[Alan Woods]]:
 
 > If our program obliges us to maneuver energetically in a constantly changing environment, among unparalleled difficulties, that is not our fault. We do not choose the conditions under which we must function any more than we choose our own parents.
 > - Trotsky

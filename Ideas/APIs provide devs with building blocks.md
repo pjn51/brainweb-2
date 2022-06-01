@@ -1,4 +1,5 @@
-*APIs provide devs with building blocks.* Instead of building everything from scratch, companies provide [[What is an API?|APIs]] that allow developers to make use of their technology. 
+# APIs provide devs with building blocks.
+Instead of building everything from scratch, companies provide [[What is an API?|APIs]] that allow developers to make use of their technology. 
 
 For example, when making Instagram, the developers don't have to program a camera interface, they just tap into Apple or Google's camera API to use the latter's software. 
 

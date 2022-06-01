@@ -14,7 +14,7 @@ The author explains the historical context for this book, and says that through 
 ## The question of the class nature of Russia
 [[Alan Woods]] says that this question occupied the minds of Marxists for a whole generation. He says that the precise course of events were impossible to predict, although [[Ted Grant]] did predict, in 1972, that the USSR would collapse, he failed to see that it was [[capitalism]] that would replace it. Woods says that Grant put too much faith in the notion that the traditions of the [[Bolsheviks]] would remain breathing, and that the Communist Party could be overthrown by the working class. Cutting him some slack, Woods says that the situation hadn't been played out, and that this was certainly a possibility when Grant wrote the book. 
 
-Woods traces the line of thought developed by [[People & Organizations/Trotsky]] during the 20s and 30s, as he analyzed the beginnings of Stalinism. He also notes that the victory, first of Stalinism over Bolshevism, and then of capitalist restoration, was not guaranteed, and only developed due to the interplay of subjective and objective factors over a whole historic period. 
+Woods traces the line of thought developed by [[Trotsky]] during the 20s and 30s, as he analyzed the beginnings of Stalinism. He also notes that the victory, first of Stalinism over Bolshevism, and then of capitalist restoration, was not guaranteed, and only developed due to the interplay of subjective and objective factors over a whole historic period. 
 
 ## What the book contains
 Woods says that the first part of the book contains a defense of the October Revolution, and a critique of the theory of state capitalism. He explains that there's no need to revise Grant's deep belief that the restoration of capitalism could be reversed, even after the crisis of 1998, and he points to bourgeois analysts who were worried about just that. 
@@ -50,7 +50,7 @@ Woods explains that the bureaucracy was always a brake on production, and as the
 As the growth rate of the USSR fell nearer and nearer to that of the capitalist world, and then fell below it, Woods explains, the fate of the bureaucracy was sealed. He notes that in 1972, Ted Grant predicted the demise of Stalinism based on this evidence. 
 
 ## Trotsky's analysis
-Woods draws on the analysis given by [[People & Organizations/Trotsky]] in [[The Revolution Betrayed (1937)]], saying that he accurately, if incompletely, predicted the possibility of a return to capitalism in the USSR if the bureaucracy was not defeated. 
+Woods draws on the analysis given by [[Trotsky]] in [[The Revolution Betrayed (1937)]], saying that he accurately, if incompletely, predicted the possibility of a return to capitalism in the USSR if the bureaucracy was not defeated. 
 
 Woods criticizes the theory of "state capitalism," saying that it ignores the differences between the crises of capitalism and the crises of Stalinism, and effectively disarms the workers in their quest to defend the positives of the October revolution while excising the cancer of the bureaucracy. 
 
@@ -115,7 +115,7 @@ Grant argues that [[Lenin]] always trusted in the masses, displaying his authent
 
 The author explains that the main defense of the Russian revolution was the solidarity of the international [[proletariat]] (32), underscoring how [[Internationalism is essential to the workers' movement]]. 
 
-Grant argues that [[People & Organizations/Trotsky]] demonstrated military genius in his creation of the Red Army on such short notice, and his successful campaigns against the Whites (33). 
+Grant argues that [[Trotsky]] demonstrated military genius in his creation of the Red Army on such short notice, and his successful campaigns against the Whites (33). 
 
 Grant argues that the [[Stalinism|Stalinist]] degeneration of the USSR stemmed from the terrible conditions that the [[dictatorship of the proletariat|workers' state]] faced (40).
 
@@ -252,14 +252,14 @@ Grant argues that Trotsky was correct in predicting a revolutionary upswing at t
 Grant tells us that the Stalinist post-war policy in Eastern Europe was initially one of "people's democracy" that built coalitions between the national bourgeoise, the workers, and the peasants, until a strong state controlled by Moscow could be built. Afterwards, he continues, the Stalinists expropriated the bourgeosie, and collectivized the peasantry, while keeping all workers' movements within their channels (211). 
 
 ## Victory in China
-Grant explains that the victory of the peasantry in the Chinese revolution displayed a process where the peasants had taken up the historical task of the working class, and thus was bound to have big distortions from a 'standard' social revolution (213). 
+Grant explains that the victory of the peasantry in the Chinese revolution displayed a process where the peasants had taken up the historical task of the working class, and thus was bound to have big distortions from a 'standard' social revolution (213).
 
-He argues that such a process was only possible due to the impasse of Chinese capitalism, the decay of the national bourgeoisie, and the paralysis of world imperialism at the time. Despite the major steps forward, he argues, a second political revolution would be needed in order to place political power in the workers' hands (214). 
+He argues that such a process was only possible due to the impasse of Chinese capitalism, the decay of the national bourgeoisie, and the paralysis of world imperialism at the time. Despite the major steps forward, he argues, a second political revolution would be needed in order to place political power in the workers' hands (214).
 
 ## From Stalin to Khrushchev
 Discussing the tail-end of Stalin's administration, Grant says that despite low living standards, there was an optimistic attitude that was reflected in the birth rate and other factors. He explains how the USSR was able to rebuild from the devastation of WW2 in only five years (218).
 
-Despite the general economic growth, Grant says, the gap between the average worker and the higher paid bureaucrats only widened. By this time, he says (quoting Medvedev), the ratio was somewhere around 1:50 or 1:00 if you included the free services available to bureaucrats (219). 
+Despite the general economic growth, Grant says, the gap between the average worker and the higher paid bureaucrats only widened. By this time, he says (quoting Medvedev), the ratio was somewhere around 1:50 or 1:100 if you included the free services available to bureaucrats (219).
 
 ## Stalin's last purge
-Grant explains that on the eve of a new purge that threatened to target Stalin's inner circle, driven by the latter's paranoia, he suddenly died. Grant implies he was murdered to prevent such an affair, and says that his death provoked a struggle within the bureaucracy that the reformers eventually won. The author explains that these reformers, [[Khrushchev]] among them, wanted to alleviate the pressure in Soviet society without allowing a revolutionary explosion (222). 
+Grant explains that on the eve of a new purge that threatened to target Stalin's inner circle, driven by the latter's paranoia, he suddenly died. Grant implies he was murdered to prevent such an affair, and says that his death provoked a struggle within the bureaucracy that the reformers eventually won. The author explains that these reformers, [[Khrushchev]] among them, wanted to alleviate the pressure in Soviet society without allowing a revolutionary explosion (222).

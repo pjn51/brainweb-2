@@ -10,7 +10,7 @@ format: article
 
 ---
 > [!info]
-> Written by [[People & Organizations/Trotsky]], this theory deals with the tactics and the demands [[trotskyism|Trotskyists]] ought to call for in order to raise the [[consciousness]] of the [[proletariat]]. 
+> Written by [[Trotsky]], this theory deals with the tactics and the demands [[trotskyism|Trotskyists]] ought to call for in order to raise the [[consciousness]] of the [[proletariat]]. 
 # The Objective Prerequisites for a Socialist Revolution
 Trotsky begins by saying [[The crisis of our era is the lack of proletarian leadership]] (Marxist Classics v.1, p.184). 
 
