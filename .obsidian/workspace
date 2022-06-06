@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6329a97a5c39088a",
+        "id": "4edf18ed3a6d6e66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Days/2022-06-01.md",
+            "file": "Topics/earnest money.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"common sense\"",
+                "query": "earnest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Days/2022-06-01.md",
+                "file": "Topics/earnest money.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Days/2022-06-01.md",
+                "file": "Topics/earnest money.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Days/2022-06-01.md"
+                "file": "Topics/earnest money.md"
               }
             }
           },
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,17 +146,17 @@
     "width": 335.5,
     "collapsed": true
   },
-  "active": "6329a97a5c39088a",
+  "active": "4edf18ed3a6d6e66",
   "lastOpenFiles": [
-    "Journal/Days/2022-06-01.md",
-    "Meetings/IMT/2022-06-03 OoO with Hayden.md",
-    "Journal/Years/2022.md",
+    "Topics/earnest money.md",
+    "Ideas/Earnest money is basically a deposit on a home.md",
     "Journal/Months/2022-06 June.md",
-    "Journal/Months/2022-05 May.md",
-    "The Romance of American Communism (1977).md",
-    "Literature & Reference/Their Morals and Ours (1938).md",
-    "Common sense has limitations.md",
-    "Literature & Reference/The History of Philosophy (2021).md",
-    "Journal/Days/2022-05-31.md"
+    "Journal/Days/2022-06-06.md",
+    "Ideas/Dialectical materialism represents the height of modern analysis.md",
+    "Ideas/Willpower is a bad foundation for productivity.md",
+    "Topics/real estate.md",
+    "Ideas/After Locke, idealists made the advances in thought.md",
+    "Topics/MongoDB.md",
+    "Ideas/Descartes failed to explain the relation of body and mind.md"
   ]
 }

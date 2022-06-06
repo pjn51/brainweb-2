@@ -4,4 +4,5 @@
 
 After we generate abstractions from our observations, we can return to establishing concrete perspectives in new situations, since [[Concrete perspectives are combinined abstractions]]. 
 
+---
 #idea/philosophy/epistemology 

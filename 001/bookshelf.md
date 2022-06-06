@@ -33,7 +33,7 @@ TABLE author AS Author
 FROM "Literature & Reference" 
 WHERE file.name != "001 - start"
 WHERE genre = "political"
-SORT file.name
+SORT author
 ```
 
 # STEM works

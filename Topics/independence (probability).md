@@ -1,9 +1,8 @@
-# Independence
-`LINKS:` [[probability]]
-`TAGS:`
-
 ---
-
+aliases: [independence, independent]
+---
+# Independence (probability)
+---
 When events are independent of one another, the [[probability]] of both happening can be found through multiplication of the individual probabilities. 
 
 #### Example 1
@@ -27,3 +26,9 @@ This is saying that the probability of A and B happening is equal to the probabi
 #### Example 3
 If a bag has 5 red balls, 3 blue, and 4 green, and we take 2 without replacement, what’s the probability that the first will be green and the second will be blue?
 A: P(B and G) = P(blue | green) * P(G). Therefore, P(B and G) = 3/11*4/12. \
+
+```dataview
+LIST FROM [[independence (probability)]]
+AND "Ideas"
+AND -outgoing([[independence (probability)]])
+```

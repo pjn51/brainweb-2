@@ -188,7 +188,7 @@ Methods for Valuing Ecosystem Goods and Services
       * A place is as valuable as the money you spent to get there and use the space
       * Usually done to value recreational space like parks
    * Hedonic pricing
-      * Putting a value on a view, sometimes through real estate prices
+      * Putting a value on a view, sometimes through [[real estate]] prices
 * Embodied Energy approach
    * Just look at all the energy that it took to create something in order to value it and use the $ equivalent to determine the total value
    * There are lots of different kinds of energy, including knowledge (the energy flowing between synapses)

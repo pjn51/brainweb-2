@@ -7,7 +7,7 @@ aliases:
 
 
 
-# Unsorted ideas
+
 ```dataview
 LIST 
 FROM [[{{title}}]]

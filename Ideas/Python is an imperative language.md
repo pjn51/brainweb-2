@@ -1,7 +1,6 @@
 ---
-
-sr-due: 2022-05-29
-sr-interval: 3
+sr-due: 2022-06-21
+sr-interval: 16
 sr-ease: 250
 ---
 # Python is an imperative language. 

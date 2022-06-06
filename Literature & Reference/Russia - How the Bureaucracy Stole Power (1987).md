@@ -5,7 +5,6 @@ genre: political
 format: article
 ---
 # Russia: How the Bureaucracy Stole Power
-
 ---
 ```ad-info
 This is a republished pamphlet from 1987, by someone in the [[CWI]]. It gives the [[trotskyism|Trotskyist]] perspective on the legacy of the USSR.

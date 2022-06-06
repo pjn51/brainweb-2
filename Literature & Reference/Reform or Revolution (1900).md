@@ -1,6 +1,6 @@
 ---
 author: Luxemburg
-genre: 
+genre: political
 ---
 # Reform or Revolution (1900)
 `SOURCE:` [[The Revolutionary Philosophy of Marxism (2018)]]

@@ -5,7 +5,7 @@
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-everforest-dark",
+  "darkScheme": "minimal-dracula-dark",
   "uiFont": "Avenir",
   "textFont": "Avenir",
   "editorFont": "Avenir",

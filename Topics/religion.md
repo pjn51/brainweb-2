@@ -18,7 +18,7 @@ It also finds room to grow due to the pain caused by [[alienation]]. In the syst
 The Marxist perspective on religion is widely misinterpreted to say that Marxists are anti-religion. Instead, the Marxist position is that religion is made necessary by the suffering of humanity under [[capitalism]], and that in a classless society, organized religion would largely be obsolete. This does *not* say that it is the duty of Marxists to destroy religion. In fact, some revolutionary movements have relied on the religious feelings of the masses. 
 
 # Further reading
-See [[idealism and religion]]. 
+See [[Idealism and religion are intertwined]]. 
 
 ```dataview
 LIST FROM [[religion]]

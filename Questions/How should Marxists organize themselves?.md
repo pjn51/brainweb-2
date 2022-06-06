@@ -5,7 +5,7 @@ Marxists organize themselves in [[cadre]] organizations, and should seek to avoi
 # [[What is a cadre?]]
 # [[What makes an organization sectarian?]]
 
-[[Lenin argued for revolutionary professionalism]]
+[[Lenin argued for revolutionary professionalism]]. 
 
 [[Lenin]] argues that professionalized agitation is essential so that the Marxists can win the leadership of the masses when the time comes ([[What is to be Done (1902)]], p 181). The method that Lenin and others expound is [[democratic centralism]]. 
 

@@ -3,7 +3,6 @@ aliases: [USSR, Soviet Union, Soviet, Russian, Russians]
 ---
 # Russia 🇷🇺
 ---
-
 ## 1905
 Up to 1905, the Russian workers movement had a lot of internal turmoil. There had been a largely [[Anarchism|anarchist]] movement called [[Narodniks]] who had failed to make a dent in the Tsar's state. 
 

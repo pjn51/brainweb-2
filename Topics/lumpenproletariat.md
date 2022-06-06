@@ -1,11 +1,11 @@
-# The Lumpenproletariat
-`TAGS:`
-
 ---
-# Introduction
+aliases: [lumpen, lumpens, lumpenproletarians]
+---
+# The Lumpenproletariat
+---
 The lumpenproletariat, according to [[Marxism]], is a class in society below the [[proletariat]] and [[peasantry]]. [[Marx]] called them the passively rotting scum of capitalist society. They play no real role in production, and modern examples of lumpen elements would be the prison population, the homeless, and criminals. 
 
-# Revolutionary potential?
+[[Some see potential in the lumpen]]. 
 Some theorists, such as [[Huey P. Newton]] see the lumpenproletariat as a possibly revolutionary class, but Marxism disagrees since they don't wield any power over capitalist production. 
 
 Marxists choose to organize the working class not only because of the oppression that the workers face, but the fact that they have enough leverage to bring about a social revolution. 

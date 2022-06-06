@@ -1,5 +1,5 @@
 ---
-aliases: [sql window function, window function, windown functions, ]
+aliases: [sql window function, window function, windown functions]
 ---
 # SQL Window Functions
 ---

@@ -1,3 +1,7 @@
+---
+author:
+genre: STEM
+---
 # OpenAI: Spinning Up as a RL Researcher
 `LINKS:` [[OpenAI]] | [Source](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 `TAGS:`  #wip 

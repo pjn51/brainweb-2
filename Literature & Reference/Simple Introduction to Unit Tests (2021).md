@@ -1,7 +1,6 @@
 ---
 author: Metis
-rating: WIP 
-genre: tech
+genre: STEM
 format: article
 ---
 # Simple Introduction to Unit Tests (2021)

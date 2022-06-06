@@ -34,6 +34,6 @@
 	- Transition to UX
 	- Microsoft contract
 	- Resi job (became rich at 24) = 97k
-- Real estate empire
+- [[real estate]] empire
 
 ---

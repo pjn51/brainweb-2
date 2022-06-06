@@ -1,7 +1,8 @@
 ---
 
 ---
-*Vectors are collections of scalars.* In [[linear algebra]], we use vectors as combinations of scalars ([[Scalars are single real numbers]]). 
+# Vectors are collections of scalars.
+In [[linear algebra]], we use vectors as combinations of scalars ([[Scalars are single real numbers]]). 
 
 [[Vectors are used in multiple fields]], from computer science to physics and elsewhere.
 

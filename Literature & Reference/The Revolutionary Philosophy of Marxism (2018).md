@@ -26,7 +26,7 @@ genre: political
 4. Materialism versus idealism
 	1. [[England and Materialist Philosophy ()]]
 	2. Excerpts from [[The German Ideology ()]]
-	3. Excerpts from [[Materialism and Empiriocriticism ()]]
+	3. Excerpts from [[Materialism and Empiriocriticism (1909)]]
 5. The class struggle, party building, and the socialist transition
 	1. Excerpts from [[Reform or Revolution (1900)]]
 	2. Excerpts from [[History of the Russian Revolution to Brest-Litovsk (1918)]]

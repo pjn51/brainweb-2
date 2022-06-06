@@ -12,7 +12,7 @@ She is a mix of type three and six in the [[What is the Enneagram?]] system.
 
 Eylen's [[What are love languages?|love language]] is mainly *receiving gifts* and *acts of service.*
 
-Her ring size is 4.5
+Her ring size is 4.5. She said she would be open to a synthetic diamond, but doesn't like square ones. 
 
 ## Things I love about Eylen
 - She is very driven and has goals she wants to achieve

@@ -26,7 +26,7 @@
 - The website has over 4 million visitors per year at this point and needs more resources. 
 - The US gives an outsized contribution relative to our membership numbers. 
 - We plan to increase our contribution to the international work to 20% of funds this year. This is a 45% increase from last year. This amounts to $20 per month per member. 
-- The International Center plans to purchase an office in London, so this money is sorely needed. The real estate market there is pretty expensive. 
+- The International Center plans to purchase an office in London, so this money is sorely needed. The [[real estate]] market there is pretty expensive. 
 
 ## Todo
 - Research methods to organize cash.

@@ -1,5 +1,5 @@
-*Plato was an idealist.* When it came to metaphysics, [[Plato]] believed in [[idealism]]. 
+# Plato was an idealist.
+[[Plato]] thought that natural phenomena were reflections of universal archetypes, a standard position of [[idealism]]. This is why [[Woods views Platonic philosophy as a regression]] from the earlier ideas of [[Aristotle]]. 
 
-This is why [[Woods views Platonic philosophy as a regression]] from the earlier ideas of [[Aristotle]]. 
-
-#idea/philosophy 
+---
+#idea/philosophy/ontology 
