@@ -7,7 +7,7 @@ aliases: [Azerbaijani, Azerbaijanis]
 Azerbaijan is a country in Central Asia. 
 
 
-# Unsorted ideas
+
 ```dataview
 LIST 
 FROM [[Azerbaijan]]

@@ -1,8 +1,7 @@
 ---
-aliases: [Stalinist, Stalinists]
+aliases: [Stalinist, Stalinists, Marxist-Leninism, Marxist-Leninist, Marxist-Leninists]
 ---
-# Stalinism / Marxism-Leninism
-`LINKS:` 
+# Stalinism
 `TAGS:` #hub
 
 ---
@@ -23,5 +22,7 @@ However, there still seems to be some momentum in ML ideas. This is probably due
 ```dataview
 LIST 
 FROM [[Stalinism]]
+AND "Ideas"
+AND -outgoing([[Stalinism]])
 WHERE file.name != "home"
 ```

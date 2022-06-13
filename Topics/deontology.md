@@ -9,5 +9,11 @@ I think that [[Deontology is anti-dialectical]]. [[Morality is historically cont
 
 [[Kantian ethics are deontological]]. 
 
+```dataview
+list from "Ideas"
+and [[deontology]]
+and -outgoing([[deontology]])
+```
+
 ---
 [1]: https://en.wikipedia.org/wiki/Deontology

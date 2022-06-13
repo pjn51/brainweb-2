@@ -9,7 +9,7 @@ Bonapartism is a situation in which society is in crisis. This causes the [[stat
 
 For example, the state may harshly punish the more despised capitalists and give concessions to the workers more freely, but will also seek to break the organizations of the working class or try and dissolve them into the official state apparatus. [[China]] has elements of this in the behavior of their Communist Party. 
 
-What the Nazis had in Germany was similar to this. Hitler relied on the [[bourgeoisie]] to gain power, but also nationalized whole industries without compensation sometimes. This is why we say that [[fascism]] is a form of Bonapartism.
+What the Nazis had in Germany was similar to this. Hitler relied on the [[bourgeoisie]] to gain power, but also [[economic planning|nationalized]] whole industries without compensation sometimes. This is why we say that [[fascism]] is a form of Bonapartism.
 
 > "Named after the regime of Napoleon, bonapartism is a form of bourgeois government in crisis. It implies political veering between classes, but is fundamentally based on bourgeois property relations. Proletarian Bonapartism is based instead on state ownership of property." 
 > \- [[Russia - How the Bureaucracy Stole Power (1987)]]

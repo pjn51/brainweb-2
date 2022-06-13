@@ -1,6 +1,4 @@
 # Line
-`LINKS`: [[art]]
-
 ---
 # Introduction
 The attributes of a line have many factors. Lines can be thin or thick, and textured / non-textured. 

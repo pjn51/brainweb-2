@@ -45,7 +45,7 @@ However, Grant says we ought not to make a fetish out of entryism. He says that 
 
 After the war, Grant says that reformism and stalinism were strengthened by a whole range of factors. He says that this was reflected in the Labour victory in the UK in 1945.
 
-Grant analyzes that this new Labour government had little in common with the last crisis-ridden one. He says that the ruling class had lost confidence in British industry, and had been devastated by the war. Because of this, Grant tells us, the capitalists were unable to mount a defense against efforts to nationalize under-performing British industries. He says this is also why the British colonies were ceded to their national bourgeoisie. 
+Grant analyzes that this new Labour government had little in common with the last crisis-ridden one. He says that the ruling class had lost confidence in British industry, and had been devastated by the war. Because of this, Grant tells us, the capitalists were unable to mount a defense against efforts to [[economic planning|nationalize]] under-performing British industries. He says this is also why the British colonies were ceded to their national bourgeoisie. 
 
 Grant argues that the Labour government was able to implement concessions to the workers due to the rapid influx of [[capital]] after the war, leading to a rise in profits for business. He notes that some of this was due to the [[USA]] underwriting the Labour government through the Marshall Plan. 
 

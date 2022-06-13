@@ -52,7 +52,7 @@ As this happened, the more radical elements of the revolutionary leadership took
 
 The lowering of rents, tarrifs, and utility bills showed the masses that the revolutionary government, now led by [[Castro]], was on their side. Armed militias of workers and peasants began to form in order to defend these gains from the counter-revolution, which now counted sections of the former military among its ranks. 
 
-The revolution aquired an increasingly radical character as a series of strikes and counter-strikes, provocations, and battles occured between the forces of revolution and counter-revolution. In 1960, Cuba nationalized all foreign companies and banks, as Fidel declared the socialist character of the revolution. By 1961, capitalism had been effectively snuffed out. 
+The revolution aquired an increasingly radical character as a series of strikes and counter-strikes, provocations, and battles occured between the forces of revolution and counter-revolution. In 1960, Cuba [[economic planning|nationalized]] all foreign companies and banks, as Fidel declared the socialist character of the revolution. By 1961, capitalism had been effectively snuffed out. 
 
 Then came the Bay of Pigs invasion in 61. 
 
@@ -85,7 +85,7 @@ The human cost of this was astronomical. There were blackouts, lack of food, lac
 Thanks to the Cuban Communist Party, which actually resisted capitalist restoration (in stark contrast to the USSR's ruling party), the spirit of struggle was reborn in Cuba. Despite the hardships, the Cuban people defended their gains and refused to return to capitalism. 
 
 ## The Cuban Economy in the World Market
-At the same time, concessions to capitalism were made. They couldn't be avoided, but became contradictions within Cuba, and threats to the planned economy. 
+At the same time, concessions to capitalism were made. They couldn't be avoided, but became contradictions within Cuba, and threats to the [[economic planning|planned economy]]. 
 
 Foreign investment was allowed, tourism was promoted, small peasant cooperatives were set up. A small [[petty bourgeoisie]] was allowed to develop. 
 

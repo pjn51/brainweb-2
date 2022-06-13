@@ -16,7 +16,7 @@ format: article
 The author begins by saying that September 4th, 2020 marks the 50th anniversary of the Popular Unity government assuming power in [[Chile]]. They were headed by Salvador [[Allende]]. He says that in 2020, the date will be marked by celebrations in a country shaken by the largest insurrectionary revolts in the post-Pinochet era. 
 
 ## Radical reforms
-The author begins by walking us through some of the demands of Allende's party. He says that the party program contained radical measures, such as the nationalization of many key industries, and deep agrarian reform moving the agricultural sector towards cooperative organization. 
+The author begins by walking us through some of the demands of Allende's party. He says that the party program contained radical measures, such as the [[economic planning|nationalization]] of many key industries, and deep agrarian reform moving the agricultural sector towards cooperative organization. 
 
 Internationally, the author notes that the Popular Unity government stood in solidarity with [[Cuba]] and favored the construction of Latin American socialism.
 

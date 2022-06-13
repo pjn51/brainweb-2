@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-06-03
-sr-interval: 25
+sr-due: 2022-08-11
+sr-interval: 66
 sr-ease: 250
 ---
 # Economic base and social superstructure have a dialectical relationship.

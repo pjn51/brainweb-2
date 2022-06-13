@@ -5,7 +5,7 @@
 
 Because [[Socialism requires a high economic basis]], and the USSR was unable to create this basis during its formation, a bureaucratic clique ([[Was the Soviet bureaucracy a class?]]) was able to seize power. This was somewhat inevitable, since [[Social disengagement breeds bureaucratism]]. 
 
-I think that [[The USSR wasn't bureaucratic collectivist]], and [[The USSR wasn't state capitalist]]. These theories fail to accept the progressive edge of the USSR's planned economy and state ownership.
+I think that [[The USSR wasn't bureaucratic collectivist]], and [[The USSR wasn't state capitalist]]. These theories fail to accept the progressive edge of the USSR's [[economic planning|planned economy]] and state ownership.
 
 ---
 #question/politics 

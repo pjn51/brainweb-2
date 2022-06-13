@@ -6,5 +6,4 @@ died: 1997
 `TAGS`: #people 
 
 ---
-# Introduction
 Deng Xiaoping was the paramount leader of [[China]] from just after the death of [[Mao]] in 1976 until 1989. Under his direction, China embraced a series of market reforms. 

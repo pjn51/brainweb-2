@@ -1,7 +1,7 @@
 # Possible Reductions to Global Carbon Emissions
 ---
 ## Introduction
-After reading [[Desert (2011)]], I feel compelled to investigate possible ways to reduce carbon emissions in a globally planned economy in order to fight [[climate change]].
+After reading [[Desert (2011)]], I feel compelled to investigate possible ways to reduce carbon emissions in a globally [[economic planning|planned economy]] in order to fight [[climate change]].
 
 ## Goals
 According to [this source](https://climatecommunication.org/wp-content/uploads/2011/08/presidentialaction.pdf) we need to reduce global CO2 emissions by roughly 60% by 2050. 

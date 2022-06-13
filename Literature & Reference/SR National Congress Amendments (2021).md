@@ -123,7 +123,7 @@ The CC recommends rejecting this proposal, and says that they disagree that we m
 > To me, this seems reasonable, but maybe that's because I'm not totally seeing the inevitability of crisis. We should seek to make our message as sober and reasonable as possible, but on the other hand we shouldn't water it down at all, and this proposal seems to water it down. 
 
 ## USP10
-The CNJ branch proposes clarifying that it was not only the increased demand for products during [[WW2]] which ended the Great Depression, but also the direct economic planning that the state undertook. They say that this sets us apart from the proponents of [[Keynesianism]]. 
+The CNJ branch proposes clarifying that it was not only the increased demand for products during [[WW2]] which ended the Great Depression, but also the direct [[economic planning]] that the state undertook. They say that this sets us apart from the proponents of [[Keynesianism]]. 
 
 The CC amends this proposal to make it flow more with the overall text while keeping the main message. 
 

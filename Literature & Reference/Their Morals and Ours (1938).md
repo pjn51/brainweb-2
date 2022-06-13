@@ -29,7 +29,7 @@ Turning back to the question of ends justifying means, Trotksy explains that tha
 In the author's view, the ruling class of every epoch forces *its* ends onto society, and uses official morality to defend and justify these ends, classifying all means which contradict these ends as immoral (loc 114). 
 
 # "Moral precepts obligatory upon all"
-Trotsky proclaims that anyone who wants to move beyond religion and superstition must accelt that morality is a product of historical development, and that it serves social interests. In a society with contradictory interests, he continues, morality must be contradictory based on the class character of that morality (loc 114). 
+Trotsky proclaims that anyone who wants to move beyond religion and superstition must accept that morality is a product of historical development, and that it serves social interests. In a society with contradictory interests, he continues, morality must be contradictory based on the class character of that morality (loc 114). 
 
 He gives an example, that of war - in normal times, he says, a murderer is punished, but in wartime, murder is rewarded and is even obligatory (loc 132). 
 

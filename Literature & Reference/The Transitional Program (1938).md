@@ -87,7 +87,7 @@ Exposing this information would allow the workers to see how much the capitalist
 ## Expropriation of Separate Groups of Capitalists
 During the lead up to a revolution, Trotsky says that we shouldn't let the program of expropriating the whole capitalist class stop us from expropriating one or two of the most parasitic capitalists if given the chance. 
 
-This is totally separate from the question of nationalization. [[state]] carries out nationalization, while we advocate the working class itself carrying out an expropriation of the capitalists. This gives the workers a better sense of their own strength, and prepares them for further advances on the field of battle. 
+This is totally separate from the question of [[economic planning|nationalization]]. [[state]] carries out nationalization, while we advocate the working class itself carrying out an expropriation of the capitalists. This gives the workers a better sense of their own strength, and prepares them for further advances on the field of battle. 
 
 We may have to approach the expropriation of each industrial sector at a different time, because the workers may have more or less willpower in one field over another. Only a general revolutionary upsurge can pave the way for a total, final expropriation. 
 

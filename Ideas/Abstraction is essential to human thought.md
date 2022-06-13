@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-06-04
-sr-interval: 26
+sr-due: 2022-08-13
+sr-interval: 68
 sr-ease: 250
 ---
 # Abstraction is essential to human thought.

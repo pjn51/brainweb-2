@@ -19,3 +19,9 @@ This tends to alienate the [[petty bourgeoisie]], since [[The petty bourgeoisie 
 
 # Accountability
 [[Democratic centralism establishes two-way accountability]]. In this way, it has an advantage over horizontalism, since [[Horizontalism lacks accountability]]. 
+
+```dataview
+LIST FROM "Ideas"
+AND [[democratic centralism]]
+AND -outgoing([[democratic centralism]])
+```

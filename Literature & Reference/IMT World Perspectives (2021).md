@@ -25,7 +25,7 @@ The EC outlines how global crisis in [[capitalism]] is spreading in waves across
 The EC highlights the role of [[COVID-19]] in this crisis.
 
 ## 1.4. Capitalism cannot solve the problem
-The EC ties COVID-19 with the environmental destruction caused by capitalist expansion, and say that this shows the need for a planned economy. They lambast the bosses for hypocritically calling for unity against the virus while they pocket all the profit and take no risk.
+The EC ties COVID-19 with the environmental destruction caused by capitalist expansion, and say that this shows the need for a [[economic planning|planned economy]]. They lambast the bosses for hypocritically calling for unity against the virus while they pocket all the profit and take no risk.
 
 ## 1.5. Workers' lives at risk
 The EC calls attention to the mangled vaccine rollout, saying that workers are being forced back into unsafe situations for the profits of the bosses.

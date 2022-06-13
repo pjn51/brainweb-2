@@ -27,7 +27,7 @@ These two kinds of information can circulate in what is known as a *control loop
 # In economics
 Project Cybersyn attempted to theorize a cybernetically controlled economy in the 1970s. 
 
-Various Soviet economists were involved in trying to implement principles of cybernetics and computer assisted economic planning in the [[Russia|USSR]] in the 60s, but by the time that computers made these efforts viable in the 80s, the USSR was moving towards market reform. 
+Various Soviet economists were involved in trying to implement principles of cybernetics and computer assisted [[economic planning]] in the [[Russia|USSR]] in the 60s, but by the time that computers made these efforts viable in the 80s, the USSR was moving towards market reform. 
 
 Paul Cockshott and Allin Cottrell proposed a cybernetic-assisted [[socialism]] in their essay *Towards a New Socialism* in 1995. 
 

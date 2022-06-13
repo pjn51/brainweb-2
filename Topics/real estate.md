@@ -1,6 +1,6 @@
 ---
 origin: 2022-06-05
-aliases: 
+aliases: [property]
 ---
 # Real Estate 🏡
 ---

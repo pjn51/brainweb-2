@@ -77,7 +77,7 @@ However, Woods remarks that the bourgeoisie weren't home free yet. He says they 
 
 Woods calls attention to the skillful work of the PRI (The Revolutionary Institutional Party) which he says was the political instrument of the bourgeoisie. He comments that the PRI had a left wing which was used to lean on the workers and peasants to serve the interests of the Mexican national bourgeoise. In this way, Woods argues, the PRI was able to maintain stability for generations.
 
-It was a representative of this left wing, Woods remarks, that invited [[Trotsky]] to stay in Mexico after his exile from the USSR. This man, Cardenas, Woods argues, was a genuine revolutionary democrat who nationalized the oil industry in 1938. 
+It was a representative of this left wing, Woods remarks, that invited [[Trotsky]] to stay in Mexico after his exile from the USSR. This man, Cardenas, Woods argues, was a genuine revolutionary democrat who [[economic planning|nationalized]] the oil industry in 1938. 
 
 Woods explains that Cardenas, who was a bourgeois revolutionary through and through, still went quite far in his struggle against [[imperialism]], which earned him Trotsky's praise. Woods says that it was this anti-imperialist struggle that earned the PRI the support from the working class that it enjoyed up until quite recently, when a new period in Mexican history opened. 
 

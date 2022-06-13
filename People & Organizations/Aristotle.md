@@ -6,10 +6,12 @@ died:
 `TAGS:` #people 
 
 ---
-# Introduction
-Aristotle was a famous philosopher. 
+Aristotle was a famous [[philosophy|philosopher]]. 
 
-# Life
-...
-# Ideas
-...
+[[Aristotle put forward three basic laws of logic]], and [[Aristotle criticized idealism]]. However, he wasn't really a full [[materialism|materialist]], and this is why [[Woods criticizes Aristotle's ideas]]. 
+
+```dataview
+LIST FROM "Ideas"
+AND [[Aristotle]]
+AND -outgoing([[Aristotle]])
+```

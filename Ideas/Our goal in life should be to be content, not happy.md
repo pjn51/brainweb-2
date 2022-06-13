@@ -1,7 +1,6 @@
 ---
-
-sr-due: 2022-06-02
-sr-interval: 24
+sr-due: 2022-08-10
+sr-interval: 65
 sr-ease: 250
 ---
 # Our goal in life should be to be content, not happy.

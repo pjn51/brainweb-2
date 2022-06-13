@@ -2,7 +2,7 @@
 
 ---
 # The USSR lacked inflation, homelessness, and debt. 
-The [[Russia|Soviet]] planned economy was able to produce staggering growth ([[Soviet economic growth was unprecedented]]) without any [[inflation]], systemic homelessness, or national debt. 
+The [[Russia|Soviet]] [[economic planning|planned economy]] was able to produce staggering growth ([[Soviet economic growth was unprecedented]]) without any [[inflation]], systemic homelessness, or national debt. 
 
 This is a way in which [[Planned economies outperform market systems]]. 
 

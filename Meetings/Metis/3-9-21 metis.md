@@ -11,7 +11,7 @@ One question is if the data is drawn from a representative [[sample and populati
 ## [[deep learning]] test review
 Here are all the questions I got wrong, along with the correct answers. 
 
->   Suppose you are planning to train a standard convolutional neural network model on a dataset of 60,000 RGB color images with 50x50 pixel dimension. Which of the following feature input array shapes would be CORRECT for training this network in keras?
+>   Suppose you are planning to train a standard [[convolutional neural network]] model on a dataset of 60,000 RGB color images with 50x50 pixel dimension. Which of the following feature input array shapes would be CORRECT for training this network in keras?
 
 The correct answer is 60,000 by 50 by 50 by 3. 
 

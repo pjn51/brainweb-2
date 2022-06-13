@@ -9,11 +9,10 @@ with:
 #meeting
 
 ---
-- 
+
 
 
 
 
 
 # 🗓 Next meeting
-%% create a note for the next meeting, if applicable%%

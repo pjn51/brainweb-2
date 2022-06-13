@@ -20,7 +20,7 @@ The author also says that Cliff's effort to draw a dividing line between pre and
 Grant argues that Cliff has warped [[Trotsky]]'s quotes and taken him out of context, replying with a quote by Trotsky that clearly shows that [[Trotsky always defended the USSR as a workers' state]]. 
 
 # Can there be a struggle between two sections of the same class? French revolution - Russian revolution
-Grant explains that we can use the French Revolution and the Napoleonic counter-revolution as an example here, where the counter revolution still proceeded on the basis of a new form of production, [[capitalism]]. Despite its reactionary character, Grant says, Stalin (like Napoleon), was compelled to proceed on the basis of a new productive system, the planned economy with the workers as ruling class. 
+Grant explains that we can use the French Revolution and the Napoleonic counter-revolution as an example here, where the counter revolution still proceeded on the basis of a new form of production, [[capitalism]]. Despite its reactionary character, Grant says, Stalin (like Napoleon), was compelled to proceed on the basis of a new productive system, the [[economic planning|planned economy]] with the workers as ruling class. 
 
 Continuing, Grant says that the bureaucracy was compelled to defend nationalized production and seek the aid of the [[proletariat]] in its struggle to survive, indicating that the latter were the ruling class still. 
 
@@ -55,7 +55,7 @@ He highlights that [[Workers' states are contradictory]] - containing elements o
 >[!Note]
 >Here I begin to use my print format for note taking.
 
-Grant cites [[Lenin]], who argued that [[Capitalism contains the seeds of socialist development]] in the movement towards centralization of production. He continues, saying that this is an indication of the ripeness of capitalism for revolution, and explains that the nationalization undertaken by a capitalist state doesn't qualify as socialism or a transition towards it, it is the beginning of a process which ends when [[Quantity transforms into quality]] and a revolution marks the final departure from capitalist property relations (19, 20). 
+Grant cites [[Lenin]], who argued that [[Capitalism contains the seeds of socialist development]] in the movement towards centralization of production. He continues, saying that this is an indication of the ripeness of capitalism for revolution, and explains that the [[economic planning|nationalization]] undertaken by a capitalist state doesn't qualify as socialism or a transition towards it, it is the beginning of a process which ends when [[Quantity transforms into quality]] and a revolution marks the final departure from capitalist property relations (19, 20). 
 
 Grant says that society cannot step from capitalism to socialism overnight, or as he calls it, "from the realm of necessity to the realm of freedom." Instead, he says, there is a period where society has consciously recognized the economic laws, but is not yet strong enough to supercede those laws. He says this is an example of [[The dialectic of freedom and necessity]] and cites [[Hegel]] on the matter (20, 21). This is a really interesting concept to me - that there is a period in social development where we understand the laws that bind us, but must follow them regardless. It makes a lot of sense. 
 

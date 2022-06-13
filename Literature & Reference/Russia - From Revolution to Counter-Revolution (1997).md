@@ -63,7 +63,7 @@ Grant defends the massive advances resulting from the October revolution, and un
 
 He continues, noting the massive advantages the planned economy brought in the fields of education, heavy industry, resource extraction, and more. He argues that these advances would have been higher if there was a regime of true workers' democracy instead of the bureaucratic mis-management that plagued the system. 
 
-Grant argues that as centralized economic planning replaced capitalism, blind market forces were replaced by conscious planning. However, he says, this planning required the involvement of the whole population to be carried out effectively, and the bureaucratic clique in Moscow were more and more unable to do it themselves. He attributes the shuddering halt of economic progress in the 70s to this phenomenon. 
+Grant argues that as centralized [[economic planning]] replaced capitalism, blind market forces were replaced by conscious planning. However, he says, this planning required the involvement of the whole population to be carried out effectively, and the bureaucratic clique in Moscow were more and more unable to do it themselves. He attributes the shuddering halt of economic progress in the 70s to this phenomenon. 
 
 ## Was the October Revolution a coup?
 Grant attacks the "conspiratorial view of history" that calls the Bolshevik seizure of power a coup. He says that this is impossible, given the fact that the masses were thinking more clearly and were more active in society than at any point in Russia's history. 
@@ -257,9 +257,44 @@ Grant explains that the victory of the peasantry in the Chinese revolution displ
 He argues that such a process was only possible due to the impasse of Chinese capitalism, the decay of the national bourgeoisie, and the paralysis of world imperialism at the time. Despite the major steps forward, he argues, a second political revolution would be needed in order to place political power in the workers' hands (214).
 
 ## From Stalin to Khrushchev
-Discussing the tail-end of Stalin's administration, Grant says that despite low living standards, there was an optimistic attitude that was reflected in the birth rate and other factors. He explains how the USSR was able to rebuild from the devastation of WW2 in only five years (218).
+Discussing the tail-end of Stalin's administration, Grant says that despite low living standards, there was an optimistic attitude that was reflected in the birth rate and other factors. He explains how the USSR was able to rebuild from the devastation of WW2 in only five years (218). 
 
-Despite the general economic growth, Grant says, the gap between the average worker and the higher paid bureaucrats only widened. By this time, he says (quoting Medvedev), the ratio was somewhere around 1:50 or 1:100 if you included the free services available to bureaucrats (219).
+Despite the general economic growth, Grant says, the gap between the average worker and the higher paid bureaucrats only widened. By this time, he says (quoting Medvedev), the ratio was somewhere around 1:50 or 1:100 if you included the free services available to bureaucrats (219). 
 
 ## Stalin's last purge
 Grant explains that on the eve of a new purge that threatened to target Stalin's inner circle, driven by the latter's paranoia, he suddenly died. Grant implies he was murdered to prevent such an affair, and says that his death provoked a struggle within the bureaucracy that the reformers eventually won. The author explains that these reformers, [[Khrushchev]] among them, wanted to alleviate the pressure in Soviet society without allowing a revolutionary explosion (222).
+
+## Soviet imperialism?
+Grant argues that the USSR never had an imperialistic relationship with eastern Europe, Cuba, or the other countries under its influence. He says that we can see this through the subsidies that were given to the latter countries, whereas imperial countries extract wealth from their colonies (224). 
+
+## The Hungarian revolution
+Grant explains that in 1953, workers in eastern Europe began rising up against the bureaucracy, which was often identified with Tsarist rule and thus even more hated than by the Russian workers. He describes the uprisings in [[Germany|East Germany]] which were put down by Soviet tanks, another uprising in [[Poland]] that was co-opted by enterprising Polish bureaucrats in the CP, leading to concessions from Moscow, and finally the Hungarian Revolution (226). 
+
+Describing [[Hungary's 1956 revolution]], Grant says that these workers were committed to socialism, and were unfairly painted as fascists by the Moscow bureaucracy. The Hungarian workers, he continues, elected revolutionary councils and fraternized with local troops, necessitiating the import of Soviet troops from the far east (227).
+
+Grant draws a few lessons from this ultimately failed uprising. The vast majority of bureaucrats and party members, he says, tore up their membership cards and joined the workers. He quotes a statement from the leaders of the revolt:
+
+> Today... the delages from the District Workers' Councils formed the Central Workers' Council of Greater Budapest... We declare our unshaken loyalty to the principles of socialism. We regard the means of production as collective property, which we are at all times ready to defend. 
+
+Grant argues that the workers learned fast, soon abandoning their efforts to call on UN intervention and turning to an appeal to the international working class (228). 
+
+However, he continues, this is also a brutal lesson that without a revolutionary party, every generation must start from scratch. This is the main cause he blames for the defeat of the Hungarian workers (229). 
+
+Turning towards an examination of Russian workers' uprisings, Grant notes the words of Tocqueville, who said that the most dangerous moment for a repressive regime is when they attempt to loosen the screws after a period of oppression (230). 
+
+## The Novocherkassk uprising
+Workers in this south Russian city went on strike, Grant recounts, after wages were cut and meat prices were increased by 30% each. The strikers, he continues, assembled in the town square and easily overwhelmed the local police and soldiers, who were sympathetic to their cause. Grant explains how even troops that were brought in to crush the occupation of [[CPSU]] offices were reluctant to intervene. Finally, Grant says, the troops were ordered to fire on the unarmed crowd, and the officer who was to give the order refused, shooting himself in front of the battle lines. Nevertheless, he continues, the soldiers did open fire, killing a large but unknown amount of workers. Grant says that we can see how worried the bureaucrats were about this pattern repeating due to how heavily news of this uprising was supressed. The local radio station, he recounts, didn't even report on the event once (232). 
+
+# 6. The period of stagnation
+## The fall of Khrushchev
+Grant explains that the party blamed this wave of uprisings on the reforms that were being made, and replaced the premier with [[Brezhnev]], who reversed many of the reforms. Without any debate or voting, he says, this decision was made behind closed doors with no explanation (235). 
+
+Grant says that Brezhnev re-oriented the USSR towards global trade, a move that Lenin and Trotsky predicted and supported in their own time. He says that participation in the world market could have given the Soviets breathing room and checked the excesses of the bureaucracy through more realistic price mechanisms (236). 
+
+The author says that a unified federation of the USSR, eastern Europe, and China could have dominated the global economy, but they were held back by narrow concerns of national interest, especially between the Soviet and Chinese bureaucrats (238). 
+
+## The Soviet Union lags behind
+Grant notes the decline of Soviet growth towards a rate of 8.5% in the 1960s, far down from the growth that the USSR had seen earlier. Grant blames this on high arms spending (11-13% of GDP), and bureaucratic inefficiency (239). 
+
+## Technological advance
+...

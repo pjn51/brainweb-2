@@ -10,8 +10,13 @@
 
 The IMT, or the International Marxist Tendency, is a [[Trotskyism|Trotskyist]], [[democratic centralism|democratic centralist]] organization, with sections in 50+ countries. Global membership stands at over 4,400 as of Jan 2022. 
 
-The US section of the IMT is called Socialist Revolution, and has 444 members in 30+ cities (as of April 2022). The IMT supports building a [[workers' party]], and [[The IMT considers itself a tendency rather than a party]]. See the [[Positions of the IMT]] on various issues. When I joined the IMT in March 2020, there were ~220 members. 
+The [[USA|American]] section of the IMT is called Socialist Revolution, and has 450 members in 30+ cities (as of June 2022). The IMT supports building a [[workers' party]], and [[The IMT considers itself a tendency rather than a party]]. See the [[Positions of the IMT]] on various issues. When I joined the IMT in March 2020, there were ~220 members. 
 
-[[The IMT emerged from a split in Militant]] in 1991, and first US comrade joined around 2000. 
+[[The IMT emerged from a split in Militant]] in 1991, and its first US comrade (JP) joined around 2000. 
 
 As for the SEA branch, [[How can I nurture the branch?]]
+
+```dataview
+LIST FROM "Ideas"
+AND [[IMT]] AND -outgoing([[IMT]])
+```

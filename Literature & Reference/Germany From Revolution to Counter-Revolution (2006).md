@@ -162,7 +162,7 @@ However, Sewell informs us that the German troops began to fraternize with the w
 
 Meanwhile, the author describes the national congress of the workers' and soldiers' councils that was held in December 1918. He says that due to lopsided rules for delegate election, there were a lot of full-time party workers as delegates, and not so many workers. Sewell attributes the fact that the congress overwhelmingly supported the constituent assembly to this fact. 
 
-Sewell explains that while the congress had voted for the constituent assembly, it was far from a conservative affair. He highlights that the congress also demanded that the standing army be abolished, and that all key industries be nationalized. 
+Sewell explains that while the congress had voted for the constituent assembly, it was far from a conservative affair. He highlights that the congress also demanded that the standing army be abolished, and that all key industries be [[economic planning|nationalized]]. 
 
 Sewell describes the murderous mood that the rightwing SPD leaders, in alliance with the monarchists and counter-revolutionaries, were creating. He says that their goal was to rile the people up to kill the Spartacists, who they saw as the only real threat to class society. 
 

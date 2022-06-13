@@ -119,7 +119,7 @@ Turning to the proponents of [[bitcoin]], Booth argues that they fail to underst
 ## The future of money
 Turning to an analysis of money after a socialist revolution, Booth reminds us that we cannot simply abolish it overnight. He argues that we must first construct a society that precludes the *need* for currency (p.41). 
 
-He believes that once the commanding heights of the economy are controlled by the [[dictatorship of the proletariat|workers' state]], the efficiency of the planned economy will win over the small producers, who will voluntarily cede their capital to the plan in return for higher living conditions (p.42).
+He believes that once the commanding heights of the economy are controlled by the [[dictatorship of the proletariat|workers' state]], the efficiency of the [[economic planning|planned economy]] will win over the small producers, who will voluntarily cede their capital to the plan in return for higher living conditions (p.42).
 
 Within capitalism, he notes, we are already seeing the emergence of a "social wage," the value of the public services that the workers have won from the capitalist state. He argues that under socialism, this social wage will dramatically increase, and the ratio of social to individual wage will tilt towards the former as individual workers' wages will become more and more meaningless as more and more services are available for free, supported by an increase in the productivity of society (p.42). 
 

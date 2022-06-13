@@ -79,7 +79,7 @@ Woods notes that the People's Republic of China was supposedly a multi-party coa
 ## The New State
 Woods describes Mao's state as Bonapartist. This means that Mao was balancing between the classes, not relying firmly on one class or another. It was through this state, Woods says, that the expropriation of the capitalists and landlords was carried out. 
 
-Woods emphasizes that the establishment of a planned economy was a giant step forward for China, but underscores that this was not a proletarian revolution like Lenin led. He says that because of the passive role played by the working class througout this whole process, the movement towards a bureaucratic regime was predictable. 
+Woods emphasizes that the establishment of a [[economic planning|planned economy]] was a giant step forward for China, but underscores that this was not a proletarian revolution like Lenin led. He says that because of the passive role played by the working class througout this whole process, the movement towards a bureaucratic regime was predictable. 
 
 Woods gives a sketch of how the CCP used the peasantry as a battering ram to obliterate its enemies in the capitalist and landlords, but failed to substitute workers' democracy for the previous system. He counterposes this to the October Revolution, in which the peasantry played a secondary role and was led by the urban proletariat. 
 

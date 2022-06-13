@@ -246,4 +246,4 @@ With a strong basis in a scientific understanding of history, Marxists must have
 
 Once the productive forces are freed from the straitjacket of capitalism, we can expect a monumental shift in the standards of living of global society. 
 
-In a certain sense, socialism is symmetrical with the hunter-gatherer way of life, but on a vastly higher technological level. On the basis of a planned economy and democratic control of all capital, we will no longer have need for the exploitation that capitalism and the previous modes of production required. 
+In a certain sense, socialism is symmetrical with the hunter-gatherer way of life, but on a vastly higher technological level. On the basis of a [[economic planning|planned economy]] and democratic control of all capital, we will no longer have need for the exploitation that capitalism and the previous modes of production required. 

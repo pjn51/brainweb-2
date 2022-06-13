@@ -3,7 +3,7 @@ Oppression is purposefully inflamed in order to divide the working class, and se
 
 In fact, bourgeois [[feminism]] is downright un-revolutionary, since it seeks to divorce the struggle for womens' liberation from the generalized struggle for liberation. This stands as a barrier to the natural solidarity that workers have with each other ([[Workers have natural solidarity]]), and it plays into the negatives of identity politics ([[Identity politics have limited revolutionary potential]]). 
 
-We can see a glimpse of the possibilities provided by the planned economy to women's liberation in [[Russia - From Revolution to Counter-Revolution (1997)]]. 
+We can see a glimpse of the possibilities provided by the [[economic planning|planned economy]] to women's liberation in [[Russia - From Revolution to Counter-Revolution (1997)]]. 
 
 #idea/politics/oppression 
 

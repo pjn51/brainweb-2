@@ -285,7 +285,7 @@ Across all of the Russian Empire, strikes were declared and cities rose up. The 
 While the events of the revolution had moved the base of the Mensheviks far to the left, the top Mensheviks began moving back to the right almost immediatley. The RSDLP had re-combined, but there was now a serious internal division between reformist and revolutionary wings. The Mensheviks won control of most of the organization at the Fourth Party Congress because many Bolsheviks had been arrested en route to the Congress. 
 
 ## The Debate on the Land Question
-Some were in favor of dividing up the land among the peasants, while Lenin was in favor of direct nationalization. He said that while the conditions for socialism in Russia were absent, the vanguard should take up the task of attempting a socialist transformation of society, and rely on a socialist revolution in Europe to carry them to the finish line. 
+Some were in favor of dividing up the land among the peasants, while Lenin was in favor of direct [[economic planning|nationalization]]. He said that while the conditions for socialism in Russia were absent, the vanguard should take up the task of attempting a socialist transformation of society, and rely on a socialist revolution in Europe to carry them to the finish line. 
 
 ## Bolshevism and Menshevism
 The RSDLP had grown quite large, but paradoxically its influence among the masses had decreased. The revolution had brought together all the advanced workers and youth and they were now consolidated in the party. However, the masses were disengaging from politics, and settling into a mood of apathy. 
@@ -832,7 +832,7 @@ Bukharin and those like him believed that since the world was now in the epoch o
 Lenin finally decided to call a Congress of the groups of Bolsheviks spread across Europe in exile. There was argument about the war question, but they decided to agree with Lenin's position unanimously. 
 
 ## Imperialism, the Highest Stage of Capitalism
-Lenin now set out on a large project studying imperialism. He did so in response to new ideas about the automatic collapse of capitalism, coming from [[Rosa Luxemburg]], and the idea that imperialism could lead to a globally planned economy on the basis of finance [[capital]]. 
+Lenin now set out on a large project studying imperialism. He did so in response to new ideas about the automatic collapse of capitalism, coming from [[Rosa Luxemburg]], and the idea that imperialism could lead to a globally [[economic planning|planned economy]] on the basis of finance [[capital]]. 
 
 This was during a period of deep setbacks among the working class in terms of class consciousness. The most advanced workers tended to be sent to the front, and the replacements came from the more backwards layers. This expressed itself in the far fewer strikes that happened during this period. 
 

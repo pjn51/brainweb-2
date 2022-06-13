@@ -35,7 +35,7 @@ Woods notes the increasing prominence of Asia in this ranking. He says that the 
 ## The power of finance capital
 Woods argues that Lenin's assessment, of the domination of finance capital having replaced the domination of capital in general, has held true. He cites the Forbes Global list of the 2000 largest companies, of which 469 are banks and 109 are insurance companies, the most well-represented category. 
 
-Turning to the 2008 crisis, Woods says that the financial sector has grown even more powerful, having secured a record bailout to save them from their irresponsible drive for profits. He underscores that 77% of JPMorgan's net income came from government subsidies, demonstrating the ties between this sector and the [[state]]. He says this totally demolishes the lie of free competition on the market, and demonstrates that the only answer to the issues facing us today is to expropriate these criminals and run society on the basis of a socialist planned economy.
+Turning to the 2008 crisis, Woods says that the financial sector has grown even more powerful, having secured a record bailout to save them from their irresponsible drive for profits. He underscores that 77% of JPMorgan's net income came from government subsidies, demonstrating the ties between this sector and the [[state]]. He says this totally demolishes the lie of free competition on the market, and demonstrates that the only answer to the issues facing us today is to expropriate these criminals and run society on the basis of a socialist [[economic planning|planned economy]].
 
 ## Inequality
 Woods explains how bourgeois economists protested at the Marxist prediction of the polarization of society under capitalism. However, he says that these projections have undeniable evidence. He cites *Capital in the Twenty-First Century* by Pikkety as evidence. While Woods notes that Pikkety is not a Marxist, he says that Pikkety's book received fierece criticism for daring to point out the fact that the rate of return on capital tends to be higher than the growth rate, inevitably leading to growing inequality. 
@@ -103,7 +103,7 @@ He points out that this concentration easily arrives at monopoly or oligopoly, t
 
 Lenin claims that these patterns persist whether the economy is protected by high tariffs or not, although high tariffs accelerates this movement towards monopoly. 
 
-He explains that this trend towards monopoly is also a trend towards the socialization of production, noting that economic planning is done by fewer and fewer groups as firms merge and acquire one another. Because of this, he concludes that economic planning of the whole society grows simpler by the year. 
+He explains that this trend towards monopoly is also a trend towards the socialization of production, noting that [[economic planning]] is done by fewer and fewer groups as firms merge and acquire one another. Because of this, he concludes that economic planning of the whole society grows simpler by the year. 
 
 This is one thing that really blew my mind when I first read it. [[Socialism]] isn't a *total* break with the processes of capitalism, it's a continuation of the progressive trends to a higher stage, while the negative elements are abandoned.
 

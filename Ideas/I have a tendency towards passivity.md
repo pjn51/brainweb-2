@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-06-04
-sr-interval: 26
+sr-due: 2022-08-12
+sr-interval: 67
 sr-ease: 250
 ---
 # I have a tendency towards passivity.

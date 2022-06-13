@@ -1,5 +1,5 @@
 ---
-aliases: [revolutionary situation]
+aliases: [revolutionary situation, revolution, revolutionary]
 ---
 # Revolutionary Situations
 ---
@@ -8,8 +8,11 @@ aliases: [revolutionary situation]
 - 1919: [[Germany|German]] workers seize power temporarily, are misled by [[reformism|reformist]] leaders in the [[SPD]].
 - 1920s: workers in [[Italy]] seize power across the country, are told to stand down by the Italian Communist Party.
 - 1923: German workers again attempt to seize power and are defeated for the same reasons as in 1919.
+- [[China's 1927 revolution]]
 - 1936: the [[Spain|Spanish]] civil war sees the takeover of massive swaths of territory by [[communism|communist]] and [[Anarchism|Anarchist]] workers. 
+- [[China's 1949 revolution]]
 - 1963: [[France|French]] workers and students seize power, paralyzing the country, are told to stand down by the [[PCF]] in return for an electoral coalition that soon vaporizes.
+- [[Hungary's 1956 revolution]]
 - 1973: In [[Chile]], Allende is elected amidst a mass movement that has to be defeated by [[USA|American]]-backed military force.
 
 # Events during my lifetime

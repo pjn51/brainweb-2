@@ -23,7 +23,7 @@ The author explains that the rise of these Islamic movements was a shock to the 
 
 The author explains this by bringing up the crisis of Stalinism and the collapse of the USSR. He says that this led to the "total capitulation" of the national [[bourgeoisie]] in these countries. However, this doesn't totally add up since the USSR was still going pretty strong in the 1950s, and collapsed much later in 1991. 
 
-The author says that in the 50s and 60s, the national liberation struggles led by the [[petty bourgeoisie]] against [[imperialism]] inspired a section of the "middle classes" in the ex-colonial countries who demanded nationalization of some sections of the economy as a protection against imperialism. He says that these currents were seen as a movement with real solutions, and therefore had a degree of influence over the masses.
+The author says that in the 50s and 60s, the national liberation struggles led by the [[petty bourgeoisie]] against [[imperialism]] inspired a section of the "middle classes" in the ex-colonial countries who demanded [[economic planning|nationalization]] of some sections of the economy as a protection against imperialism. He says that these currents were seen as a movement with real solutions, and therefore had a degree of influence over the masses.
 
 The author turns to the late 70s and 80s, describing the changing mood of the masses in regards to the USSR. He says that as many saw the strangulation of the productive forces happening in the USSR and turned their back on that path forward. He says the mood became one of despair, and it was this despair that laid the foundation for Islamic fundamentalism.
 

@@ -15,7 +15,7 @@ In [[Venezuela]], we see the system of co-management being introduced. This is t
 ## Principles of workers’ control
 [[Trotsky]] says the first step towards workers’ control is the abolition of trade secrets. By doing this, the workers can see the real situation of the company they work for, and can see through the lies of management about the need for cuts, etc. This lifts the veil and shows the working class how much money is truly being sucked up by the capitalist class. 
 
-This increased involvement of the workers in the accounting and management of their companies will also prepare them for full takeover through nationalization of industries as a whole. 
+This increased involvement of the workers in the accounting and management of their companies will also prepare them for full takeover through [[economic planning|nationalization]] of industries as a whole. 
 
 Direct management of companies by the workers is an unstable situation. It will quickly be reined in by the capitalists, or will proceed to full-blown nationalization. 
 

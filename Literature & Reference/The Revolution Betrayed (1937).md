@@ -88,7 +88,7 @@ It’s easy to overlook the role of the cultural level of the population. Here i
 ### 1.The Transitional Regime
 Marxist theory posits that the higher stage of communism will arrive when the productive forces are at such a high level that property is no longer a useful construct and the state is no longer needed. 
 
-To say that socialism is present, three criteria must be met: economic planning, workers democracy, and very high productivity of labor. With this in mind, the USSR is certainly not a socialist country, and is in a preparatory stage before socialism. 
+To say that socialism is present, three criteria must be met: [[economic planning]], workers democracy, and very high productivity of labor. With this in mind, the USSR is certainly not a socialist country, and is in a preparatory stage before socialism. 
 
 It is true that eventually the productive forces would develop into socialism in the Soviet Union, but eventually is not inevitably. Social contradictions produce social antagonisms that have a life of their own. There is no guarantee that the development of the productive forces would be a linear process. 
 

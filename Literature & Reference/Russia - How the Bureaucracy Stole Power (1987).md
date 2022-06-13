@@ -180,7 +180,7 @@ The USSR veered between serving the interests of multiple classes, in a battle t
 
 Stalin chose to impose collectivization by force, rather than succumb. This shattered his alliance with the right wing of the party, and ended the NEP. 
 
-Stalin, who once decried Trotsky as a ‘super-industrializer,’ turned towards rapid industrialization as a way out. Soviet industrial production increased by 250%, even as the Great Depression swept the world. Even though this shows the great potential of economic planning, it was done in a bureaucratic mess. Wildly unrealistic orders were issued by bureaucrats, and failure to execute them was declared as sabotage. Forced labor was used on many projects. The standard of living for workers decreased while the bureaucracy’s privileges became more entrenched. 
+Stalin, who once decried Trotsky as a ‘super-industrializer,’ turned towards rapid industrialization as a way out. Soviet industrial production increased by 250%, even as the Great Depression swept the world. Even though this shows the great potential of [[economic planning]], it was done in a bureaucratic mess. Wildly unrealistic orders were issued by bureaucrats, and failure to execute them was declared as sabotage. Forced labor was used on many projects. The standard of living for workers decreased while the bureaucracy’s privileges became more entrenched. 
 
 ## From the “Third Period...”
 Foreign policy of the USSR also took on a bureaucratic character. Stalin said that the final crisis of capitalism was beginning (the “third period”), a totally anti-Marxist view. Marxists assert that every crisis of capitalism will be resolved at the expense of the workers until capitalism is overthrown. 
