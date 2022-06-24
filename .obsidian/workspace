@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2d26c0a64182a4",
+        "id": "e6c1cd2e0a6e7d52",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "work-brainweb/my Indeed benefits.md",
+            "file": "Topics/deontology.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "25c7b73fc4eacb0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas/Pacifism isn't revolutionary.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,10 +54,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#idea/science",
+                "query": "2022",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -56,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work-brainweb/my Indeed benefits.md",
+                "file": "Topics/deontology.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work-brainweb/my Indeed benefits.md",
+                "file": "Topics/deontology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,23 +109,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work-brainweb/my Indeed benefits.md"
+                "file": "Topics/deontology.md"
               }
-            }
-          },
-          {
-            "id": "858f6ddec5be4bf3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "af2e5fc385f7185a",
@@ -138,24 +144,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 335.5,
     "collapsed": true
   },
-  "active": "7a2d26c0a64182a4",
+  "active": "e6c1cd2e0a6e7d52",
   "lastOpenFiles": [
-    "work-brainweb/my Indeed benefits.md",
-    "Journal/Days/2022-06-13.md",
-    "Ideas/Capitalism requires expansion.md",
-    "Ideas/CBT relies on patient participation.md",
-    "Ideas/Blackbodies are abstract objects that have no reflectivity.md",
-    "Ideas/Bridge fuels could help transition towards decarbonization.md",
-    "Ideas/Alien life likely exists.md",
-    "work-brainweb/Indeed/2022-06-13 onboarding.md",
-    "Untitled.md",
-    "work-brainweb/2022-06-13 Syed check-in.md"
+    "Topics/pacifism.md",
+    "Ideas/Pacifism isn't revolutionary.md",
+    "Questions/How can I effectively organize technical info?.md",
+    "Meetings/IMT/2020-06-06 branch.md",
+    "Ideas/Socialism requires a high economic basis.md",
+    "Topics/career advice.md",
+    "Journal/Days/2022-05-30.md",
+    "Topics/space.md",
+    "Topics/common data science interview questions.md",
+    "Journal/Days/2022-06-24.md"
   ]
 }
