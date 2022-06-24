@@ -9,4 +9,4 @@ Statements are not case sensitive. Some database systems require a semicolon aft
 ---
 #idea/compsci/sql 
 
-[1]: [[Learning SQL (2009)]], px
+1. [[Learning SQL (2009)]], px

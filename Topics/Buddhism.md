@@ -14,4 +14,4 @@ Theravada was the earlier school, originating in India, while Mayahana, or the "
 [[Zen|Zen]] buddhism is a subset of the Mayahana school, and is mainly practiced in East Asia. It originated when Bodhidharma traveled from India to [[China]]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Buddhism
+1. https://en.wikipedia.org/wiki/Buddhism

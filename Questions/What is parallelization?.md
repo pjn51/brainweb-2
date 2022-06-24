@@ -5,4 +5,4 @@ Parallelization, also known as parallel computing, is the practice of designing 
 #question/data-science 
 
 ---
-[1]: https://www.computerhope.com/jargon/p/parallelization.htm
+1. https://www.computerhope.com/jargon/p/parallelization.htm

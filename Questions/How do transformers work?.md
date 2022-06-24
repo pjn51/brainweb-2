@@ -8,4 +8,4 @@ Moving on, the wikipedia article says that [[Transformers use an encoder-decoder
 ---
 #question/data-science 
 
-[1]: https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+1. https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)

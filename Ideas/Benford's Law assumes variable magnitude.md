@@ -10,4 +10,4 @@ When keeping this assumption in mind, [[Benford's Law can detect altered data]].
 #idea/math 
 #question/infosec 
 
-[1]: https://en.wikipedia.org/wiki/Benford's_law#Explanations
+1. https://en.wikipedia.org/wiki/Benford's_law#Explanations

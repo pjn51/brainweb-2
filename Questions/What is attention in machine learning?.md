@@ -5,4 +5,4 @@ The idea is to mimic the human concept of attention - the effect assigns variabl
 #question/data-science 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+1. https://en.wikipedia.org/wiki/Attention_(machine_learning)

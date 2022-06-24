@@ -9,4 +9,4 @@ This credit system allows the market to temporarily overcome its limits, while e
 ---
 #idea/politics/economics 
 
-[1]: [[What is Money? (2016)]], p.30
+1. [[What is Money? (2016)]], p.30

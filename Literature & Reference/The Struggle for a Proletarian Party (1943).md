@@ -23,6 +23,6 @@ Cannon argues that most American left-wing intellectuals have been no help to th
 The author criticizes the prewar Social Democratic establishment for not acting urgently enough, and believing there was unlimited time for gradual movement towards socialism. He argues that a symptom of this was the lack of full-time leaders, saying that most leaders of the parties were lawyers or doctors who spent evenings and weekends working in the party [3]. 
 
 ---
-[1]: [[The Struggle for a Proletarian Party (1943)]], p 45
-[2]: Ibid, p 47
-[3]: Ibid, p 50
+1. [[The Struggle for a Proletarian Party (1943)]], p 45
+2. Ibid, p 47
+3. Ibid, p 50

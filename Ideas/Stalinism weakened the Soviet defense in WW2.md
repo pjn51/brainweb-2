@@ -13,4 +13,4 @@ Furthermore, the Soviets could have called on the German workers to rise up agai
 ---
 #idea/politics/history 
 
-[1]: [[Russia - From Revolution to Counter-Revolution (1997)]], p206
+1. [[Russia - From Revolution to Counter-Revolution (1997)]], p206

@@ -10,5 +10,5 @@ Note that by default, this will order in ascending, but we can specify either us
 When performing set operations, make sure to `order by` a column found in the *first* table that is used [2]. 
 
 ---
-[1]: [[Learning SQL (2009)]], p57
-[2]: Ibid, p108
+1. [[Learning SQL (2009)]], p57
+2. Ibid, p108

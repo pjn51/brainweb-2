@@ -11,7 +11,7 @@ In the realm of [[real estate]], you can actually write off loan origination fee
 [[Income tax deductions are standard or itemized]]. 
 
 ---
-[1]: Home Buying Kit for Dummies, p305
+1. Home Buying Kit for Dummies, p305
 
 ```dataview
 LIST 

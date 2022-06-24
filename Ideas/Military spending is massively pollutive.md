@@ -13,4 +13,4 @@ This means that global military spending accounts for around 0.4% of global $\te
 #idea/science/ecology 
 #idea/politics 
 
-[1]: https://climatecommunication.org/wp-content/uploads/2011/08/presidentialaction.pdf
+1. https://climatecommunication.org/wp-content/uploads/2011/08/presidentialaction.pdf

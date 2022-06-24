@@ -9,4 +9,4 @@ Kant believed that one should only act according to a rule that one would suppor
 ---
 #idea/philosophy/ethics 
 
-[1]: https://en.wikipedia.org/wiki/Categorical_imperative
+1. https://en.wikipedia.org/wiki/Categorical_imperative

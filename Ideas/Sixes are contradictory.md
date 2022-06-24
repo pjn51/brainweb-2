@@ -3,6 +3,6 @@
 I think in a certain way, we're all bundles of opposites, aren't we? [[Things change through contradiction]], and therefore things that change (which is everything) contain contradiction. 
 
 ---
-[1]: [[The Wisdom of the Enneagram (1999)]], p.236
+1. [[The Wisdom of the Enneagram (1999)]], p.236
 
 #idea/personal/personality 

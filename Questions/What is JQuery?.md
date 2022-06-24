@@ -5,4 +5,4 @@
 
 ---
 #question/compsci 
-[1]: [[JQuery Crash Course (2016)]]
+1. [[JQuery Crash Course (2016)]]

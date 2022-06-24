@@ -12,4 +12,4 @@ This is one reason why [[Capitalism is destroying the world]], and [[Only social
 #idea/politics/economics 
 #idea/science/ecology 
 
-[1]: [[Governing the Commons (1990)]]
+1. [[Governing the Commons (1990)]]

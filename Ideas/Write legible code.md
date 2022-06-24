@@ -7,4 +7,4 @@ Furthermore, [[Document your coding projects]].
 #idea/compsci 
 
 ---
-[1]: [[PEP 8 (2001)]]
+1. [[PEP 8 (2001)]]

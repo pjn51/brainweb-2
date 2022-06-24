@@ -11,5 +11,5 @@ It is this price that commodities are generally exchanged at under developed [[c
 #idea/politics/economics 
 
 ---
-[1]: https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm
-[2]: [[Capital (1867)]], vol3, p.273
+1. https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm
+2. [[Capital (1867)]], vol3, p.273

@@ -9,5 +9,5 @@ Common sense represents the heuristics that we create in order to navigate the w
 ---
 #idea/philosophy
 
-[1]: [[Their Morals and Ours (1938)]], loc 172
-[2]: [[The History of Philosophy (2021)]], p 258
+1. [[Their Morals and Ours (1938)]], loc 172
+2. [[The History of Philosophy (2021)]], p 258

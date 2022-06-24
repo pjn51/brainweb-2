@@ -7,4 +7,4 @@ aliases:
 [[How can we use Jaccard distance?]]
 
 ---
-[1]: https://en.wikipedia.org/wiki/Jaccard_index
+1. https://en.wikipedia.org/wiki/Jaccard_index

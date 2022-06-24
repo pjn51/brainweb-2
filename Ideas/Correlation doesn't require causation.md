@@ -5,4 +5,4 @@ For example, the number of resturants increases as the distance to the ocean dec
 #idea/math 
 
 ---
-[1]: [[The Analysis of Biological Data (2015)]], p 201
+1. [[The Analysis of Biological Data (2015)]], p 201

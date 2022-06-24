@@ -7,4 +7,4 @@ When writing [[SQL]] queries, we use a [[WHERE clause]] to remove unwanted rows 
 ---
 #idea/compsci/sql
 
-[1]: [[Learning SQL (2009)]], p52
+1. [[Learning SQL (2009)]], p52

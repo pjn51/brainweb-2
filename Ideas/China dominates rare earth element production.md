@@ -4,4 +4,4 @@ Currently, [[China]] produces 95% of the world's supply of rare earth elements [
 ---
 #idea/politics/economics 
 
-[1]: https://www.mining-technology.com/features/featurethe-false-monopoly-china-and-the-rare-earths-trade-4646712/
+1. https://www.mining-technology.com/features/featurethe-false-monopoly-china-and-the-rare-earths-trade-4646712/

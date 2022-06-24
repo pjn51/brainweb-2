@@ -9,4 +9,4 @@ However, let's not go too far: [[PKM isn't an end in itself]], and the [[zettelk
 #idea/learning/pkm 
 
 ---
-[1]: [[How To Take Smart Notes (2017)]], p 115
+1. [[How To Take Smart Notes (2017)]], p 115

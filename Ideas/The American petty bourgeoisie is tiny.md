@@ -3,4 +3,4 @@
 #idea/politics/fascism 
 
 ---
-[1]: https://www.zippia.com/business-owner-jobs/demographics/
+1. https://www.zippia.com/business-owner-jobs/demographics/

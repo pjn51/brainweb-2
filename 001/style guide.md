@@ -24,7 +24,7 @@ In my literature notes, I tend to cite following the style (p.1). If the literat
 
 In my idea notes, I either follow the above format or another one, such as [1].
 
-[1]: Ibid, p.1
+1. Ibid, p.1
 
 # General conventions
 [[Note friction should be minimized]]. [[Build scaffolding, not cages]]. In general, I tend to follow the guidelines of the [[evergreen notes]] system, with a lot of influence from [[How To Take Smart Notes (2017)]]. 

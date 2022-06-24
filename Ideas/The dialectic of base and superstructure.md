@@ -21,4 +21,4 @@ The rigidity of the superstructure relative to the base lays the foundation for 
 #idea/politics/economics 
 #idea/politics/culture
 
-[1]: [[A Contribution to the Critique of Political Economy (1859)]]
+1. [[A Contribution to the Critique of Political Economy (1859)]]

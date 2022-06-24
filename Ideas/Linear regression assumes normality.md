@@ -14,4 +14,4 @@ If we see a divergence from this diagonal we can either remove outliers or apply
 #idea/compsci/data-science 
 #idea/math 
 
-[1]: https://www.statology.org/linear-regression-assumptions/
+1. https://www.statology.org/linear-regression-assumptions/

@@ -7,4 +7,4 @@ Despite its cost-effectiveness, [[Overseas shipping is pollution-intensive]].
 ---
 #idea/politics/economics 
 
-[1]: https://en.wikipedia.org/wiki/Intermodal_container
+1. https://en.wikipedia.org/wiki/Intermodal_container

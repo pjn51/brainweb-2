@@ -4,4 +4,4 @@
 
 ---
 #idea/compsci 
-[1]: https://www.youtube.com/watch?v=oz9cEqFynHU
+1. https://www.youtube.com/watch?v=oz9cEqFynHU

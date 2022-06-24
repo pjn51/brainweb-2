@@ -4,4 +4,4 @@
 ---
 #question/compsci 
 
-[1]: https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
+1. https://en.wikipedia.org/wiki/Non-negative_matrix_factorization

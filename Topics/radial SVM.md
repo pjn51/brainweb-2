@@ -5,4 +5,4 @@ Radial SVM is a type of SVM (support vector machine) that can be used as a [[mod
 It's a non-linear model, according to my lecture notes [1]. 
 
 ---
-[1]: [[1-29-21 metis#Lecture - model linearity]]
+1. [[1-29-21 metis#Lecture - model linearity]]

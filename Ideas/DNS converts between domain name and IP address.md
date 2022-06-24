@@ -3,4 +3,4 @@
 ---
 #idea/compsci 
 
-[1]: [[How Does the Internet Work? (2002)]]
+1. [[How Does the Internet Work? (2002)]]

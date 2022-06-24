@@ -8,4 +8,4 @@ This was done at the urging of [[Stalin]], just another reason why [[Stalinism i
 ---
 #idea/politics/history 
 
-[1]: https://www.marxist.com/chinese-comminist-party-1927-37-part-1.htm
+1. https://www.marxist.com/chinese-comminist-party-1927-37-part-1.htm

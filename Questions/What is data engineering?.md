@@ -8,4 +8,4 @@ Like most tech fields, it's important to know the basics of [[data]] management.
 #question/data-engineering
 
 ---
-[1]: [[Fundamentals of Data Engineering (2021)#1 Data engineering described]]
+1. [[Fundamentals of Data Engineering (2021)#1 Data engineering described]]

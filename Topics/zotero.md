@@ -7,4 +7,4 @@ Zotero is a reference manager geared towards those who read lots of PDFs or othe
 
 
 ---
-[1]: 
+1. 

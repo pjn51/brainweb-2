@@ -16,4 +16,4 @@ Ahrens argues along similar lines, adding that setting up honest systems of purs
 #idea/personal/habits 
 #idea/learning/pkm 
 
-[1]:  [[How To Take Smart Notes (2017)]], p 80, 87
+1.  [[How To Take Smart Notes (2017)]], p 80, 87

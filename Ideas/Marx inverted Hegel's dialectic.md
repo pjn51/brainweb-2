@@ -4,4 +4,4 @@
 #idea/politics/history 
 
 ---
-[1]: [[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]], p 145
+1. [[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]], p 145

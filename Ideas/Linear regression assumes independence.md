@@ -13,4 +13,4 @@ If correlation is seasonal, add seasonal dummy variables.
 #idea/math 
 #idea/compsci/data-science 
 
-[1]: https://www.statology.org/linear-regression-assumptions/
+1. https://www.statology.org/linear-regression-assumptions/

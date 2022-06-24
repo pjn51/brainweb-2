@@ -8,4 +8,4 @@ In [[SQL]], the `FROM` clause is a nearly mandatory part of a [[SELECT statement
 This is the place that we can apply a [[SQL subquery]]. 
 
 ---
-[1]: [[Learning SQL (2009)]]
+1. [[Learning SQL (2009)]]

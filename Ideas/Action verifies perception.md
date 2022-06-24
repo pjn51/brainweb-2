@@ -13,4 +13,4 @@ Conversely, we cannot verify our perceptions without acting upon them. This is o
 ---
 #idea/philosophy/epistemology 
 
-[1]: [[On Historical Materialism (1892)]]
+1. [[On Historical Materialism (1892)]]

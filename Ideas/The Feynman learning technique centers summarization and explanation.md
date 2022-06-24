@@ -10,4 +10,4 @@ The steps are as follows:
 ---
 #idea/learning 
 
-[1]: https://blog.doist.com/feynman-technique/
+1. https://blog.doist.com/feynman-technique/

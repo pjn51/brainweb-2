@@ -12,4 +12,4 @@ When we want to move changes from one to another, [[Pull requests merge branches
 
 #idea/compsci 
 
-[1]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+1. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches

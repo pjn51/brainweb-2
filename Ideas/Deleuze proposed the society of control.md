@@ -6,4 +6,4 @@ While [[Capitalism atomizes society]], and even though [[Deindustrialization has
 ---
 #idea/philosophy 
 
-[1]: [[Postscript on the Societies of Control (1990)]]
+1. [[Postscript on the Societies of Control (1990)]]

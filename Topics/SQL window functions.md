@@ -19,4 +19,4 @@ The above code creates an aggregation, called `running_total` without grouping b
 Note that we *cannot* include window functions in a [[GROUP BY clause]]. 
 
 ---
-[1]: https://mode.com/sql-tutorial/sql-window-functions/
+1. https://mode.com/sql-tutorial/sql-window-functions/

@@ -8,4 +8,4 @@ In terms of programming, which is the bulk of my technical notes, I should remem
 ---
 #question/pkm 
 #question/learning 
-[1]: https://www.youtube.com/watch?v=VCWzQpUwsaw
+1. https://www.youtube.com/watch?v=VCWzQpUwsaw

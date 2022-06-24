@@ -18,4 +18,4 @@ Describe the actions that you took to reach the goals.
 Describe the positive result that happened because of your actions. Make it as concrete as possible. 
 
 ---
-[1]: https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf
+1. https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf

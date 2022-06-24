@@ -9,4 +9,4 @@ This got him into some trouble with the [[Netherlands|Dutch]] government, as wel
 ---
 #idea/philosophy 
 
-[1]: https://en.wikipedia.org/wiki/Baruch_Spinoza#Philosophy
+1. https://en.wikipedia.org/wiki/Baruch_Spinoza#Philosophy

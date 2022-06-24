@@ -5,4 +5,4 @@ This makes the systems more modular, flexible, and secure.
 ---
 #idea/compsci 
 
-[1]: https://www.codecademy.com/article/what-is-rest
+1. https://www.codecademy.com/article/what-is-rest

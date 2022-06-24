@@ -11,5 +11,5 @@ This fact is in tension with our use of [[Marxists should use positive demands]]
 
 #idea/politics/organizing 
 
-[1]: [[Terrorism and Communism (1920)]]
-[2]: [[The Revolution Betrayed (1937)]]
+1. [[Terrorism and Communism (1920)]]
+2. [[The Revolution Betrayed (1937)]]

@@ -8,4 +8,4 @@ When we're [[modeling]], we must ensure that this model is working well. This ca
 This process is called *validation*. If we want to go a step farther, we can perform [[cross validation]]. 
 
 ---
-[1]: [[1-14-21 metis#Lecture - model validation|lecture notes]]
+1. [[1-14-21 metis#Lecture - model validation|lecture notes]]

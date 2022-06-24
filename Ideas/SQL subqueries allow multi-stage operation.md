@@ -7,4 +7,4 @@ In [[SQL]], we can use a [[SQL subquery]] to perform operations in steps. This a
 ---
 #idea/compsci/sql 
 
-[1]: https://mode.com/sql-tutorial/sql-sub-queries/
+1. https://mode.com/sql-tutorial/sql-sub-queries/

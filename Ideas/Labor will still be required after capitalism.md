@@ -12,4 +12,4 @@ Eventually, [[Socialism will increase leisure time]] due to the higher productiv
 ----
 #idea/politics/economics 
 
-[1]: [[Terrorism and Communism (1920)]]
+1. [[Terrorism and Communism (1920)]]

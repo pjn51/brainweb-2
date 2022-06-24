@@ -9,4 +9,4 @@ In 1905, [[Einstein]] proposed the theory of special relativity, and in 1915 he 
 ---
 #idea/science/physics 
 
-[1]: https://en.wikipedia.org/wiki/Theory_of_relativity
+1. https://en.wikipedia.org/wiki/Theory_of_relativity

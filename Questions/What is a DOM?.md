@@ -3,4 +3,4 @@ A DOM, or *document object model* is the [[data]] representation of objects that
 
 ---
 #question/compsci
-[1]:  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+1.  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction

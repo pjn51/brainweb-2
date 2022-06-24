@@ -11,4 +11,4 @@ In a related way, the development of a new mode of production, and thus a new st
 #idea/politics/economics 
 
 ---
-[1]: [[Results and Prospects (1905)]], [[History of the Russian Revolution (1932)]]
+1. [[Results and Prospects (1905)]], [[History of the Russian Revolution (1932)]]

@@ -9,4 +9,4 @@ I think this argument isn't so great, and that [[The USSR wasn't state capitalis
 ---
 #idea/politics/economics 
 
-[1]: https://www.marxists.org/archive/cliff/works/1955/statecap/intro.htm
+1. https://www.marxists.org/archive/cliff/works/1955/statecap/intro.htm

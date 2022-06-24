@@ -9,4 +9,4 @@ While the internet is nominally independent of the [[state]], in reality the sta
 #question/compsci 
 
 ---
-[1]: https://www.vox.com/2014/6/16/18076282/the-internet
+1. https://www.vox.com/2014/6/16/18076282/the-internet

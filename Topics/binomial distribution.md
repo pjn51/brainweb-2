@@ -20,4 +20,4 @@ _nC_x = \frac{n!}{r!(n-r)!}
 $$
 
 ---
-[1]: https://www.investopedia.com/terms/b/binomialdistribution.asp#:~:text=The%20binomial%20distribution%20is%20the,possible%20outcomes%3A%20success%20or%20failure.
+1. https://www.investopedia.com/terms/b/binomialdistribution.asp#:~:text=The%20binomial%20distribution%20is%20the,possible%20outcomes%3A%20success%20or%20failure.

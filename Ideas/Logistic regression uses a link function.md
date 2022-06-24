@@ -9,4 +9,4 @@ There are many candidate functions, but traditionally the [[sigmoid]] function i
 ---
 #idea/compsci/data-science 
 
-[1]: https://en.wikipedia.org/wiki/Logistic_regression
+1. https://en.wikipedia.org/wiki/Logistic_regression

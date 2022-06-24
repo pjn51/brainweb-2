@@ -12,4 +12,4 @@ APIs use various standards, such as HTTP and REST.
 ---
 #question/compsci 
 
-[1]: https://www.mulesoft.com/resources/api/what-is-an-api
+1. https://www.mulesoft.com/resources/api/what-is-an-api

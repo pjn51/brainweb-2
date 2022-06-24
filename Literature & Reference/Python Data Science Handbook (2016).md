@@ -169,9 +169,9 @@ The author explains that any command prefixed by `!` will function as a shell co
 The book explains that we can make shell commands interact with the IPyton namespace. We can save the output of a shell command to a list using the following code:
 
 ```python
-In [1]: contents = !ls
+In 1. contents = !ls
 	
-In [2]: print(contents)
+In 2. print(contents)
 ['myproject.txt']
 ```
 
@@ -263,11 +263,11 @@ The author says that this means storing data in Python takes a bit more memory t
 The author asks us to consider what is going on when we create [[lists]] in Python. He creates a list as follows, and asks the type.
 
 ```python
-In [1]: L = list(range(10))
+In 1. L = list(range(10))
 		L
 [0,1,2,3,4,5,6,7,8,9]
 
-In [2]: type(L[0])
+In 2. type(L[0])
 	
 int
 ```
@@ -330,7 +330,7 @@ For working with arrays that have more than one dimension, the author continues,
 The author says that if we want to split arrays, we can use the `np.split`, `np.hsplit`, and `np.vsplit` functions. For each of these, we pass a list of indices to indicate the split points.
 
 ```python
-In [1]: x = [1,2,3,99,99,3,2,1]
+In 1. x = [1,2,3,99,99,3,2,1]
 		x1, x2, x3 = np.split(x, [3,5])
 		print(x1, x2, x3)		
 
@@ -340,7 +340,7 @@ In [1]: x = [1,2,3,99,99,3,2,1]
 The author draws our attention to the fact that the *n* split points lead to *n+1* subarrays being formed. We can also use the related `np.hsplit` and `np.vsplit` functions.
 
 ```python
-In [1]: grid =np.arange(16).reshape((4,4))
+In 1. grid =np.arange(16).reshape((4,4))
 		grid
 
 array([[ 0,  1, 2,  3],

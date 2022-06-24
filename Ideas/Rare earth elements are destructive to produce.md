@@ -4,4 +4,4 @@
 #idea/science/ecology 
 #idea/politics/economics 
 
-[1]: [[Anatomy of an AI System (2018)]]
+1. [[Anatomy of an AI System (2018)]]

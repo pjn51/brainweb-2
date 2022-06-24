@@ -11,4 +11,4 @@ However, [[Benford's Law assumes variable magnitude]].
 ---
 #idea/compsci/infosec 
 
-[1]: https://en.wikipedia.org/wiki/Benford's_law
+1. https://en.wikipedia.org/wiki/Benford's_law

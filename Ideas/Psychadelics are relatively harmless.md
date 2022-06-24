@@ -7,4 +7,4 @@ In a study of 130,000 [[USA|American]] adults, researchers were unable to find a
 ---
 #idea/personal/health 
 
-[1]: https://journals.sagepub.com/doi/abs/10.1177/0269881114568039
+1. https://journals.sagepub.com/doi/abs/10.1177/0269881114568039

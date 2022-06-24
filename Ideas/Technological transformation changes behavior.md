@@ -9,4 +9,4 @@ To me, this speaks to how [[Action causes reaction]] and [[Change is omnipresent
 ---
 #idea/compsci 
 
-[1]: [[Haunted by Data (2015)]], p. 7
+1. [[Haunted by Data (2015)]], p. 7

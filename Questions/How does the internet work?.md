@@ -13,5 +13,5 @@ The question of cybercontrol isn't really relevant, but it's interesting.
 #question/compsci 
 
 ---
-[1]: https://www.vox.com/2014/6/16/18076282/the-internet
-[2]: [[How Does the Internet Work? (2002)]]
+1. https://www.vox.com/2014/6/16/18076282/the-internet
+2. [[How Does the Internet Work? (2002)]]

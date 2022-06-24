@@ -7,4 +7,4 @@ In [[SQL]], we can use a [[SQL window functions|window function]] to perform ope
 ---
 #idea/compsci/sql 
 
-[1]: https://mode.com/sql-tutorial/sql-window-functions/
+1. https://mode.com/sql-tutorial/sql-window-functions/

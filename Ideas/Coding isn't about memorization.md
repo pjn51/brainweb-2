@@ -8,4 +8,4 @@ Instead of taking notes on coding, [[Write legible code]] and [[Document your co
 ---
 #idea/compsci 
 
-[1]: https://www.youtube.com/watch?v=VCWzQpUwsaw
+1. https://www.youtube.com/watch?v=VCWzQpUwsaw

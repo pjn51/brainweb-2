@@ -12,4 +12,4 @@ If we find heteroscedasticity, we can transform $y$, using the [[logarithms|log]
 #idea/math 
 #idea/compsci/data-science 
 
-[1]: https://www.statology.org/linear-regression-assumptions/
+1. https://www.statology.org/linear-regression-assumptions/

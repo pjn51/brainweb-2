@@ -8,4 +8,4 @@ Turning to the present situation in the [[USA]], [[What are the prospects for Am
 ---
 #question/politics
 
-[1]: [[Fascism What It Is and How To Fight It (1944)]]
+1. [[Fascism What It Is and How To Fight It (1944)]]

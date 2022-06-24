@@ -4,4 +4,4 @@ This is evident in their conduct during the civil war. The workers participated 
 
 #idea/politics/history 
 
-[1]: [[Terrorism and Communism (1920)]]
+1. [[Terrorism and Communism (1920)]]

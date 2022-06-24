@@ -10,4 +10,4 @@ aliases:
 
 
 ---
-[1]: https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/adamic-adar/#:~:text=Adamic%20Adar%20is%20a%20measure,algorithm%20tiers%2C%20see%20Graph%20Algorithms.
+1. https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/adamic-adar/#:~:text=Adamic%20Adar%20is%20a%20measure,algorithm%20tiers%2C%20see%20Graph%20Algorithms.

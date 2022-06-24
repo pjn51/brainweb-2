@@ -14,4 +14,4 @@ There are four categories of cloud computing services.
 IaaS involves renting out hardware such as services or virtual machines via the internet, and it's the most basic kind of cloud service. PaaS involves supplying an on-demand environment for developing and managing software. This level of service involves
 
 ---
-[1]: https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#cloud-computing-models
+1. https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/#cloud-computing-models

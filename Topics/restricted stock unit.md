@@ -9,7 +9,7 @@ A restricted stock unit (RSU) is a unit of [[stock]] that is awarded by an emplo
 Since the mid 2000s, RSUs have surpassed stock options in popularity. 
 
 ---
-[1]: https://www.investopedia.com/terms/r/restricted-stock-unit.asp
+1. https://www.investopedia.com/terms/r/restricted-stock-unit.asp
 
 # Unsorted ideas
 ```dataview

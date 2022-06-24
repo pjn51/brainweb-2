@@ -12,4 +12,4 @@ This is an example of how [[Religious movements tend to start as revolutionary a
 #idea/philosophy 
 #idea/politics/history 
 
-[1]: https://en.wikipedia.org/wiki/First_Council_of_Nicaea
+1. https://en.wikipedia.org/wiki/First_Council_of_Nicaea

@@ -8,4 +8,4 @@ Representing an attitude of fetishizing the backward layers of the [[proletariat
 [[Workerism isn't revolutionary]]. 
 
 ---
-[1]: 
+1. 

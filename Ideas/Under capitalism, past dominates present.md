@@ -7,5 +7,5 @@ Elsewhere, Marx also says that the accumulated traditions of the past weigh like
 #idea/politics/history 
 
 ---
-[1]: [[The Communist Manifesto (1848)]]
-[2]: citation needed
+1. [[The Communist Manifesto (1848)]]
+2. citation needed

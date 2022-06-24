@@ -20,4 +20,4 @@ There are multiple clauses that can be used as part of a `SELECT` statement.
 If we want to get the unique rows from the result set, we use `SELECT DISTINCT`. 
 
 ---
-[1]: [[Learning SQL (2009)]], p43, elsewhere
+1. [[Learning SQL (2009)]], p43, elsewhere

@@ -4,4 +4,4 @@
 
 #idea/politics/errors 
 
-[1]: [[Terrorism and Communism (1920)]], p 155
+1. [[Terrorism and Communism (1920)]], p 155

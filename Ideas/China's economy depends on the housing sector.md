@@ -6,4 +6,4 @@ The [[real estate]] industry represents about 20% of the Chinese economy [1]. Th
 ---
 #idea/politics/economics 
 
-[1]: https://en.wikipedia.org/wiki/Economy_of_China#Housing_and_construction
+1. https://en.wikipedia.org/wiki/Economy_of_China#Housing_and_construction

@@ -10,5 +10,5 @@ I think that [[The USSR wasn't bureaucratic collectivist]], and [[The USSR wasn'
 ---
 #question/politics 
 
-[1]: [[Russia - From Revolution to Counter-Revolution (1997)]]
-[2]: [[Russia - How the Bureaucracy Stole Power (1987)]]
+1. [[Russia - From Revolution to Counter-Revolution (1997)]]
+2. [[Russia - How the Bureaucracy Stole Power (1987)]]

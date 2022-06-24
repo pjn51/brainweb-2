@@ -4,4 +4,4 @@
 ---
 #idea/politics/economics 
 
-[1]:  https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm
+1.  https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm

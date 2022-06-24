@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/deontology.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "25c7b73fc4eacb0c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ideas/Pacifism isn't revolutionary.md",
+            "file": "Topics/change of basis.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -69,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/deontology.md",
+                "file": "Topics/change of basis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/deontology.md",
+                "file": "Topics/change of basis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/deontology.md"
+                "file": "Topics/change of basis.md"
               }
             }
           }
@@ -117,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "af2e5fc385f7185a",
@@ -154,15 +140,15 @@
   },
   "active": "e6c1cd2e0a6e7d52",
   "lastOpenFiles": [
-    "Topics/pacifism.md",
-    "Ideas/Pacifism isn't revolutionary.md",
-    "Questions/How can I effectively organize technical info?.md",
-    "Meetings/IMT/2020-06-06 branch.md",
-    "Ideas/Socialism requires a high economic basis.md",
-    "Topics/career advice.md",
-    "Journal/Days/2022-05-30.md",
-    "Topics/space.md",
-    "Topics/common data science interview questions.md",
-    "Journal/Days/2022-06-24.md"
+    "Topics/fear.md",
+    "Ideas/Planned economies outperform market systems.md",
+    "Topics/capital.md",
+    "IMT meetings/2022-04-12 with JT.md",
+    "Topics/Benford's Law.md",
+    "Literature & Reference/Governing the Commons (1990).md",
+    "Topics/common pool resources.md",
+    "Ideas/Sustainability requires self-government.md",
+    "Ideas/Marx criticized Lassalle.md",
+    "Literature & Reference/Children of Dune (1981).md"
   ]
 }

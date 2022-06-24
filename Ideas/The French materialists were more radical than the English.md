@@ -9,4 +9,4 @@ This process illustrates how the [[The dialectic of base and superstructure]]. T
 #idea/philosophy 
 #idea/politics/history 
 
-[1]: [[The History of Philosophy (2021)]] p 204
+1. [[The History of Philosophy (2021)]] p 204

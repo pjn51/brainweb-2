@@ -8,4 +8,4 @@ Data engineering is a broad discipline that supports organized, consistent data 
 [[What do data engineers need to know?]]
 
 ---
-[1]:  https://realpython.com/python-data-engineer/
+1.  https://realpython.com/python-data-engineer/

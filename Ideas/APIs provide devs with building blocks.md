@@ -8,4 +8,4 @@ In this way, developers can focus on writing novel things, and [[Don't repeat yo
 ---
 #idea/compsci 
 
-[1]: https://www.howtogeek.com/343877/what-is-an-api/
+1. https://www.howtogeek.com/343877/what-is-an-api/

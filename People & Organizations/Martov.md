@@ -13,4 +13,4 @@ Martov was one of the leading figures on the left-wing of [[Mensheviks]]. He som
 After the [[Russia|Russian]] Civil War, Martov went to [[Germany]], where he died of natural causes in 1923. 
 
 ---
-[1]: [[My Life (1930)]], p142
+1. [[My Life (1930)]], p142

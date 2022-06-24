@@ -3,4 +3,4 @@
 ---
 #idea/compsci 
 
-[1]: https://www.howtogeek.com/343877/what-is-an-api/
+1. https://www.howtogeek.com/343877/what-is-an-api/

@@ -13,5 +13,5 @@ This is further evidenced by how [[During the Russian Civil War, Trotsky justifi
 ---
 #idea/politics/history 
 
-[1]: [[Terrorism and Communism (1920)]], p.158
-[2]: In *Marxist Classics v.2* ([[The State and Revolution (1917)]]), p. 160
+1. [[Terrorism and Communism (1920)]], p.158
+2. In *Marxist Classics v.2* ([[The State and Revolution (1917)]]), p. 160

@@ -9,4 +9,4 @@ This was one of the reasons that [[Marx criticized Lassalle]].
 ---
 #idea/politics 
 
-[1]: https://en.wikipedia.org/wiki/Ferdinand_Lassalle#State
+1. https://en.wikipedia.org/wiki/Ferdinand_Lassalle#State

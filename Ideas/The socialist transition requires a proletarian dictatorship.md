@@ -7,4 +7,4 @@ From the theoretical angle, we know that [[States are instruments of class domin
 #idea/politics 
 
 ---
-[1]: [[Russia - From Revolution to Counter-Revolution (1997)]], p 56
+1. [[Russia - From Revolution to Counter-Revolution (1997)]], p 56

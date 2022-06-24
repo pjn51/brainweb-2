@@ -11,4 +11,4 @@ NMF has many applications, including [[NLP]] and [[computer vision]].
 [[How is NMF used for NLP?]]
 
 ---
-[1]: https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
+1. https://en.wikipedia.org/wiki/Non-negative_matrix_factorization

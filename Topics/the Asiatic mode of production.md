@@ -7,4 +7,4 @@ The Asiatic mode of production is one of the [[Marxism|Marxist]] [[stages of his
 The AMP is the most disputed mode of production in Marxist theory, and Marx dropped it as a concept in his later works. In the [[Russia|USSR]] in the 1930s, the theory was suppressed and its supporters were labled [[Trotskyism|Trotskyist]]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Asiatic_mode_of_production
+1. https://en.wikipedia.org/wiki/Asiatic_mode_of_production

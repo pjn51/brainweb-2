@@ -5,4 +5,4 @@ For this analysis, [[statistics]] is essential. Whitlock and Schluter define sta
 #question/statistics
 
 ---
-[1]: [[The Analysis of Biological Data (2015)]], p 6
+1. [[The Analysis of Biological Data (2015)]], p 6

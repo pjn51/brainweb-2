@@ -4,4 +4,4 @@ She says that [[Hardin's tragedy of the commons]] model is flawed, since we can 
 ---
 #idea/science/ecology 
 
-[1]: [[Governing the Commons (1990)]]
+1. [[Governing the Commons (1990)]]

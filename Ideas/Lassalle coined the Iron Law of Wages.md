@@ -9,4 +9,4 @@ However, [[Marx criticized Lassalle]] over this law, and I agree that Lassalle's
 ---
 #idea/politics/economics 
 
-[1]: https://en.wikipedia.org/wiki/Iron_law_of_wages
+1. https://en.wikipedia.org/wiki/Iron_law_of_wages

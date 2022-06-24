@@ -9,4 +9,4 @@ This idea is the current answer to the question:[[Should I organize by question 
 #idea/learning/pkm 
 
 ---
-[1]: [[How To Take Smart Notes (2017)]], p 106-110z
+1. [[How To Take Smart Notes (2017)]], p 106-110z

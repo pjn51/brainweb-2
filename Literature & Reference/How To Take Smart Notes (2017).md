@@ -30,4 +30,4 @@ Ahrens says that the best learning method is *elaboration,* the application of a
 Ahrens discusses the best way to sort our notes. He argues that too much learning can actually impede learning, and advises us to focus on elaborating the similarities and differences between notes, rather than focusing on categorizing them (106). Implicitly, he supports the notion that we should [[Build scaffolding, not cages]]. He goes on to explain that [[Emergent associations beat predetermined categorization]]. Turning to the way that Luhmann organized his index, the author says that Luhmann chose only one or two notes per keyword in his index (109), and chose them sparsely, with an eye towards *retrieval* rather than *categorization.* Elaborating on this distinction, Ahrens invites us to [[Organize information for retrieval]] when we organize our notes (110). This is all quite relevant to my question: [[How should my index be organized?]]
 
 ---
-[1]:  [[Atomic Habits (2018)]]
+1.  [[Atomic Habits (2018)]]

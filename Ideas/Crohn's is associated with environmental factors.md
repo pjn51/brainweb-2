@@ -11,4 +11,4 @@ Interestingly, the introduction of hormonal birth control is associated with a d
 ---
 #idea/personal/health 
 
-[1]: https://en.wikipedia.org/wiki/Crohn%27s_disease#Causes
+1. https://en.wikipedia.org/wiki/Crohn%27s_disease#Causes

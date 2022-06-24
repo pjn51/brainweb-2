@@ -9,4 +9,4 @@ Usually, the dimensions used are valence (positive or negative) and arousal (how
 ---
 #idea/science/psychology 
 
-[1]: https://en.wikipedia.org/wiki/Emotion#Multi-dimensional_analysis
+1. https://en.wikipedia.org/wiki/Emotion#Multi-dimensional_analysis

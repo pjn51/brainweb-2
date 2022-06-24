@@ -9,4 +9,4 @@ The CPC has been navigating towards capitalism since the reign of [[Deng Xiaopin
 ---
 #idea/politics/history 
 
-[1]: https://www.statista.com/chart/25194/private-sector-contribution-to-economy-in-china/
+1. https://www.statista.com/chart/25194/private-sector-contribution-to-economy-in-china/

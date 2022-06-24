@@ -2,4 +2,4 @@
 
 #idea/politics/history 
 
-[1]: [[In Defense of Marxism (1942)#From a scratch - to the danger of gangrene January 1940]]
+1. [[In Defense of Marxism (1942)#From a scratch - to the danger of gangrene January 1940]]

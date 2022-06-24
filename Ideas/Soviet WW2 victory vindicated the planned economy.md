@@ -14,4 +14,4 @@ This is a great example of how [[Planned economies outperform market systems]].
 #idea/politics/economics 
 #idea/politics/history 
 
-[1]: [[Russia - From Revolution to Counter-Revolution (1997)]], p203
+1. [[Russia - From Revolution to Counter-Revolution (1997)]], p203

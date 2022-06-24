@@ -16,7 +16,7 @@ The main idea is that the 'tragedy of the commons' scenario that Hardin outlines
 The funny thing is that the original meaning of the word 'commons' was the English communal agricultural system under [[feudalism]]. Farmers would graze their livestock on a common land. Far from being unsustainable, this system was able to last hundreds of years without a decline in productivity. That's because the commons were managed with a set of rules of conduct for community members.
 
 ---
-Ostrom criticizes the simplicity of [[Hardin's tragedy of the commons]], and examines the situations of CPRs as a case of [[The prisoner's dillema]]. She also incorporates a study of [[The free-rider problem]]. Overall, she makes a central point that [[Individual rationality can lead to collectively irrational results]]. 
+Ostrom criticizes the simplicity of [[Hardin's tragedy of the commons]], and examines the situations of [[common pool resources|CPRs]] as a case of [[The prisoner's dillema]]. She also incorporates a study of [[The free-rider problem]]. Overall, she makes a central point that [[Individual rationality can lead to collectively irrational results]]. 
 
 Ostrom says that examples of collective enterprises abound, and cites the example of law firms (p.25). 
 

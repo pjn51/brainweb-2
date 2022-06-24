@@ -3,4 +3,4 @@ AJAX stands for Asynchronous [[JavaScript]] And XML. It allows web pages to be u
 
 ---
 #question/compsci 
-[1]: https://www.w3schools.com/whatis/whatis_ajax.asp
+1. https://www.w3schools.com/whatis/whatis_ajax.asp

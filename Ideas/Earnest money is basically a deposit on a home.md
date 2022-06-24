@@ -6,4 +6,4 @@ Usually, it's due within 3 days of an accepted offer, and will be around 1% or 2
 ---
 #idea/finance/housing 
 
-[1]: https://www.thepennyhoarder.com/home-buying/what-happens-after-you-make-an-offer-on-a-house/
+1. https://www.thepennyhoarder.com/home-buying/what-happens-after-you-make-an-offer-on-a-house/

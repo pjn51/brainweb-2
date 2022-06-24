@@ -9,4 +9,4 @@ Especially in a constitutional system, where there are clear boundaries for the 
 ---
 #idea/politics 
 
-[1]: *Marxist Classics v.1*, p. 152 ([[The State and Revolution (1917)]])
+1. *Marxist Classics v.1*, p. 152 ([[The State and Revolution (1917)]])

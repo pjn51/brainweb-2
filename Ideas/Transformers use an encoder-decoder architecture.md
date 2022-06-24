@@ -5,4 +5,4 @@ The purpose of each encoder layer is to generate encodings that contain info abo
 #idea/compsci/data-science 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+1. https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)

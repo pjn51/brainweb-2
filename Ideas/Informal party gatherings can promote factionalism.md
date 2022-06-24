@@ -6,4 +6,4 @@ Conversations held in informal or private settings have an inherent anti-democra
 ---
 #idea/politics/organizing 
 
-[1]: [[The History of American Trotskyism (1945)]], p 247
+1. [[The History of American Trotskyism (1945)]], p 247

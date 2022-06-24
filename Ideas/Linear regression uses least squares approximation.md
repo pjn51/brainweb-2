@@ -8,4 +8,4 @@ Typically, a [[linear regression]] uses the method of least squares to find a li
 #idea/math 
 #idea/compsci/data-science 
 
-[1]: https://en.wikipedia.org/wiki/Least_squares
+1. https://en.wikipedia.org/wiki/Least_squares

@@ -11,4 +11,4 @@ Some theorize that those with Crohn's lacked exposure to parasites or benficial 
 ---
 #question/health 
 
-[1]: https://en.wikipedia.org/wiki/Crohn%27s_disease 
+1. https://en.wikipedia.org/wiki/Crohn%27s_disease 

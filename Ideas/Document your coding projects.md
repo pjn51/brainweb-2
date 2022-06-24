@@ -8,4 +8,4 @@ This is useful both to our future selves and to others, including those who are 
 ---
 #idea/compsci 
 
-[1]: https://www.youtube.com/watch?v=xuaTh5aor-Q
+1. https://www.youtube.com/watch?v=xuaTh5aor-Q

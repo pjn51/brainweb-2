@@ -9,4 +9,4 @@ The [[ethics|ethical]] theories of [[Kant]] are said to be [[deontology|deontolo
 ---
 #idea/philosophy/ethics 
 
-[1]: https://en.wikipedia.org/wiki/Deontology#Kantianism
+1. https://en.wikipedia.org/wiki/Deontology#Kantianism

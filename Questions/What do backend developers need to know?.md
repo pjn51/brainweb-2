@@ -26,6 +26,6 @@
 21. Building for scale
 
 ---
-[1]: https://roadmap.sh/backend
+1. https://roadmap.sh/backend
 
 #question/software-engineering

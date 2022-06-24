@@ -12,4 +12,4 @@ From a more psychological point of view, emotion is the way in which our subcons
 [[Factor analysis attempts to map emotion dimensionally]]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Emotion
+1. https://en.wikipedia.org/wiki/Emotion

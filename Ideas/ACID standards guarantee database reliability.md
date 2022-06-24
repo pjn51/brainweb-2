@@ -9,4 +9,4 @@ ACID stands for Atomicity, Consistency, Isolation, and Durability. The general p
 ---
 #idea/compsci/data-engineering 
 
-[1]: https://www.mongodb.com/basics/transactions
+1. https://www.mongodb.com/basics/transactions

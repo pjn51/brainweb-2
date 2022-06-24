@@ -10,4 +10,4 @@ Usually, tools report the *subjectivity* and *polarity* of text. Subjectivity re
 At the simplest end of the spectrum, [[Naive Bayes can measure sentiment]]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/Sentiment_analysis
+1. https://en.wikipedia.org/wiki/Sentiment_analysis

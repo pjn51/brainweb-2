@@ -8,4 +8,4 @@ During standard [[model validation]], we only use ~20% of our data to validate o
 We can perform *cross* validation, randomly dividing the training set into $k$ equal sized groups. One at a time, each group acts as the validation set while a fresh model is trained on the other groups of the testing data. By finding the average error across all groups, we can provide a more robust representation of model error. This process is also known as *k-fold partitioning*. 
 
 ---
-[1]: [[1-14-21 metis]] 
+1. [[1-14-21 metis]] 

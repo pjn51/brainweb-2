@@ -17,4 +17,4 @@ Some argue that companies must first build this solid foundation before progress
 ---
 #idea/compsci/data-science 
 
-[1]: [[Fundamentals of Data Engineering (2021)#1 Data engineering described]]
+1. [[Fundamentals of Data Engineering (2021)#1 Data engineering described]]

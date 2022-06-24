@@ -9,4 +9,4 @@ A situation of general [[inflation]] is not driven by [[wages|wage]] growth. Thi
 ---
 #idea/politics/economics 
 
-[1]: [[The Truth Behind Inflation (1971)]]
+1. [[The Truth Behind Inflation (1971)]]

@@ -56,4 +56,4 @@ aliases: [revolutionary situation, revolution, revolutionary]
 - 2022: revolution ignites civil war in [[Myanmar]]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/List_of_revolutions_and_rebellions#2000s
+1. https://en.wikipedia.org/wiki/List_of_revolutions_and_rebellions#2000s

@@ -10,5 +10,5 @@ The ruling class will recognize the threat, and despite the fact that the reform
 ---
 #idea/politics/revolution 
 
-[1]:  [[50 years since Allende's election in Chile - lessons for the future (2020)]]
-[2]:  [[Germany From Revolution to Counter-Revolution (2006)]]
+1.  [[50 years since Allende's election in Chile - lessons for the future (2020)]]
+2.  [[Germany From Revolution to Counter-Revolution (2006)]]

@@ -9,4 +9,4 @@ This means that [[data]] within this structure must be cleaned upon insertion, a
 ---
 #idea/compsci/data-engineering 
 
-[1]: https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/
+1. https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/

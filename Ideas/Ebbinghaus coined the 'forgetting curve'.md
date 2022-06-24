@@ -6,4 +6,4 @@ He concluded that repetition was needed to preserve knowledge, and his work is c
 ---
 #idea/learning 
 
-[1]: https://ncase.me/remember/
+1. https://ncase.me/remember/

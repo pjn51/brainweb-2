@@ -7,5 +7,5 @@ The EU contains 5.8% of the world population and generated 18% of global [[GDP]]
 In 2020, the [[UK]] began the process of withdrawing from the EU [2]. 
 
 ---
-[1]: https://en.wikipedia.org/wiki/European_Union
-[2]: https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement
+1. https://en.wikipedia.org/wiki/European_Union
+2. https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement

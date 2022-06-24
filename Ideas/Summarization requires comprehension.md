@@ -7,4 +7,4 @@ This is the reason why hand-written notes have been shown to provide greater com
 #idea/learning 
 
 ---
-[1]: [[How To Take Smart Notes (2017)]], p 78
+1. [[How To Take Smart Notes (2017)]], p 78

@@ -16,4 +16,4 @@ The `WHERE` clause above will remove all rows where the employee isn't associate
 Above, `department = 'sales'` is referred to as a *condition.* We can apply one or more conditions to the `WHERE` clause, which can be equality conditions, such as the example above, but they can also perform bucketing, where we specify that a column must be `between` two values. We do this using an `AND` operator.  We can check for set membership via `IN`, and look for a pattern using wildcards or [[regex]] with `LIKE`. 
 
 ---
-[1]: [[Learning SQL (2009)]], p66-70
+1. [[Learning SQL (2009)]], p66-70

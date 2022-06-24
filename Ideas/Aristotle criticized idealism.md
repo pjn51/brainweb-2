@@ -6,4 +6,4 @@ In his book, *Metaphysics,* [[Aristotle]] rejected the idea that forms and notio
 ---
 #idea/philosophy/ontology 
 
-[1]: [[The History of Philosophy (2021)]], p 107
+1. [[The History of Philosophy (2021)]], p 107

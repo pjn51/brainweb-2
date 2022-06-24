@@ -17,5 +17,5 @@ Seeing those connections, I guess you could say that Marxism is the application 
 #question/politics
 
 ---
-[1]: [[The State and Revolution (1917)#The Presentation of the Question by Marx in 1852]]
-[2]: [[The Three Sources and Three Component Parts of Marxism (1913)]]
+1. [[The State and Revolution (1917)#The Presentation of the Question by Marx in 1852]]
+2. [[The Three Sources and Three Component Parts of Marxism (1913)]]

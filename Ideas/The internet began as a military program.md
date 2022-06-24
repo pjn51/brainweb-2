@@ -5,4 +5,4 @@ While [[The internet is decentralized]] now, it is still ultimately subject to [
 #idea/compsci 
 
 ---
-[1]: https://www.vox.com/2014/6/16/18076282/the-internet
+1. https://www.vox.com/2014/6/16/18076282/the-internet

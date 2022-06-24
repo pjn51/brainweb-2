@@ -10,4 +10,4 @@ Since [[Labor creates value]], we might expect industries with a high proportion
 #idea/politics/economics 
 
 ---
-[1]: https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm
+1. https://www.marxist.com/parasitical-landlordism-and-the-marxist-theory-of-rent.htm

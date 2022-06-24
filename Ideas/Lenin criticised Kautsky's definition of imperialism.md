@@ -13,4 +13,4 @@ Lenin says that Kautsky's position on imperialism represents his total break wit
 ---
 #idea/politics/economics 
 
-[1]: [[Imperialism - The Highest Stage of Capitalism (1916)#IX Critique of imperialism]]
+1. [[Imperialism - The Highest Stage of Capitalism (1916)#IX Critique of imperialism]]

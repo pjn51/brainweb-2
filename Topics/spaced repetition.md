@@ -8,4 +8,4 @@ Spaced repetition is a strategy for retaining knowledge and improving informatio
 [[Spaced recall slows down the 'forgetting curve']], allowing us to remember things longer. 
 
 ---
-[1]: Introduction: https://ncase.me/remember/
+1. Introduction: https://ncase.me/remember/

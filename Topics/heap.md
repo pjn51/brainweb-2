@@ -9,4 +9,4 @@ A *min heap* has the minimum element at the root of the tree, and the *max heap*
 The [[complexity]] of this method is $\log(n)$ at most, and getting the highest priority element can be done in constant time.  
 
 ---
-[1]: https://www.youtube.com/watch?v=oz9cEqFynHU
+1. https://www.youtube.com/watch?v=oz9cEqFynHU
