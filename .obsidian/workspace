@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c1cd2e0a6e7d52",
+        "id": "b6f9e993d7072ec3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/change of basis.md",
+            "file": "Personal/Ideas/Catalysts accelerate reactions.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -28,20 +28,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b29f2b327b5a7fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "a8aaf87f3a20fb04",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "2022",
+                "query": "path:Ideas/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +48,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/change of basis.md",
+                "file": "Personal/Ideas/Catalysts accelerate reactions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +65,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/change of basis.md",
+                "file": "Personal/Ideas/Catalysts accelerate reactions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,15 +88,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/change of basis.md"
+                "file": "Personal/Ideas/Catalysts accelerate reactions.md"
               }
             }
+          },
+          {
+            "id": "2b29f2b327b5a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 952
   },
   "right": {
     "id": "af2e5fc385f7185a",
@@ -129,26 +130,33 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "fafbabe3b280da55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 920.5
   },
-  "active": "e6c1cd2e0a6e7d52",
+  "active": "b6f9e993d7072ec3",
   "lastOpenFiles": [
-    "Topics/fear.md",
-    "Ideas/Planned economies outperform market systems.md",
-    "Topics/capital.md",
-    "IMT meetings/2022-04-12 with JT.md",
-    "Topics/Benford's Law.md",
-    "Literature & Reference/Governing the Commons (1990).md",
-    "Topics/common pool resources.md",
-    "Ideas/Sustainability requires self-government.md",
-    "Ideas/Marx criticized Lassalle.md",
-    "Literature & Reference/Children of Dune (1981).md"
+    "Work/Ideas/Bridge fuels could help transition towards decarbonization.md",
+    "Work/Ideas/Begin projects with a use-case.md",
+    "Work/Ideas/ARMs can have lower initial APR.md",
+    "Work/Ideas/APIs provide devs with building blocks.md",
+    "Work/Ideas/Action verifies perception.md",
+    "Personal/Journal/Months/2022-06 June.md",
+    "Personal/Journal/Days/2022-06-26.md",
+    "Personal/Ideas/Liens transfer with the property title.md",
+    "Personal/Ideas/All capitalist labor is exploitative.md",
+    "Personal/Ideas/ML can't overcome bad data.md"
   ]
 }

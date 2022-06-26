@@ -1,0 +1,149 @@
+# Contact Meetings with Bryce Robinson
+`TAGS:` #meeting/political 
+
+---
+# 2021-08-02
+- Political background?
+	- has had a lot of different stances that led him to [[socialism]] and [[communism]]
+	- terminally online.
+	- Found us on TikTok!!
+- Personal background?
+	- going to Central in the fall
+	- Same class background as me
+- Personal blurb
+	- ESCI at [[WWU]]
+	- Loss of faith in the [[Democratic Party]]
+	- Belief in the need for revolution
+	- In [[Socialist Alternative]]
+	- Burnt out of activist mentality
+	- Unclear connection between the talk and the actions
+	- In [[DSA]]
+	- Still an unclear connection between theory and activity
+	- Planning holiday parties and city council races, not revolution
+	- Lost faith in Sanders and the progressive movement
+	- In [[IMT]]
+	- Impressed by professionalism, theory + action
+	- Lost faith in Bernie
+	- Started reading more theory
+	- Became convinced of the Marxist perspective
+	- Working to establish the beginnings of a leadership worthy of the name
+	- [[cadre]] formation analogy to military 
+- The [[IMT]] worldwide
+	- Over 4,000, with 1,000 joining during the [[COVID-19]] pandemic
+	- In the US we have like 400 across 30 cities
+	- Very small relative to the whole population, but we can punch above our weight
+- Local work
+	- Reading group
+	- Connection with national organization
+	- Interventions at protests and demonstrations
+	- Community building
+	- Pacing ourselves
+- Further discussion
+	- World perspectives?
+	- Editorial?
+	- Theory?
+
+# 2021-08-09
+- World perspectives discussion
+	- Global crisis of [[capitalism]]
+		- [[COVID-19]] just a spark
+		- Inflation
+		- Debt
+		- Increasing [[state]] role
+		- Proletarianization
+		- Stagnation in [[China]]
+	- Revolutionary potential
+		- Uprisings in [[Myanmar]], [[Colombia]], elsewhere
+		- The [[June 2020 uprising]]
+	- Role of the [[vanguard]]
+		- Most advanced workers
+		- First to grasp revolutionary implications
+		- Lead the rest of the [[proletariat]]
+	- Role of the [[IMT]]
+		- Training [[cadre]]
+			- Military metaphor
+		- Training *people,* not building for the organization as an end in itself
+		- Stitching together the [[vanguard]] as it grows and hardens
+		- Advocating for a [[workers' party]]
+	- Invite to reading group on the 21st
+- Bryce's questions
+	- curious about the democrats doing badly, causing right wing to gain support
+	- Father is Bryan Robinson
+
+# 2021-08-25
+- Part I: Building the party of the American socialist revolution
+	- What it means to be a member
+		- General political agreement
+		- Acceptance of norms, program, constitution
+		- Must actively work to build the org
+		- Pay monthly dues
+		- Sell the paper
+	- What is the revolutionary party?
+		- Our DNA is found in our program, methods, and traditions
+		- Provide the foundation for any organization
+		- We have [[cadre]] as a skeleton upon which newer members can depend
+	- The ones and twos
+		- Our job is to patiently explain to contacts and new members
+		- We want to gather those who are open to our ideas (few at first, more later)
+		- By spending the time to establish 500 fully trained cadres, we can gain thousands very quickly later
+		- Quality > quantity at this time
+	- The importance of theory and education
+		- This is how we gain strength as [[cadre]]
+		- Understanding the *method* of [[Marxism]] >>> memorization of positions
+		- We have an education plan for first-year comrades
+	- Orientation to the working class
+		- We want to be talking to the working class, in whatever organizations the class finds itself
+		- Balanced mindset, not rushing into things we cannot make use of
+		- The [[Democratic Party]] is *not* a mass organization of the [[proletariat]]
+	- The internet and social media
+		- Common sense stuff
+- Part II: The organizational structure of the IMT
+	- [[democratic centralism]]
+		- Cycle of debate and action
+		- Membership is accountable to leadership and vice versa
+	- The basic structure
+		- Branch -> CC elected at National Congress, sends delegates to World Congress where IEC is elected
+		- Branch elects BC to run daily affairs, CC elects EC to run daily affairs, IEC elects IS
+		- Officers are appointed by leadership at all levels to handle tasks like finance, outreach, etc
+	- The National Congress
+		- Happening in early October in Pitt. 
+		- Welcome to attend if you decide to go through with membership
+	- The CC, CC contacts, the EC, Officers, and subcommittees
+		- The Central Committee can appoint various officers and subcommittees to deal with things as needed
+		- At a local level, we can have a Press Secretary, Branch Secretary, Contacts Officer, and Finance Officer as needed
+		- Since we're small, not much need for formal positions. I'm handling finance and contacts right now. Josh is handling paper sales. 
+
+
+# 2021-09-03
+- My intervention
+	- Building the IMT in the [[USA]]
+		- The branch
+		- Branch meetings
+		- Visitors
+		- Agenda
+		- Proposals
+		- Coordinating work across national, cc, and subcommittees
+		- Branch officers
+		- BC
+		- AC
+	- The press and finances
+		- The press
+		- The importance of finances
+	- Public activity and recruitment
+		- Importance of regular public activity
+		- Student work
+		- Leafleting
+		- Paper sales
+		- Tabling
+		- Platform work
+		- Picket lines
+		- Our own events
+		- Norms of conduct 
+		- Importance of contact work and recruitment
+		- Contacts
+		- Sympathizers
+		- Probationary members
+- BR's intervention
+	- Dues question
+
+BR wants to look into becoming a sympathizer and paying a rate of $5 monthly. He's worried that he won't be able to manage classes this fall with the IMT workload. 
