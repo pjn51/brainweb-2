@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f9e993d7072ec3",
+        "id": "64b75cc3277c6a61",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Ideas/Catalysts accelerate reactions.md",
+            "file": "Personal/Journal/Days/2022-06-30.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -24,19 +24,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6f108101cd632a86",
+        "id": "186903ada72130b9",
         "type": "tabs",
         "children": [
+          {
+            "id": "2b29f2b327b5a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "a8aaf87f3a20fb04",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Ideas/",
+                "query": "path:personal",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -48,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Ideas/Catalysts accelerate reactions.md",
+                "file": "Personal/Journal/Days/2022-06-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -65,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Ideas/Catalysts accelerate reactions.md",
+                "file": "Personal/Journal/Days/2022-06-30.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -88,24 +96,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Ideas/Catalysts accelerate reactions.md"
+                "file": "Personal/Journal/Days/2022-06-30.md"
               }
             }
-          },
-          {
-            "id": "2b29f2b327b5a7fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 952
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "af2e5fc385f7185a",
@@ -144,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 920.5
+    "width": 248.5,
+    "collapsed": true
   },
-  "active": "b6f9e993d7072ec3",
+  "active": "64b75cc3277c6a61",
   "lastOpenFiles": [
-    "Work/Ideas/Bridge fuels could help transition towards decarbonization.md",
-    "Work/Ideas/Begin projects with a use-case.md",
-    "Work/Ideas/ARMs can have lower initial APR.md",
-    "Work/Ideas/APIs provide devs with building blocks.md",
-    "Work/Ideas/Action verifies perception.md",
-    "Personal/Journal/Months/2022-06 June.md",
-    "Personal/Journal/Days/2022-06-26.md",
-    "Personal/Ideas/Liens transfer with the property title.md",
-    "Personal/Ideas/All capitalist labor is exploitative.md",
-    "Personal/Ideas/ML can't overcome bad data.md"
+    "Personal/Topics/Atos health insurance options.md",
+    "Personal/Topics/personal finance.md",
+    "Personal/Journal/Days/2022-06-30.md",
+    "Personal/Journal/Days/2022-06-29.md",
+    "Work/Topics/SERP Relrating queue.md",
+    "Personal/Journal/Days/2022-06-28.md",
+    "Work/Ideas/Onion services have some weaknesses.md",
+    "Work/Questions/How can internet traffic be anonymized?.md",
+    "Work/Questions/What is attention in machine learning?.md",
+    "Work/Questions/What do backend developers need to know?.md"
   ]
 }

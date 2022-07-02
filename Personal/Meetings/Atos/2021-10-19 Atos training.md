@@ -5,7 +5,7 @@
 
 ---
 # Andrew Larson
-- Metadata
+- [[metadata]]
 	- "Instructions" mainly say to grade normally, check them anyway
 	- "Request ID" tracks the specific session
 	- "Activity time" is just a timestamp

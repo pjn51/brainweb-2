@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Microsoft
-`TAGS:` 
+`TAGS:` #sfw
 
 ---
 # Introduction

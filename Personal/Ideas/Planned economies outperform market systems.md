@@ -1,7 +1,7 @@
 # Planned economies outperform market systems.
 We can see in the case of the [[Russia|USSR]] that nationalization and [[economic planning]] is a huge advantage over the use of a market economy. [[Soviet economic growth was unprecedented]] and [[Soviet WW2 victory vindicated the planned economy]]. 
 
-Furthermore, they did all this with no inflation, no unemployment, no homelessness, and no meaningful national debt. It was really just the failure of the bureaucracy running the system that caused the collapse of the country. 
+Furthermore, [[The USSR lacked inflation, homelessness, and debt]] during this period.
 
 This is further supported by the fact that [[Capitalism involves fractured economic planning]], which a fully-planned economy makes vastly more efficient and effective. 
 

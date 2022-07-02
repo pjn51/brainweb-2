@@ -8,7 +8,7 @@
   "showFrontmatter": false,
   "autoPairMarkdown": true,
   "spellcheck": false,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byCreatedTime",
   "foldIndent": false,
   "showLineNumber": false,
   "mobileToolbarCommands": [

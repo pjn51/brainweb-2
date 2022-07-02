@@ -30,7 +30,7 @@ Final round (3 hours and 15 minutes):
 # Qualifications
 - ⭐️ Bachelor's degree with quantitative coursework or a related quantitative field
 - ⭐️ 1-2 years using [[Pandas]] for data manipulation and transformation
-- ✅ [[tableau]] or equivalency to create impactful reports, visualizations, and interactive dashboards
+- ✅ [[Tableau]] or equivalency to create impactful reports, visualizations, and interactive dashboards
 - ✅ 1-2 years experience writing complex and highly-optimized [[SQL]] queries
 - ⭐️ Experience using iPython (Jupyter) Notebooks
 - ⭐️ Experience collecting, cleaning, and analyzing vast amounts of structured and unstructured ambiguous data

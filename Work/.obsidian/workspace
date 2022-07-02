@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "fa49c194a3cb9c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0ffc0d2450d5446",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Work Meetings/22-07-01 Syed 1o1.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2fe8fea9be5032a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b087e0876040bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39987d8fba05a6cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10b7c17349bc18de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e94cd9a5052e87bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cd5fad2cff723f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c69d06d2cc5924",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Work Meetings/22-07-01 Syed 1o1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8debf5a685203f40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Work Meetings/22-07-01 Syed 1o1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05be56c3d983ebe8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96a140c298669962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work Meetings/22-07-01 Syed 1o1.md"
+              }
+            }
+          },
+          {
+            "id": "9113e4c63559a9d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b0ffc0d2450d5446",
+  "lastOpenFiles": [
+    "Work Meetings/22-07-01 Syed 1o1.md",
+    "Workdays/22-07-01 Fri.md",
+    "Work Meetings/22-06-28 Q3 TA planning.md",
+    "People & Teams/Indeed.md",
+    "People & Teams/Syed.md",
+    "Work Meetings/22-06-16 Syed 1o1.md",
+    "Work Meetings/22-06-23 Syed retro.md",
+    "Work Meetings/22-06-21 Syed 1o1.md",
+    "Reference/IQL - b2i session two.md",
+    "Reference/IQL - From Beginner to Intermediate.md"
+  ]
+}
