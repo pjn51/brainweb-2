@@ -1,7 +1,6 @@
 # Vim
-`LINKS`: [guide](https://www.tutorialspoint.com/vim/vim_introduction.htm)
-`TAGS`: 
+---
+Vim is a text editor. 
 
 ---
-# Introduction
-Vim is a text editor. 
+1. [guide](https://www.tutorialspoint.com/vim/vim_introduction.htm)

@@ -59,5 +59,6 @@
   "livePreview": true,
   "legacyEditor": false,
   "showUnsupportedFiles": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "vimMode": true
 }

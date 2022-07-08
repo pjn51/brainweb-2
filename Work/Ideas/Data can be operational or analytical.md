@@ -1,6 +1,3 @@
----
-
----
 # Data can be operational or analytical. 
 When collecting [[data]], there are generally two purposes. It can be operational - such as product inventory and bank balances. This form of data need to be up-to-date and secure. [[OLTP systems gather operational data]]. 
 

@@ -1,4 +1,5 @@
-*One-way functions are easy to compute, but difficult to reverse.* An example of a one-way function is the Rabin function:
+# One-way functions are easy to compute, but difficult to reverse.
+An example of a one-way function is the Rabin function:
 
 $$
 \text{Rabin}_N(x) = x^2 \ \text{mod} \ N
@@ -16,5 +17,6 @@ Simple enough, but going from the answer 2 to finding $x$ again, even when you k
 
 [[Public-key cryptography makes use of one-way functions]] because of how difficult they are to reverse. 
 
+---
 #idea/compsci/infosec 
 #idea/math 

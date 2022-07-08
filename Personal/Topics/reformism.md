@@ -2,10 +2,7 @@
 aliases: [Social Democrats, Social Democracy, reformist, reformists, Social Democratic]
 ---
 # Reformism
-`TAGS:`
-
 ---
-# Introduction
 Reformism is the political belief that there is a way forward for society through the normal channels of bourgeois democracy. Reformists seek to moderate the excesses of capitalism through these institutions. 
 
 Functionally, reformism acts as one of the main obstacles to revolution, since it has the ability to peel away layers of the working class and demobilize them. 

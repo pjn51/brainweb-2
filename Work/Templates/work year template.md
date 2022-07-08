@@ -1,7 +1,6 @@
 ---
 origin: {{date:YYYY-MM-DD}}
 ---
-
 # 📅 {{title}}
 `TAGS:` #daily 
 

@@ -6,7 +6,7 @@ on the Trust & Safety team within [[Job Seeker Operations|JS OPS]]
 
 
 ---
-# Meetings
+# Meeting mentions
 ```dataview
 list
 from [[Andrew]]

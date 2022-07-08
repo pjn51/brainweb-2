@@ -1,13 +1,8 @@
 # Ketamine
 `LINKS:` [erowid](https://www.erowid.org/chemicals/ketamine/ketamine_faq.shtml)
-`TAGS:` 
 
 ---
-# Introduction
-Ketamine is a psychadelic and dissociative [[drugs]]. 
-
-# Dosage / use
-Ketamine is usually injected, taken orally, or snorted. 
+Ketamine is a psychadelic and dissociative [[drugs]], which is usually injected, taken orally, or snorted. 
 
 When snorted, a social dose would be around 0.25 mg/lb. For 135 lbs, that's equal to 34 mg. A solid psychadelic dose would be around 0.5 to 1.0 mg/lb. For 135 lbs, that's between 67.5 mg and 135 mg. 
 

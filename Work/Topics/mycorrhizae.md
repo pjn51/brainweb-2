@@ -1,8 +1,8 @@
-# Mycorrhizae 🌱🤝🍄
-`TAGS:` 
-
 ---
-# Introduction
+aliases: [mycorrhizal]
+---
+# Mycorrhizae 🌱🤝🍄
+---
 Mycorrhizae refer to the [[fungi 1]] that engage in [[symbiosis]] with plants. This relationship is very important, and something like 90% of all plant life engages in it. 
 
 # Varieties

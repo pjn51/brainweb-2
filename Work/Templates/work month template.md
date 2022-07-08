@@ -1,4 +1,5 @@
 # 📅 {{date: MMMM YYYY}}
+🔀 {{date: YY-[Q]Q}}
 ⬅️
 ➡️
 

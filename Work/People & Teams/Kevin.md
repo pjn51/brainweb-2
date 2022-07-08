@@ -1,6 +1,6 @@
 # Kevin Curley
 is a Measurement Operations Analysy
-on [[Measurement & Tools]] ➡️  [[Product Quality Measurement]] 
+on [[Measurement & Tools]] ➡️  [[Measurement]] 
 
 ---
 

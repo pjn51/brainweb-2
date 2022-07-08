@@ -1,5 +1,4 @@
-# What is the general data science workflow?
-There are five fundamental steps to this workflow. 
+# There are five fundamental data science stages
 1. Question development
 2. Data wrangling and exploratory analysis
 3. Modeling
@@ -29,4 +28,4 @@ After modeling, we must enter the phase of [[communication and deployment]]. Thi
 The [[data science]] workflow is not linear. We can go from step one to two, back to one if need be. Overall, remember that [[Complexity must be justified]]. 
 
 ---
-#question/data-science 
+#idea/compsci/data-science 

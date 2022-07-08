@@ -20,9 +20,10 @@
     "enabled": true
   },
   "quarterly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "YY-[Q]Q",
+    "template": "Templates/quarterly template.md",
+    "folder": "Workdays/Quarters",
+    "enabled": true
   },
   "yearly": {
     "format": "",

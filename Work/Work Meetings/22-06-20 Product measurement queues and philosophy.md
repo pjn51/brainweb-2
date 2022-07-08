@@ -10,7 +10,7 @@ with [[Zandra]] and [[Kevin]]
 ---
 In this meeting, I went over data collection and active processes that the Operations team (within [[Measurement & Tools]]) have built. For more information on this, I was directed to the [team wiki for queue documentation](https://wiki.indeed.com/display/squalops/Measurement+Queue+Documentation). I also have access to the [slides](https://docs.google.com/presentation/d/1D-eeEzq6PC4nVtffBQzSK3gmiFczuAdwH1wERcySoR8/edit#slide=id.gb58abf7d8c_0_331). 
 
-First, we talked about the structure of the team. Kevin is on the Operations side of [[Product Quality Measurement|PQM]], working on [[data]] collection workflows, which the team calls [[PM queues]].
+First, we talked about the structure of the team. Kevin is on the Operations side of [[Measurement|PQM]], working on [[data]] collection workflows, which the team calls [[PM queues]].
 
 # PQM queues
 There are three areas that we talked about. First up, we discussed the queues related to product quality, the domain of the PQM team. 

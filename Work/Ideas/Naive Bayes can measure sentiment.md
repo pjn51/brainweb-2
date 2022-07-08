@@ -1,6 +1,3 @@
----
-
----
 # Naive Bayes can measure sentiment. 
 When we're performing [[sentiment analysis]], we can use [[naive bayes]] as a simple baseline [[modeling|model]]. 
 

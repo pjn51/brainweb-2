@@ -1,6 +1,3 @@
----
-
----
 # Every class has interests. 
 [[Marx asserts that existence determines consciousness]], and I agree. Because of our role in society, we all have perspectives that are going to align *on average* with others in our same position. 
 

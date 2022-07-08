@@ -7,6 +7,5 @@ The [[state]] is one of the most visible symptoms of the development of society.
 However, [[Workers' states are contradictory]], and the first [[dictatorship of the proletariat|workers' state]], [[The USSR became a degenerated workers' state]]. 
 # [[What happened to the USSR?]]
 
-#question/politics 
-
 ---
+#question/politics 

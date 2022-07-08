@@ -29,7 +29,7 @@ When jobseekers are notified with a suggestion to apply to a specific job, they 
 At the bottom of the search page, jobseekers can leave a comment about the quality of their search results. We can't see the jobs that they saw before leaving feedback, only the query and the page that they left feedback on. They report a relevancy score as well as a comment. This score and comment could relate to the quality of reccomendation on their home page, the quality of a search result, or the quality of an individual job, again - which we cannot see. This all gets fed into the [[SERP Relevance queue]]. 
 
 # Mid-apply feedback queue
-This is a relatively new queue, launched in Q2 2022. When you use Indeed Apply, you can leave feedback at multiple stages of the process. The most common bucket that these comments get put into is the "Resume and cover letter" one. We can see the job title, the page that they left feedback, and the feedback itself. 
+This is a relatively new queue, launched in Q2 2022. When you use Indeed Apply, you can leave feedback at multiple stages of the process. The most common bucket that these comments get put into is the "Resume and cover letter" one. We can see the job title, the page that they left feedback, and the feedback itself. We put this into the [[MidApply Feedback queue]]. 
 
 # Applications for feedback
 With feedback, particularly the mid-apply feedback, we can improve the user experience of tools since people often complain about pain points of the process. 

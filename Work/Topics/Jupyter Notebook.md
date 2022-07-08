@@ -1,6 +1,7 @@
+---
+aliases: [Jupyter Notebooks]
+---
 # Jupyter Notebook
-`TAGS:`
-
 ---
 We use Jupyter Notebook, which is an Integrated Development Environment. This is what we will be using for the whole bootcamp. 
 

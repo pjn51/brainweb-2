@@ -2,7 +2,7 @@
 origin: 2022-06-16
 aliases: [PQM]
 ---
-# Product Quality Measurement
+# Measurement
 ---
 This is a sub-team within [[Measurement & Tools]] in [[Indeed]]. I'm on this team as a Technical Analyst. 
 
@@ -10,7 +10,7 @@ This is a sub-team within [[Measurement & Tools]] in [[Indeed]]. I'm on this tea
 # Meeting mentions
 ```dataview
 LIST 
-FROM [[Product Quality Measurement]]
+FROM [[Measurement]]
 AND "Work Meetings"
 SORT title asc
 ```

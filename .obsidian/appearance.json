@@ -2,9 +2,12 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "translucency": false,
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "purplegraph"
-  ]
+  ],
+  "interfaceFontFamily": "Andale Mono",
+  "textFontFamily": "Andale Mono",
+  "monospaceFontFamily": ""
 }

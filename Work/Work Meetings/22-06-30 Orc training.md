@@ -38,7 +38,7 @@ Also, we need to have an environment variable `NEEDS_PROPS=1` in order to use th
 The team uses [[Kubernetes]], and we can use a thing called "service mesh," which acts as protocols that connect internal Indeed services. This is usually not required.
 
 ## How will I use Orc?
-Yan said that the [[Product Quality Measurement]] and [[Tooling]] teams basically use Orc in the same way. There are two basic kinds of Orc tasks: index builders and labeler interactors. The former are moving data into [[IQL]], and the latter are used to move data into [[Labeler]]. 
+Yan said that the [[Measurement]] and [[Tooling]] teams basically use Orc in the same way. There are two basic kinds of Orc tasks: index builders and labeler interactors. The former are moving data into [[IQL]], and the latter are used to move data into [[Labeler]]. 
 
 He sent me a google sheet of all the active CRON jobs and their timings. ^2
 

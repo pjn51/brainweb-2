@@ -1,8 +1,9 @@
+---
+aliases: [feedback loop]
+---
 # Feedback Loops 🔁
-`TAGS:` 
 
 ---
-# Introduction
 The concept of feedback loops has a place in [[environmental science]] as well as [[cybernetics]]. A feedback loop is a circular path of action -> reaction. 
 
 # In environmental science

@@ -7,20 +7,47 @@ aliases: []
 > [!summary]
 > This is the second session of [[IQL - From Beginner to Intermediate]].
 
-- HW review
-	- 2: where should have been `queue='Job_Level_Moderation = 'IN'` and GROUP BY `answerclassificationstok[5]`
-- LIMIT / SELECT stuff
-	- We can add a bracket to GROUP BY: `GROUP BY answer[n]` where $n$ is the number of results. 
-	- SELECT defaults to count of something dependent on index
-		- joblevelmoderation -> dockeys
-		- mechaactions -> actions
-		- searchablejobs -> jobs
-		- jobreportfraud -> job reports
-		- etc
-	- We can perform ratios and percentages in the select statement
-		- `select answer = 'badjob' / count()` gets percentage labeled as bad within joblevelmoderation
-- Multi param
-	- `WHERE queue IN ('queue_a', 'queue_b')`
+In this session, we went over the homework before diving into a discussion on LIMIT and SELECT, as well as how to use multiple parameters within statements. 
+
+For question 2 on the first set, I answered slightly wrong. My answer:
+
+```sql
+FROM joblevelmoderation 2020-01-01 2020-02-01
+WHERE job_country_code = 'IN'
+GROUP BY answerclassifications[5]
+SELECT --defaults to count()
+```
+
+Correct answer: 
+
+```sql
+FROM joblevelmoderation 2020-01-01 2020-02-01
+WHERE queue = 'Job_Level_Moderation_IN' 
+GROUP BY answerclassificationstok[5]
+SELECT --defaults to count()
+```
+
+This was just slightly off, based on a misunderstanding of the fields.
+
+As for LIMIT, we can add a bracket to `GROUP BY` in order to only pull $n$ results: `GROUP BY field[n]`. This defaults to `[TOP n]` but we could also specify `[BOTTOM n]` if we want.
+
+SELECT defaults to `count()` of something, depending on the index that we're using:
+
+- `joblevelmoderation` - count of doc keys
+- `mechaactions` - count of actions
+- `searchablejobs` - count of jobs
+- and so on.
+
+We can also perform basic math in the SELECT statement. If we want to find the percentage of jobs in a JLM queue labeled as bad, we can do so:
+
+```sql
+FROM joblevelmoderation yesterday today
+WHERE 
+GROUP BY 
+SELECT answer = 'badjob' / count()
+```
+
+Finally, we can have multiple parameters per statement: `WHERE queue in ('queue_a', 'queue_b')`. 
 
 ## Homework
 1. What moderators [top 5] selected Low Quality Title the most often in the month of July of 2021?

@@ -25,5 +25,10 @@
   "sanctum@@note-title-left": false,
   "sanctum@@alt-link": true,
   "sanctum@@table-options": "alternate-row-clr",
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@fancy-hr": "fancy-hr-number",
+  "blue-topaz-theme@@custom-titlebar-bg@@light": "#FFFFFF",
+  "blue-topaz-theme@@custom-titlebar-bg@@dark": "#000000"
 }

@@ -4,7 +4,7 @@ aliases: [PM queue]
 ---
 # PM queues
 ---
-A product measurement queue is a [[Labeler]] task that the [[Product Quality Measurement]] team uses to measure the quality of [[Indeed]] tools and products. 
+A product measurement queue is a [[Labeler]] task that the [[Measurement]] team uses to measure the quality of [[Indeed]] tools and products. 
 
 There are three central queues that I know of:
 

@@ -4,6 +4,7 @@ aliases: []
 ---
 # GitLab
 ---
-GitLab is an open-source tool similar to [[GitHub]]. We use it at [[Indeed]].
+GitLab is an open-source tool similar to [[GitHub]]. We use it at [[Indeed]]. 
 
 ---
+1. [Website](https://code.corp.indeed.com/)

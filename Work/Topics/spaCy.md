@@ -19,7 +19,7 @@ SpaCy is a [[Python]] [[modules and packages|package]] for [[NLP]].
 - Serialization
 
 ## Tokenization
-[[Tokenization extracts features from text]]. First, spaCy tokenizes the text on whitespace using a method similar to `text.split()`. Then, the tokenizer processes the text from left to right, performing two checks. First, it checks if the substring matches a tokenizer exception rule. For example, "don't" is split into two substrings despite the lack of whitespace.
+[[Embedding extracts features from text]]. First, spaCy tokenizes the text on whitespace using a method similar to `text.split()`. Then, the tokenizer processes the text from left to right, performing two checks. First, it checks if the substring matches a tokenizer exception rule. For example, "don't" is split into two substrings despite the lack of whitespace.
 
 Then, the tokenizer checks to see if a prefix, suffix, or infix can be split from the text. 
 

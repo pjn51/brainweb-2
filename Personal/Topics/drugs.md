@@ -1,8 +1,8 @@
-# Drugs 💊
-`TAGS:`
-
 ---
-# Introduction 
+aliases: [drug, medicine, medicines]
+---
+# Drugs 💊
+---
 Drugs are chemical compounds ingested in order to produce some effect, either physical, mental, or emotional. 
 
 # Medical drugs

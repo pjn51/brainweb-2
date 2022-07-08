@@ -5,7 +5,7 @@ with: PQM
 ---
 # Sprint planning
 on [[22-06-20 Mon]]
-with [[Product Quality Measurement|PQM]]
+with [[Measurement|PQM]]
 
 ---
 This is a sprint planning meeting. Syed briefly went over a quote about MVP protocol, and then the team discussed the upcoming sprint. They noted that there's a documentation day on the 23rd, and all tickets and epics should be closed as this sprint ends today at noon. 

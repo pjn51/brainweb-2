@@ -12,23 +12,23 @@ This is a 20-person meeting of the whole [[Measurement & Tools]] team.
 
 # Team intros
 - [[Logan]]: TA on tooling. Videogames. 
-- Dylan: team lead for data ops (part of this team apparently). MMA. Dogs.
-- Zandra: team leads for Measurement ops. Dancing. Dog. 
-- Lynn: Reading. Krav Maga. 
-- Alex: Video games. 
-- Kevin: Measurement ops analyst. Disc golf. 
-- Katie: TA on Dylan's team. Cat. Running, cooking. Reading. 
-- John: Dylan's team. Cats. Music. Tennis. 
-- Will: TA on Dylan's team. Wants a cat. Just joined! Florida. 
+- [[Dylan]]: team lead for data ops (part of this team apparently). MMA. Dogs.
+- [[Zandra]]: team leads for Measurement ops. Dancing. Dog. 
+- [[Lynn]]: Reading. Krav Maga. 
+- [[Alex]]: Video games. 
+- [[Kevin]]: Measurement ops analyst. Disc golf. 
+- [[Katie]]: TA on Dylan's team. Cat. Running, cooking. Reading. 
+- [[John]]: Dylan's team. Cats. Music. Tennis. 
+- [[Will]]: TA on Dylan's team. Wants a cat. Just joined! Florida. 
 - Kevin: video games. 
-- Syed: team lead for prod quality. Likes self help books. Biking. 
-- Yan: research engineer. Canadian. Guitar.  
-- Jesse: senior TA on tool side. Motorcycles. Houston. 
-- Atsushi: TA on tooling side. Gym, 2hrs every day. 
-- Josh: TA on Syed's team with me. Just joined!
-- Megan: On Syed's team. Joined in January. Houston. 
-- Dan: Senior ops analyst for measurement. 4 yrs. Dogs. Video games. 
-- Charles: TA on data ops team. Colorado. 
+- [[Syed]]: team lead for prod quality. Likes self help books. Biking. 
+- [[Yan]]: research engineer. Canadian. Guitar.  
+- [[Jesse]]: senior TA on tool side. Motorcycles. Houston. 
+- [[Atsushi]]: TA on tooling side. Gym, 2hrs every day. 
+- [[Josh]]: TA on Syed's team with me. Just joined!
+- [[Megan]]: On Syed's team. Joined in January. Houston. 
+- [[Dan]]: Senior ops analyst for measurement. 4 yrs. Dogs. Video games. 
+- [[Charles]]: TA on data ops team. Colorado. 
 - Me: climbing, biking. Rainy weather
 
 # Knowledge sharing

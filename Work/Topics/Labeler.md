@@ -6,7 +6,7 @@ aliases:
 ---
 Labeler is an in-house [[Indeed]] tool for creating and managing workflows that are related to [[data annotation]] or moderation. It's an [[internal Indeed tools|internal Indeed tool]] managed by the Scaled Ops team. 
 
-This is the tool that the [[Product Quality Measurement|PQM]] team builds [[PM queues]] with. 
+This is the tool that the [[Measurement|PQM]] team builds [[PM queues]] with. 
 
 Labeler is tightly linked with some [[IQL]] indexes so that we can query the annotated data produced by the queues. 
 

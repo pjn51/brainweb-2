@@ -4,8 +4,7 @@ aliases: [Ishbooks]
 ---
 # Ishbook
 ---
-Ishbook is a [[Jupyter Notebook]] wrapper that [[Indeed]] uses. 
-
+Ishbook is a [[Jupyter Notebook]] wrapper that [[Indeed]] uses. So far I haven't seen any major differences, except for some visual things.
 
 ---
 ```dataview

@@ -1,5 +1,7 @@
+---
+aliases: [logarithm, logarithmic]
+---
 # Logarithms
-
 ---
 A logarithm is a way of expressing the answer to the question: "How many (*a*) of number *b* do we have to multiply by itself to get number *c*?" It is often used in [[calculus]]. 
 

@@ -6,10 +6,4 @@ died: 135
 `TAGS:` #people 
 
 ---
-# Introduction
 Epictetus was a proponent of [[Stoicism]]. 
-
-# Life
-...
-# Ideas
-...

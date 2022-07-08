@@ -1,6 +1,3 @@
----
-
----
 # Military spending is massively pollutive.
 The [[USA]] military emitted 59 million tons of $\text{CO}_2$ in 2017 [1]. If we take this as a standard yearly rate, and assume that this is standard per dollar of defense spending globally, we can see the total global impact of military spending. 
 $$

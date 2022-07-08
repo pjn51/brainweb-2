@@ -6,9 +6,9 @@ aliases:
 ---
 IQL stands for Imhotep Query Language. As the name would imply, it's a [[SQL]]-like query language built around [[Imhotep]], [[internal Indeed tools|built by Indeed]].
 
-The [[Labeler]] tool sends data into IQL indices. 
+IQL is built around on [[IQL indices]].
 
-IQL is queried based on [[IQL indices]]. 
+The [[Labeler]] tool sends data into IQL indices. 
 
 ---
 1. Here's the [IQL confluence home page](https://wiki.indeed.com/display/IQL/IQL+Home+-+Your+Primary+Source+for+All+Things+IQL)
@@ -21,4 +21,3 @@ FROM [[IQL]]
 AND "Ideas"
 AND -outgoing([[IQL]])
 ```
-

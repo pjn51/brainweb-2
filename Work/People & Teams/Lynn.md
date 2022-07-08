@@ -3,7 +3,7 @@ aliases: [Lynn's]
 ---
 # Lynn Leifker
 is an Operations Technical Analyst I
-on [[Job Seeker Operations|JS OPS]] > [[Measurement & Tools]] > [[Product Quality Measurement|PQM]]
+on [[Job Seeker Operations|JS OPS]] > [[Measurement & Tools]] > [[Measurement|PQM]]
 
 ---
 

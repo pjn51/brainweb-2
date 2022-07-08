@@ -1,6 +1,3 @@
----
-
----
 # Currency has a dual nature. 
 The [[currency]] that we use fills two roles. On one hand, [[Money is a universal commodity]], allowing us to easily exchange one [[commodities|commodity]] for another. 
 

@@ -3,4 +3,4 @@
 
 ---
 See...
-# [[What is the general data science workflow?]]
+# [[There are five fundamental data science stages]]

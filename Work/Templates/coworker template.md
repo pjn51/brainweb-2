@@ -14,4 +14,5 @@ on
 list
 from [[{{title}}]]
 and "Work Meetings"
+sort file.name DESC
 ```

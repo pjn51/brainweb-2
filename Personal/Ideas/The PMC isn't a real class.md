@@ -1,4 +1,5 @@
-*The PMC isn't a real class.* The PMC, or the "professional managerial class," is a fantasy mainly created by [[workerism|workerists]] who think that the only real worker is a construction worker or factory worker. 
+# The PMC isn't a real class.
+The PMC, or the "professional managerial class," is a fantasy mainly created by [[workerism|workerists]] who think that the only real worker is a construction worker or factory worker. 
 
 These folks tend to think that any white-collar, well paid worker is somehow on the side of the bourgeoisie, while in fact, these workers just make up the less exploited members of the class. 
 
@@ -6,11 +7,5 @@ Instead of targeting and attempting to remove them from the struggle, we should 
 
 Instead, workerists and "PMC" theorists tend to propose that the "PMC" will never be revolutionary, and we should view these salaried workers as enemies instead of potential allies. This is why [[Workerism isn't revolutionary]]. 
 
-#idea/politics/economics 
-#idea/politics 
-
 ---
-```dataview
-LIST
-FROM [[The PMC isn't a real class]] AND -outgoing([[The PMC isn't a real class]])
-```
+#idea/politics/economics 

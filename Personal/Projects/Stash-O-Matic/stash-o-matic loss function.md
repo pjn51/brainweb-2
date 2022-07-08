@@ -1,6 +1,4 @@
 # Stash-O-Matic Loss Function
-`TAGS:`
-
 ---
 ## Introduction
 We want to maintain liquidity, prevent sell-outs, and maximize revenue given those conditions as part of the [[stash-o-matic model]] and ultimately the [[stash-o-matic project]] project. 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "64b75cc3277c6a61",
+        "id": "a9da0f656ae89c72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Journal/Days/2022-06-30.md",
+            "file": "Marx and Engels' Selected Correspondance (1980).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:personal",
+                "query": "path:Ideas/ AND path:data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Journal/Days/2022-06-30.md",
+                "file": "Marx and Engels' Selected Correspondance (1980).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Journal/Days/2022-06-30.md",
+                "file": "Marx and Engels' Selected Correspondance (1980).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Journal/Days/2022-06-30.md"
+                "file": "Marx and Engels' Selected Correspondance (1980).md"
               }
             }
           }
@@ -140,24 +140,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
+    "width": 305.5,
     "collapsed": true
   },
-  "active": "64b75cc3277c6a61",
+  "active": "a9da0f656ae89c72",
   "lastOpenFiles": [
-    "Personal/Topics/Atos health insurance options.md",
-    "Personal/Topics/personal finance.md",
-    "Personal/Journal/Days/2022-06-30.md",
-    "Personal/Journal/Days/2022-06-29.md",
-    "Work/Topics/SERP Relrating queue.md",
-    "Personal/Journal/Days/2022-06-28.md",
-    "Work/Ideas/Onion services have some weaknesses.md",
-    "Work/Questions/How can internet traffic be anonymized?.md",
-    "Work/Questions/What is attention in machine learning?.md",
-    "Work/Questions/What do backend developers need to know?.md"
+    "Personal/Journal/Days/2022-07-08.md",
+    "Work/Ideas/Naive Bayes can measure sentiment.md",
+    "Work/Topics/naive bayes.md",
+    "Personal/Literature & Reference/The Meaning of October (1992).md",
+    "Personal/Journal/Days/2022-01-03.md",
+    "Personal/Ideas/The PMC isn't a real class.md",
+    "Personal/Journal/Days/2022-03-31.md",
+    "Personal/001/vault refresher.md",
+    "Personal/Literature & Reference/Neo-Colonialism, the Last Stage of Imperialism (1965).md",
+    "Personal/Topics/sugar.md"
   ]
 }

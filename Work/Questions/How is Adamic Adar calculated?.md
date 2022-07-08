@@ -8,4 +8,4 @@ Where $N(u)$ is the set of nodes adjacent to $u$. The script under $\sum$ is say
 A value of zero indicates that the nodes are distant, while a high value indicates closeness between nodes. 
 
 ---
-#question
+#question/math 

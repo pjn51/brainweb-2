@@ -2,7 +2,7 @@
 origin: 2022-06-27
 aliases: [daemons]
 ---
-# Daemon
+# Daemon 😈
 ---
 In computer science, a daemon is an automated process that runs in the background, outside the direct control of the user.
 

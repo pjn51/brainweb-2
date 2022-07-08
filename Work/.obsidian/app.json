@@ -3,5 +3,6 @@
   "livePreview": true,
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

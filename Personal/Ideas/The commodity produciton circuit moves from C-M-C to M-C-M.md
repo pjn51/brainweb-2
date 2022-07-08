@@ -1,4 +1,5 @@
-*Commodity production creates a circuit.* Initially, [[commodities|commodity]] production can be described as a $C-M-C$ circuit, as a commodity is produced, exchanged for [[currency|money]], and then exchanged for another commodity. 
+# Commodity production creates a circuit.
+Initially, [[commodities|commodity]] production can be described as a $C-M-C$ circuit, as a commodity is produced, exchanged for [[currency|money]], and then exchanged for another commodity. 
 
 However, as the production system matures, this cycle is supplanted by a $M-C-M'$ circuit, as the emerging merchant class attempts to invest in commodity ownership only to transform it into a greater sum of money than was initially invested. However, this is a fundamentally parasitic strategy, since [[Labor creates value]], not exchange. 
 

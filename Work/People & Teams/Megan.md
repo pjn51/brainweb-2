@@ -1,6 +1,6 @@
 # Megan Cramer
 is a 
-on [[Product Quality Measurement|PQM]] - measurement ops
+on [[Measurement|PQM]] - measurement ops
 
 ---
 Deals with RAJ, net promotoer score, other feedback queues. Works with [[Dan]]. 

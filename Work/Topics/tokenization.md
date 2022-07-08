@@ -4,13 +4,9 @@ aliases: [tokenize, tokenizes, tokenized]
 ---
 # Tokenization
 ---
-[[Tokenization extracts features from text]], and is a standard first-step during [[NLP]]. 
+Tokenization is the process of breaking down a string of text into its component parts. It's a standard part of [[NLP]], and is very similar to [[embedding]].
 
-I'm really not sure what the difference between [[tokenization]] and [[embedding]] is...
-
->[!bug]
->I think this definition is incorrect.
-
+---
 ```dataview
 LIST 
 FROM [[tokenization]]

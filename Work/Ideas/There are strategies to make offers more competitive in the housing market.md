@@ -1,4 +1,5 @@
-*There are strategies to make offers more competitive in the housing market.* This is important if you're expecting a multiple-offer scenario. 
+# There are strategies to make offers more competitive in the housing market.
+This is important if you're expecting a multiple-offer scenario. 
 
 Beyond just increasing the price you're willing to pay up front, you can establish an *escalation clause.* Let's say that a house is asking $500,000. If you suspect that there will be an offer at or above that price, you can say that you're willing to pay $1,000 more than the other guy, up to a ceiling of $510,000. 
 

@@ -25,11 +25,9 @@ WHERE file.ctime.month = {{date: MM}} AND file.ctime.year = {{date: YYYY}}
 GROUP BY true
 ```
 
-> [!Summary]
-> ...
+# Summary
 
-> [!one] 
-> ...
+# 1️⃣ First week
 
 - Sunday:
 - Monday:
@@ -39,8 +37,7 @@ GROUP BY true
 - Friday:
 - Saturday:
 
-> [!two] 
-> ...
+# 2️⃣ Second week
 
 - Sunday:
 - Monday:
@@ -50,8 +47,7 @@ GROUP BY true
 - Friday:
 - Saturday:
 
-> [!three] 
-> ...
+# 3️⃣ Third week
 
 - Sunday:
 - Monday:
@@ -61,8 +57,7 @@ GROUP BY true
 - Friday:
 - Saturday:
 
-> [!four] 
-> ...
+# 4️⃣ Fourth week
 
 - Sunday:
 - Monday:

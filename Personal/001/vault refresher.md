@@ -5,7 +5,6 @@ The purpose of this tool is to show me notes that I haven't modified in a long t
 
 ```dataview
 TABLE file.mday AS "Modified"
-FROM ("Topics" OR "Literature & Reference" OR "People & Organizations" OR "Projects")
 SORT file.mtime
 LIMIT 10
 ```
