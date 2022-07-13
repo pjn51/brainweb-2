@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "55269671fd59914a",
+        "id": "81ebb4ef2e1a0b60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/Seattle 2+U office.md",
+            "file": "Work Meetings/22-07-13 Syed 1o1.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "q3",
+                "query": "ux ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Seattle 2+U office.md",
+                "file": "Work Meetings/22-07-13 Syed 1o1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Seattle 2+U office.md",
+                "file": "Work Meetings/22-07-13 Syed 1o1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Seattle 2+U office.md"
+                "file": "Work Meetings/22-07-13 Syed 1o1.md"
               }
             }
           },
@@ -131,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55269671fd59914a",
+  "active": "39987d8fba05a6cd",
   "lastOpenFiles": [
-    "Topics/Seattle 2+U office.md",
-    "22-07-06 MidApply calibration.md",
-    "Workdays/22-07-06 Wed.md",
-    "Ideas/Novelty search works surprisingly well as an EA.md",
-    "Work Meetings/22-06-21 intro to Labeler.md",
-    "Work Meetings/22-07-05 PQM biweekly.md",
-    "Work Meetings/22-06-30 PQM standup.md",
-    "Ideas/There are strategies to make offers more competitive in the housing market.md",
-    "Topics/integrals.md",
-    "Ideas/A housing offer is a binding contract.md"
+    "Tickets/4607 - Learn how to write a Cronjob.md",
+    "Work Meetings/22-07-13 Syed 1o1.md",
+    "Workdays/22-07-13 Wed.md",
+    "Work Meetings/22-07-13 Doc uploading Cron template overview.md",
+    "Reference/IQL - b2i session six.md",
+    "Work Meetings/22-07-13 Maintaining team docs.md",
+    "Questions/How can we understand RAJ feedback?.md",
+    "People & Teams/Katie.md",
+    "Topics/Indeed org chart.md",
+    "Work Meetings/22-06-22 user feedback queue and policy overview.md"
   ]
 }

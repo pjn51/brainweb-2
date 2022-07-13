@@ -1,5 +1,4 @@
 # Range
-`TAGS:`
 
 ---
 # Introduction 

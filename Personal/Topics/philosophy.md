@@ -1,14 +1,13 @@
 ---
-aliases: [philosophical, philosopher]
+aliases: [philosophical, philosopher, philosophers]
 ---
-# Philosophy 🧐
+# Philosophy
 `TAGS:` #hub 
 
 ---
-# Introduction
-This will act as the #hub for philosophy topics and philosophers. 
+Philosophy is the study of reality and our experience of it. It is divided into a few areas of investigation. [[Epistemology]] seeks to investigate questions about knowledge. [[Ontology]] seeks to answer questions about existence. 
 
-# Schools of Philosophy
+There are various philosophical movements:
 - [[Buddhism]]
 - [[postmodernism]]
 - [[Stoicism]]
@@ -16,27 +15,9 @@ This will act as the #hub for philosophy topics and philosophers.
 - [[Marxism]]
 - [[Anarchism]]
 
-# Concepts in Philosophy
-- [[dialectical materialism]]
-- [[dialectics]]
-- [[metaphysics]]
-- [[ethics]]
-- [[idealism]]
-- [[materialism]]
-- [[phenomenology]] 
-
-# Figures in Philosophy
-- [[Hegel]]
-- [[Marx]]
-- [[Engels]]
-- [[Camus]]
-- [[Sartre]]
-- [[Simone de Beauvoir]]
-- [[Kant]]
-
-# Further reading
+---
 ```dataview
 LIST 
-FROM [[philosophy]]
-WHERE file.name != "home"
+FROM [[philosophy]] AND ("Personal/Ideas" OR "Work/Ideas")
+AND -outgoing([[philosophy]])
 ```

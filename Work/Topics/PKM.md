@@ -2,22 +2,22 @@
 `TAGS:` #hub 
 
 ---
-# Introduction
-This topic is all about tools like [[Obsidian]] and how we can best use them to manage our store of knowledge. As is obvious, I find this interesting and useful.
+PKM frameworks are meant to allow us to manage and grow our knowledge. The field consists of PKM tools, such as [[Obsidian]], and PKM frameworks, such as the [[zettelkasten method]], [[PARA]], and the [[IMF framework]]
 
-There are a few different frameworks that people like. The ones I've heard of are the [[zettelkasten method]], [[PARA]], and the [[IMF framework]]. 
+I think PKM and artificial intelligence have a lot of potential when paired. I recently learned of a project called Dual. The idea is to train a [[transformer]] on your vault notes, and use that to create a personal assistant with your knowledge base! What a sick idea. ^1
 
-I think PKM and artificial intelligence have a lot of potential when paired. I recently learned of a project called Dual. The idea is to train a [[transformer]] on your vault notes, and use that to create a personal assistant with your knowledge base! What a sick idea. 
+I should remember that [[PKM isn't an end in itself]]. Knowledge management is secondary to knowledge application. 
 
-# External links
-- [Dual](https://psionica.org/docs/workshop/dual/)
-- [The Obsidian forum](https://forum.obsidian.md/)
-- [The Obsidian subreddit](https://www.reddit.com/r/ObsidianMD/)
-- [How to choose a note-taking app](https://nesslabs.com/how-to-choose-the-right-note-taking-app)
+One thing I've learned throughout my development is that [[Ideas are more important to record than facts]], and that I should [[Build scaffolding, not cages]]. This has led me towards more flexible frameworks such as the [[zettelkasten method]]. 
 
-# Further reading
+---
+1. [Dual](https://psionica.org/docs/workshop/dual/)
+2. [The Obsidian forum](https://forum.obsidian.md/)
+3. [The Obsidian subreddit](https://www.reddit.com/r/ObsidianMD/)
+4. [How to choose a note-taking app](https://nesslabs.com/how-to-choose-the-right-note-taking-app)
+
+---
 ```dataview
 LIST 
-FROM [[PKM]]
-WHERE file.name != "home"
+FROM [[PKM]] AND ("Personal/Ideas" OR "Work/Ideas") AND -outgoing([[PKM]])
 ```

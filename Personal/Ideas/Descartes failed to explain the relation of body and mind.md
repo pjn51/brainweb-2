@@ -1,5 +1,5 @@
 # Descartes failed to explain the relation of body and mind.
-[[Descartes vaccilated towards materialism]], but ultimately feel into [[idealism]], further reifying this false divide. This was one example of how [[Descartes vaccilated towards materialism]] and then away again. 
+[[Descartes vaccilated towards materialism]], but ultimately feel into [[idealism]].
 
 From a [[materialism|materialist]] perspective, [[Thought is matter that thinks]], resolving this divide. 
 

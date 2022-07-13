@@ -1,7 +1,5 @@
  # Osteoperosis 🦴
-
 ---
-## Introduction
 Osteoperosis is also known as low bone density. Those with [[Crohn's disease]] are at higher risk.
 
 The WHO defines a normal [[z-score]] as within 2 standard deviations from normal bone density. 

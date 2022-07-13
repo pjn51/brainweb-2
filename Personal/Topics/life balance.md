@@ -1,6 +1,4 @@
  # Life Balance ☯️
-`TAGS`:
-
 ---
 I feel like there are three main components that I'm trying to balance in my life. 
 

@@ -10,6 +10,6 @@ One of the largest expenses for me is housing, as it is for most Americans. One 
 It's important to keep track of finances and budgeting intelligently.
 # [[What's the best way to organize a budget?]]
 
+---
 #question/life 
 
----

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marx and Engels' Selected Correspondance (1980).md",
+            "file": "2022-07-13 JC 1o1.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Ideas/ AND path:data",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marx and Engels' Selected Correspondance (1980).md",
+                "file": "2022-07-13 JC 1o1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -73,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marx and Engels' Selected Correspondance (1980).md",
+                "file": "2022-07-13 JC 1o1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marx and Engels' Selected Correspondance (1980).md"
+                "file": "2022-07-13 JC 1o1.md"
               }
             }
           }
@@ -138,9 +138,16 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "370db2983ca07857",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,15 +156,15 @@
   },
   "active": "a9da0f656ae89c72",
   "lastOpenFiles": [
-    "Personal/Journal/Days/2022-07-08.md",
-    "Work/Ideas/Naive Bayes can measure sentiment.md",
-    "Work/Topics/naive bayes.md",
-    "Personal/Literature & Reference/The Meaning of October (1992).md",
-    "Personal/Journal/Days/2022-01-03.md",
-    "Personal/Ideas/The PMC isn't a real class.md",
-    "Personal/Journal/Days/2022-03-31.md",
-    "Personal/001/vault refresher.md",
-    "Personal/Literature & Reference/Neo-Colonialism, the Last Stage of Imperialism (1965).md",
-    "Personal/Topics/sugar.md"
+    "Personal/Journal/Days/2022-07-13.md",
+    "Work/Ideas/Organize information for retrieval.md",
+    "2022-07-13 JC 1o1.md",
+    "Personal/Topics/dot method.md",
+    "Personal/Questions/How should I organize my knowledge?.md",
+    "Work/Topics/PKM.md",
+    "Personal/Ideas/Lenin criticised Kautsky's definition of imperialism.md",
+    "Personal/Ideas/Kautsky defined imperialism as agrarian expansionism.md",
+    "Personal/People & Organizations/Kautsky.md",
+    "Personal/Ideas/Postmodernism is a philosophy of despair.md"
   ]
 }

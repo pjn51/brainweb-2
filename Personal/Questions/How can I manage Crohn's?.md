@@ -5,6 +5,5 @@ There are really two aspects of managing CD: diet and medication.
 # [[How does diet affect Crohn's?]]
 # [[How does medication affect Crohn's?]]
 
-#question/health
-
 ---
+#question/health

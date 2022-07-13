@@ -1,7 +1,8 @@
 {
   "cssTheme": "Minimal",
-  "baseFontSize": 16,
-  "interfaceFontFamily": "Andale Mono",
-  "textFontFamily": "Andale Mono",
-  "theme": "obsidian"
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "baseFontSizeAction": false
 }

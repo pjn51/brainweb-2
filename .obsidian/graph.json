@@ -6,25 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path: Work",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.901870013297872,
-  "lineSizeMultiplier": 0.1,
+  "nodeSizeMultiplier": 0.1,
+  "lineSizeMultiplier": 0.150390625,
   "collapse-forces": false,
   "centerStrength": 0.660324260752688,
   "repelStrength": 10.2410239361702,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2480703547733911,
-  "close": false
+  "scale": 0.23188972011719985,
+  "close": true
 }

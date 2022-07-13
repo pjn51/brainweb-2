@@ -1,5 +1,4 @@
 # Random Forest 🌲🎲🌲
-`TAGS:`  
 
 ---
 For an introduction to Random Forest, see my [[2-1-21 metis]] notes.

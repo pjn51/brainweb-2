@@ -1,8 +1,8 @@
-# Complexity
-`TAGS:`
-
 ---
-# Introduction
+aliases: 
+---
+# Complexity
+---
 An algorithm's complexity is a measure of the resources it uses. This includes the memory (space compexity) and the time it takes (time complexity). 
 
 # Big-O notation [^1]
