@@ -5,7 +5,7 @@ with [[Dan]], [[Megan]]
 ---
 This was a short meeting where Dan, Megan, and I discussed who I should reach out to in regards to the user feedback analysis that I'm going to be responsible for. 
 
-Dan said that my main priority should be to get familiar with [[IQL indices|IQL index]] builders, [[CRON job|CRON jobs]], and the way that sampling is done. He said that this is a substantial amount of work, but the pipelines for various lanes of user feedback are quite similar, so once I understand one the rest will come easier.
+Dan said that my main priority should be to get familiar with [[IQL indices|IQL index]] builders, [[Cronjob|CRON jobs]], and the way that sampling is done. He said that this is a substantial amount of work, but the pipelines for various lanes of user feedback are quite similar, so once I understand one the rest will come easier.
 
 They both advised me to reach out to [[Lynn]], who they said was able to conduct deep dives into various [[PM queues]] rather quickly.
 

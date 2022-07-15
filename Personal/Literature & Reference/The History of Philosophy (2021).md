@@ -11,76 +11,78 @@ genre: political
 This is a book by [[Alan Woods]] that seeks to trace the development of [[philosophy]] from the dawn of humanity to [[Marx]], while using the method of [[dialectical materialism]]. 
 
 ---
-# Accident and necessity
+# Themes
+## Accident and necessity
 Woods quotes [[Trotsky]], who says that a leader really reflects the relations between people, their combined interests and needs, rather than a personality (275). To him, this reflects the relationship between accident and necessity - the necessity of having a leader is reflected by the more-or-less accidental nature of the rise of any individual leader. 
 
-# Christianity
+## Christianity
 Woods argues that while [[Christianity]] initially reflected a revolutionary impulse from the most oppressed, it was adopted by the ruling class and further fossilized after the Council of Nicea. He says that from then on, it was an extremely reactionary force. [[Religious movements tend to start as revolutionary and end as repressive]], and in this case,[[Nicea institutionalized Christianity]]. 
 
-# Common sense
+## Common sense
 Woods says that common sense relies heavily on impression, and is good enough to work most of the time. However, he criticizes it, saying that it insufficient beyond certain limits. He says that the dialectical method is the opposite of this process (258). [[Common sense has limitations]]. 
 
-# Contradiction
+## Contradiction
 Woods agrees with [[Hegel]] that contradictions lie at the heart of reality, and cannot be avoided (270). 
 
-# Epistemology
+## Epistemology
 Woods urges us not to confuse things that we do not know with things we cannot know (237). Throughout the book, he examines the ideas of the Empiricists, Kant, Spinoza, Hegel, and others' ideas about knowledge. 
 
-# Equilibrium
+## Equilibrium
 Woods talks about how equilibriums were once supposed the be the natural state of the world, but as science develops, we're seeing that [[Change is omnipresent]] and equilibrium is rare. He says that this is in line with the predictions of the dialectical method (273). 
 
-# Form and content
+## Form and content
 Woods discusses [[The contradiction of form and content]], using a flower in a pot as an example (272). 
 
-# Islam
+## Islam
 Woods says that the [[Islam|Islamic]] world kept the flame of learning alive as Europe descended due to Christianity. He traces the similarities between the development of Christianity and Islam, but says that there was more room for scientific inquiry in the latter faith. He explains that this was reflected in the scientific advances made by the Islamic world, and the ease in which they conqured [[Spain]]. However, he continues, this region was crushed by the Crusades. 
 
-# Objective and subjective factors
+## Objective and subjective factors
 Woods credits Marxism for the fact that [[Marxism isn't deterministic]] - he says that we must emphasize both the objective and subjective factors of thought and human activity. He says that the objective factors were best explained by the vulgar materialists, and that it was the idealists such as Hegel who examined the subjective factor sufficiently (302). 
 
-# Social progress
+## Social progress
 Woods argues that this process is a contradictory series of stages which is constantly interrupted, with periods of rapid developement and periods of stagnation (256). He also says that [[Revolutions become inevitable when the superstructure strangles the productive forces]] and fails to raise the level of culture and the productive forces (277). 
 
-# Unity of opposites
+## Unity of opposites
 Woods explains that [[Opposites require each other]], and opposing phenomena are actually inseperable and rely on one another for their identity (268). 
 
-# Quantity and quality
+## Quantity and quality
 Woods criticizes attempts to reduce qualitative aspects to base quantities, a process known as *reductionism.* He says that in reality, nothing consists of a pure quantity, just as nothing exists of a pure quality, He agrees with Hegel that we must examine the unity of these two sides (267). He explains how [[Quantity transforms into quality]]. 
 
 
 
 ---
-# Ancient Greeks
+# Schools
+## Ancient Greeks
 Woods says the Greeks were the first dialecticians. 
 
-# Aristotle
+## Aristotle
 [[The law of identity is the foundation of formal logic]], first formulted by Aristotle. Discussing [[Aristotle]], Woods says that the Christian Church later warped Aristotle's ideas, making him into less of a dialectician, seeing as in reality [[Aristotle criticized idealism]]. However, we still see that [[Woods criticizes Aristotle's ideas]]. 
 
-# Plato
+## Plato
 [[Woods views Platonic philosophy as a regression]] from Aristotle back into idealism. He says this regression took place because of the unstable state of Greek society. Woods notes that Plato thought that humans and reality were reflections of universal archetypes, and that we had to use reason to access these archetypes. Because of this, [[Plato was an idealist]]. 
 
-# Saint Augustine
+## Saint Augustine
 Woods says that he was the most prominent philosopher of the Dark Ages, who agreed with Plato about the existence of ultra-real archetypes, but thought that it was *faith* rather than reason that we could use to gain knowledge of them. The author says that this was elaborated in the trend of Realism. 
 
-# Abelard
+## Abelard
 Woods explains that the school of Nominalism, led by Abelard, rose to challenge Augustinian Realism. He says that Abelard viewed all things as combinations of the universals of air, wind, water, and fire. Notionalism, Woods continues, would go on to challenge the existence of all universal notions (outside of human minds). 
 
-# Aquinas
+## Aquinas
 Woods explains that as Augustinian thought declined, Aristotle's ideas re-entered the mainstream. As a result of this, he says, thinkers like Aquinas attempted to salvage the Platonic underpinnings of Augustine by fusing them to Aristotle's ideas. 
 
-# Galileo
+## Galileo
 Woods says that Galileo was the most accomplished scientist of the Renaissance. 
 
-# Locke
+## Locke
 Woods says that [[Locke]] and other Empiricists viewed the human mind as a blank slate upon which sense perceptions were imprinted (233). Later thinkers criticized this, saying that thought was an active process of interpretation and reorganization of information. 
 
-# Leibniz
+## Leibniz
 Woods argues that [[Leibniz]], who challenged the monist views of [[Spinoza]], was an objective idealist who nevertheless developed dialectics (227). Instead, Woods continues, Leibniz viewed the world as constructed out of monads, of which there were an infinite variety. In each monad, we are told, Leibniz saw the universe reflected in miniature, which pre-empted the dialectical conception of particular and universal (228). However, Woods says that the "brilliant flashes" of Leibniz didn't really amount to a coherent new philosophy (231). 
 
-# Kant
+## Kant
 Woods views the ideas of [[Kant]] as a dead end. He explains that Kant sought to resolve the roadblocks faced by past philosophers via a solution to the question of how knowledge is obtained (232). Kant viewed thought, he continues, as an active rather than a passive process, and the mind as *anything but* a blank slate, as Locke had described it (233). Kant thought, Woods elaborates, that we can never know the nature of *things-in-themselves,* limiting our access to true knowledge (237). Kant distinguished between *understanding,* as the basic intake of sensory data, and *reason,* as the analysis of this data, the breaking of the data down and the building of it up again. For this, he adopted the dialectic, and Woods says that the chief achievement of Kant was the re-introduction of the dialectic to its rightful place in philosophy (240). Woods concludes that Kant's great achievement was his criticism of existing logic, but his main flaw was his subjectivist position on knowledge (245, 271). 
 
-# Hegel
+## Hegel
 Woods explains that Hegel criticized Kant's ideas around thought. Hegel said, we are told, that knowledge can be only gained through activity. He viewed Kant's attempts to analyze thought as a tautology (238). Woods also says that Hegel was the first to elaborate that [[Opposites require each other]] and identity presupposes difference (242). Behind the idealist smoke, Woods interprets Hegel's ideas as a real revolution in thought. He cites Herzen (a Russian radical democrat), who said that Hegels' dialectic was "the algebra of revolution" (249). However, Woods argues that Hegel attempted to force this dialectic into an idealist straitjacket, causing his work to be very hard to read and introducing errors (252). One example of this, Woods explains, is the "absolute Idea," which Hegel sees as the culmination of thought and human progress, contradicting his dialectic, which criticizes the static idea of final destinations (282-283). 
 
 Woods says that Hegel solved the mind-body problem by positing the activity of thinking as a bridge between the two (255). 
@@ -89,16 +91,66 @@ The author explains that after Hegel's death, the Hegelian community split into 
 
 The left wing, he continues, was comprised of thinkers who wanted to apply Hegel's ideas to broader topics like religion and culture (289). However, Woods points to their refusal to decisively break with idealism as their main limitation (291). 
 
-# Stirner
+## Stirner
  [[Stirner]], Woods explains, was one of these thinkers who failed to break with idealism. Instead, he rejected religion and developed the theory of "radical egoism," which was one of the founding texts of [[Anarchism]] (292). 
 
-# Feuerbach
+## Feuerbach
 Woods credits [[Feuerbach]] as the only Left Hegalian who was brave enough to move in a materialist direction (292). However, he criticizes Feuerbach for his standpoint of individualism, viewing humans as isolated subjects rather than social creatures (294) and for rejecting Hegel's dialectical method (295).  
 
-# Marx and Engels
+## Marx and Engels
 ...
 
 ---
+---
+# Introduction
+Woods says that there are periods of societal decline, during which people are forced to either confront the issues of society and take the revolutionary path, or gaze inward and attempt to isolate themselves from the world (p.12). 
+
+Woods quotes [[Trotsky]] to assert that we all take a side, but that partisanship doesn't rule out objectivity (p.15). [[Taking a stance doesn't rule out objectivity]].  
+
+# 1. The emergence of philosophy
+Woods argues that the closer one goes to analysis of society, the further one gets from [[materialism|materialist]] science and thus accurate knowledge (p.23). 
+
+Discussing the emergence of language, Woods argues that this allowed us to think more clearly about the world, and advance our ability to reason. He says this is the qualitative difference between humans and other animals (p.26).
+
+Furthermore, he continues, the arisal of class society, where those at the top performed mental rather than physical labor, led to an increasingly esteemed position of language, deepening the divide between the supposedly lesser material world and the world of thought and ideas (p.32).
+
+Again discussing the effect of societal decline on philosophy, Woods explains that the cults of Dionysius, Demeter, and Orpheus which overcame the earlier Greek religion represented a retreat from the earlier materialism of the Greeks, while the upper classes were drawn towards [[Pythagoras]] and his aescetic, [[idealism|idealist]] views (p.46). 
+
+Discussing these latter views, the author notes that they emphasized the division between soul and body to the extreme, representing a regression from Ionian materialism (p.48). 
+
+Despite this, he continues, there was a progressive side to the Pythagorean school. Woods explains that while the Ionians attempted to deduce the nature of reality from their experience, the Pythagoreans attempted to apply principles to understand reality ([[Induction is the process of arriving at facts from principles|induction]]) (p.49). I think he's really saying that [[Induction and deduction are complementary]] and ought to be used in tandem.
+
+Diving into their ideas, Woods explains that they attempted to explain the world purely quantitatively, viewing everything as a numerical quantity (p.51). 
+
+Of course, Woods says, the quantiative is essential to understand, but the Pythagoreans took this too far, escewing all qualitative assessment (p.52). 
+
+Turning to a discussion of the material roots of our numeric system, Woods explains that [[Alternate number systems exist]], and even claims that a base-12 system would have certain advantages, being divisible by 2, 3, 4, and 6. He says this was used by the Sumerians to good effect (p.55). 
+
+## Study questions
+- Can you think of any present day examples of “neutrality” or “objectivity” that instead reflect the status quo?
+- What makes humans qualitatively different from the other animals?
+- What do you know about animism and what is the relevance to the history of philosophy?
+- What did Feuerbach mean when he said that “if birds had a religion, their God would have wings”?
+- In what sense were the ancient Greeks pioneers?
+- How was Anaximenes’ world view a step forward compared to the other Ionian materialists?
+- Is it correct to say that in periods of social decline philosophical idealism tends to dominate? And materialism in periods of social advance?
+- Explain how the “numbers approach” of the Pythagorean school was both an important scientific advance and a source of future misconceptions about mathematics.
+
+# 2. The first dialecticians
+...
+
+# 3. Aristotle and the end of classical Greek philosophy
+...
+
+# 4. The rise of Christianity
+...
+
+# 5. Islamic philosophy
+...
+
+# 6. Philosophy in the Middle Ages
+...
+
 # 7. The Renaissance
 Woods describes how revolutionary this period was, the period in which the spiritual and philosophical dictatorship of the Church was cast off by a whole section of Europe, the bourgeoisie spurred the development of art, science, and technology, and the class struggle moved into life with the Peasants' War. 
 
@@ -182,7 +234,8 @@ Woods explains the serious issues with this view, including the total death of s
 - Explain how Spinoza was formally an idealist, yet came very close to a materialist position.
 - Why did Feuerbach consider Leibniz “only half a Christian, atheist, or a cross between a Christian and a naturalist”?
 
-# 8. The dead end of Kantianism
+# 9. The dead end of Kantianism
+...
 
 ## Study questions
 - What is the task of science? What did Kant have to say about this?
@@ -192,6 +245,7 @@ Woods explains the serious issues with this view, including the total death of s
 - What is valuable about Kant’s “antinomies”?
 
 # 10. Hegel's revolution in philosophy
+...
 
 ## Study questions
 - Can you think of some examples of a process going from being “in itself” to being “in and for itself”?
@@ -202,6 +256,7 @@ Woods explains the serious issues with this view, including the total death of s
 - Why did Engels describe Hegel’s philosophy as the most “colossal miscarriage” in history?
 
 # 11. From Hegel to Marx
+...
 
 ## Study questions
 - Why had Hegelianism, even its “left” version, reached a dead end?

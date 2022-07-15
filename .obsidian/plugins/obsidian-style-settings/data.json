@@ -30,5 +30,6 @@
   "blue-topaz-theme@@plain-file-title": false,
   "blue-topaz-theme@@fancy-hr": "fancy-hr-number",
   "blue-topaz-theme@@custom-titlebar-bg@@light": "#FFFFFF",
-  "blue-topaz-theme@@custom-titlebar-bg@@dark": "#000000"
+  "blue-topaz-theme@@custom-titlebar-bg@@dark": "#000000",
+  "minimal-style@@tab-style": "tab-style-3"
 }

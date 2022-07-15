@@ -49,4 +49,4 @@ There's also a newer way to get feedback during and immediately after the applic
 # Technical initiatives
 The technical team is taking these data flows and creating [[database|databases]] and indexes, often through [[IQL]] and [[Ishbook]]. My role will heavily involve doing [[exploratory data analysis]] and [[data visualization]] to make sense of these data. 
 
-[[CRON job|CRON jobs]] allow for automatic data ingestion and refreshes. 
+[[Cronjob|CRON jobs]] allow for automatic data ingestion and refreshes. 

@@ -3,7 +3,7 @@ on [[22-07-06 Wed]]
 with [[Logan]]
 
 ---
-In this meeting, Logan walked me through a small change to some [[CRON job|CRON]] code, from the [[JIRA]] ticket to deployment to production.
+In this meeting, Logan walked me through a small change to some [[Cronjob|CRON]] code, from the [[JIRA]] ticket to deployment to production.
 
 We began with the ticket SQMEASURE-4626, an example ticket for a one-line code change that he drew up for this training. 
 
@@ -16,7 +16,7 @@ Now we move over to [[GitLab]]. He created a merge request for this change, and 
 As for code reviews, he said that it isn't meant to expose you as a fraud or criticize you in a big way, it's just nice to get additional eyes on your code so that people can help out. 
 
 ## Step three: Jenkins
-Since this was an update to an already-deployed [[CRON job|CRON]], this is the last input we need. From here, [[Jenkins]] is watching the main branch, and will see the change come in and automatically do some unit tests, update dependencies, and push the changes on to production. This is all based on a jenkins file found in the GitLab repository, which was populated upon setup by [[Penelope]]. 
+Since this was an update to an already-deployed [[Cronjob|CRON]], this is the last input we need. From here, [[Jenkins]] is watching the main branch, and will see the change come in and automatically do some unit tests, update dependencies, and push the changes on to production. This is all based on a jenkins file found in the GitLab repository, which was populated upon setup by [[Penelope]]. 
 
 Since the CRON is already deployed, there's no need to use [[Orc]] or [[Penelope]] at all. 
 
@@ -25,7 +25,7 @@ Now we moved on to some other tools that are somewhat related to my work. We can
 
 We can use [[Lufta]] to give ourselves access to [[database|databases]], but we will need to submit a request to get access to sensitive [[data]], such as user information. 
  
-We can use [[Lola]] to see the logs for each [[CRON job|CRON]]. 
+We can use [[Lola]] to see the logs for each [[Cronjob|CRON]]. 
 
 Finally, we discussed the Nexus Repository Manager, which is a screening tool for Python libraries that we can use. This is integrated into my machine so that I can just use `pip install` to install stuff, and it knows to try and install things from Nexus instead.
 

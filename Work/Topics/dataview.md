@@ -3,7 +3,6 @@ aliases:
 ---
 # Dataview
 ---
-# Introduction
 Dataview is a community plugin for [[Obsidian]] that I use heavily within my vault. 
 
 For a long time, I was using dataview to find hidden backlinks using the following code:
@@ -40,3 +39,6 @@ for (let i = 1; i < (tags.length-1); i++) { // i = 1 to exclude "#idea"
 	dv.list(dv.pages(tag).file.link)
 }
 ```
+
+---
+1. [Dataview functions documentation](https://blacksmithgu.github.io/obsidian-dataview/query/functions/)

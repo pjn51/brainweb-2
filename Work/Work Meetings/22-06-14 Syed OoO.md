@@ -19,5 +19,5 @@ with [[Syed]]
 - Sprint planning happens on Mondays, based on a ticket system I think. 
 - My position is "Technical Analyst - Measurement"
 - I should learn where the data is stored. This is essential. 
-- A capstone project for my Q1 would be building a [[CRON job]] that actually goes into production.
+- A capstone project for my Q1 would be building a [[Cronjob]] that actually goes into production.
 - I will be focusing on job seeker feedback tasks

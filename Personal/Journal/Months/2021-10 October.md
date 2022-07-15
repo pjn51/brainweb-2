@@ -17,7 +17,7 @@ I had my final interview at [[Atos]], and I was hired! Cinder and Celeste came o
 - Saturday: [[2021-10-02]]
 
 # Second week
-Eylen and I spent a day with Jeff and Ari, after unsuccessfully going shooting (the spot had been closed). I had a one-on-one with Josh. I picked up my nightguard from the dentist. I took a drug screen for Atos in Bellevue. I travelled to Pittsburgh and attended the first day of the National Congress of Socialist Revolution. 
+Eylen and I spent a day with Jeff and Ari, after unsuccessfully going shooting (the spot had been closed). I had a one-on-one with [[Josh Creech|Josh]]. I picked up my nightguard from the dentist. I took a drug screen for Atos in Bellevue. I travelled to Pittsburgh and attended the first day of the National Congress of Socialist Revolution. 
 
 ## Daily notes
 - Sunday: [[2021-10-03]]

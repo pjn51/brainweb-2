@@ -1,6 +1,6 @@
 # SERP metrics training
 on [[22-06-29 Wed]]
-with [[Lynn]], [[Josh]]
+with [[Lynn]], [[Work/People & Teams/Josh]]
 
 ---
 In this meeting led by Lynn, we discussed the various [[PM queues]] and the [[metrics]] that are associated with them. 

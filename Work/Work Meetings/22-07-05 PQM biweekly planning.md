@@ -1,4 +1,4 @@
-# 22-07-05 PQM biweekly
+# PQM biweekly planning
 on [[22-07-05 Tue]]
 with [[Measurement|PQM]] 
 
@@ -12,7 +12,7 @@ I have two tickets this sprint, which add up to ten points. I mentioned that I'm
 
 [[Syed]] went over the Q3 OKRs, explaining that at first glance there's a ton going on in this google sheet. However, he said, we shouldn't feel overwhelmed and should instead look at this sheet as a source of documentation and resources. [[Zandra]] added that there are lots of impact opportunities here.
 
-Syed also covered PTO guidelines again, since there are lots of people taking time off. He said that we should ask an active coworker to cover our [[CRON job|CRON jobs]] so that there's a point person available for solving issues. 
+Syed also covered PTO guidelines again, since there are lots of people taking time off. He said that we should ask an active coworker to cover our [[Cronjob|CRON jobs]] so that there's a point person available for solving issues. 
 
 Turning to my tickets specifically, he said that they really go hand in hand, I should be able to get them done despite my PTO. 
 

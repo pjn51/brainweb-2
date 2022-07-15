@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "81ebb4ef2e1a0b60",
+        "id": "2c3a44db3577e6ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work Meetings/22-07-13 Syed 1o1.md",
+            "file": "Topics/Kerberos.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Meetings/22-07-13 Syed 1o1.md",
+                "file": "Topics/Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Meetings/22-07-13 Syed 1o1.md",
+                "file": "Topics/Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Meetings/22-07-13 Syed 1o1.md"
+                "file": "Topics/Kerberos.md"
               }
             }
           },
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39987d8fba05a6cd",
+  "active": "2c3a44db3577e6ff",
   "lastOpenFiles": [
-    "Tickets/4607 - Learn how to write a Cronjob.md",
-    "Work Meetings/22-07-13 Syed 1o1.md",
-    "Workdays/22-07-13 Wed.md",
-    "Work Meetings/22-07-13 Doc uploading Cron template overview.md",
+    "Kerberos uses symmetric encryption.md",
+    "Topics/cryptography.md",
+    "Ideas/Encryption is the cornerstone of the internet.md",
+    "Questions/How is data encrypted?.md",
+    "Topics/Kerberos.md",
+    "Topics/IQL.md",
+    "IQL doesn't use joins.md",
     "Reference/IQL - b2i session six.md",
-    "Work Meetings/22-07-13 Maintaining team docs.md",
-    "Questions/How can we understand RAJ feedback?.md",
-    "People & Teams/Katie.md",
-    "Topics/Indeed org chart.md",
-    "Work Meetings/22-06-22 user feedback queue and policy overview.md"
+    "Reference/IQL - From Beginner to Intermediate.md",
+    "People & Teams/Measurement.md"
   ]
 }

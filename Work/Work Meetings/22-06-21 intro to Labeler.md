@@ -7,7 +7,7 @@ Dan and I went over the [[Labeler]] tool. It's a tool for [[data annotation]] th
 
 A big source of this data is the RAJ (report-a-job) feedback mechanism. A grader reads a comment left by a displeased user and categorizes it into a bucket such as "spam," "innacurate," or "fraud." 
 
-We use [[CRON job|CRON jobs]] to pump data into these workflows or remove documents if needed. The number of documents varies widely, with some queues containing 10,000 documents a week and others only having a trickle. 
+We use [[Cronjob|CRON jobs]] to pump data into these workflows or remove documents if needed. The number of documents varies widely, with some queues containing 10,000 documents a week and others only having a trickle. 
 
 There are various parameters for setting up a queue. We can specify how many graders must agree on a label before it is confirmed, we can select trusted graders to do double-checks on $x$ percentage of documents, or we can create synthetic documents where the true grade is known, and intersperse them into the feeds for the purpose of measuring accuracy. These last documents are known as the *golden set.* 
 

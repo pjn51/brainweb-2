@@ -297,4 +297,22 @@ The author says that a unified federation of the USSR, eastern Europe, and China
 Grant notes the decline of Soviet growth towards a rate of 8.5% in the 1960s, far down from the growth that the USSR had seen earlier. Grant blames this on high arms spending (11-13% of GDP), and bureaucratic inefficiency (239). 
 
 ## Technological advance
-...
+Grant argues that without market forces to constrain inefficiency, there must be workers' democracy to avoid massive waste and spur innovation (p.241). 
+
+Continuing this point, he says that in a wider and wider array of commodities, the gap between the capitalist west and the USSR began to widen (p.244). 
+
+## Agriculture - the Achilles' heel
+Grant explains the low productivity of Soviet agriculture and the effect this had on Soviet living standards - less calories from meat and dairy, more from grains (p.246). 
+
+## Living standards in the 1970s
+The author says that despite the slowdown, things were still improving. He cites statistics that demonstrate increases in consumption, and reminds us that all of this was done with no inflation, debt, or homelessness (p.253). 
+
+## The problem of quality
+Across different fields, Grant says, there were widely varying levels of quality. He attributes this to the discretion of individual factory directors and ministers, unchecked by any mandate except to fill the quotas (p.257). 
+
+Turning to a description of [[Brezhnev]], Grant says the former owned a fleet of sports cars and lived like a bourgeois (p.259). 
+
+## The state under Brezhnev
+Under the new leader, Grant says, dissent was suppressed even more heavily. He explains that sometimes political prisoners were consigned to asylums, where they had no hope of escape, and often became insane themselves (p.263). 
+
+## Art and science

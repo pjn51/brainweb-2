@@ -3,7 +3,7 @@ on [[22-07-13 Wed]]
 with [[Katie]]
 
 ---
-This was a very hands-on meeting where Katie walked me through the early stages of creating a [[CRON job]]. First, we discussed some of the basic Cron overview, and she said that they were going to create a template within [[Penelope]] that could set up a document-uploader Cron (the kind that our team works on often), but since the tool is being depricated soon this never happened. 
+This was a very hands-on meeting where Katie walked me through the early stages of creating a [[Cronjob]]. First, we discussed some of the basic Cron overview, and she said that they were going to create a template within [[Penelope]] that could set up a document-uploader Cron (the kind that our team works on often), but since the tool is being depricated soon this never happened. 
 
 Because of that, we can just `git clone` the template repository from [[GitLab]] onto our local machine and set it up.
 
@@ -13,7 +13,7 @@ There are two ways to set this up locally after cloning it, both of which are fo
 
 We proceeded to execute the commands line by line so that we could more easily catch errors.
 
-Unfortunately, our setup was cut short since I need Kerberos access to finish setup. Katie said that she would send me a link to submit a ticket requesting access, and that we would circle back on this in about a week when I got access.
+Unfortunately, our setup was cut short since I need [[Kerberos]] access to finish setup. Katie said that she would send me a link to submit a ticket requesting access, and that we would circle back on this in about a week when I got access.
 
 ---
 1. [Doc-uploader template GitLab repo](https://code.corp.indeed.com/squallops/jsdataops-labeler-cron-template)

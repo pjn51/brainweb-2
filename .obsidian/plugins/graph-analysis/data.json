@@ -11,7 +11,9 @@
   "exclusionRegex": "",
   "exclusionTags": [],
   "algsToShow": [
+    "Co-Citations",
     "Adamic Adar",
-    "Jaccard"
+    "Jaccard",
+    "Louvain"
   ]
 }

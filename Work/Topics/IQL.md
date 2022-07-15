@@ -10,6 +10,8 @@ IQL is built around on [[IQL indices]].
 
 The [[Labeler]] tool sends data into IQL indices. 
 
+[[IQL doesn't use joins]], and uses subqueries to fetch [[data]] from multiple places.
+
 ---
 1. Here's the [IQL confluence home page](https://wiki.indeed.com/display/IQL/IQL+Home+-+Your+Primary+Source+for+All+Things+IQL)
 2. You can find a list of Imhotep indices in [Alexandria](https://alexandria.sandbox.indeed.net/)

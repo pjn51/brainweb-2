@@ -1,6 +1,6 @@
 # Consolidation w Hayden
 `DATE:` [[2022-04-08]]
-`WITH:` Hayden
+`WITH:` [[Hayden]]
 `TAGS:` #meeting 
 
 ---

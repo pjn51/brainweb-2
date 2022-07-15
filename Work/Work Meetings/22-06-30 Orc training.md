@@ -3,9 +3,9 @@ on [[22-06-30 Thu]]
 with [[Yan]]
 
 ---
-In this meeting, Yan walked me through the basic [[pipeline]] process that [[Indeed]] uses to get [[CRON job|CRON jobs]] running. It was a little confusing, but I'm sure I can pick it up after repeat exposure to these ideas and tools.
+In this meeting, Yan walked me through the basic [[pipeline]] process that [[Indeed]] uses to get [[Cronjob|CRON jobs]] running. It was a little confusing, but I'm sure I can pick it up after repeat exposure to these ideas and tools.
 
-Basically, Yan said, [[Orc]] is an [[internal Indeed tools|internal Indeed tool]] that hosts [[CRON job|CRON jobs]]. It's useful to have such a tool since the [[Measurement & Tools|M&T]] team has like 30+ jobs going currently.
+Basically, Yan said, [[Orc]] is an [[internal Indeed tools|internal Indeed tool]] that hosts [[Cronjob|CRON jobs]]. It's useful to have such a tool since the [[Measurement & Tools|M&T]] team has like 30+ jobs going currently.
 
 ## Overview of pipeline process
 Yan described the process, referencing a document that outlined it. ^1

@@ -6,12 +6,21 @@ aliases: [PQM]
 ---
 This is a sub-team within [[Measurement & Tools]] in [[Indeed]]. I'm on this team as a Technical Analyst. 
 
----
-# Meeting mentions
+## Standups
 ```dataview
-LIST 
-FROM [[Measurement]]
-AND "Work Meetings"
-SORT title asc
+LIST
+FROM ("Work Meetings" OR "Personal/Work Meetings")
+WHERE contains(file.name, "standup") AND contains(file.name, "PQM")
 ```
-
+## Biweekly presentations
+```dataview
+LIST
+FROM ("Work Meetings" OR "Personal/Work Meetings")
+WHERE endswith(file.name, "biweekly")
+```
+## Sprint and biweekly planning
+```dataview
+LIST
+FROM ("Work Meetings" OR "Personal/Work Meetings")
+WHERE contains(file.name, "planning") AND contains(file.name, "PQM")
+```

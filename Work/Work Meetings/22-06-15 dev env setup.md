@@ -18,7 +18,7 @@ I need to keep my computer on for a few hours while it runs. Can't do this until
 
 When it prompts me to enter my team, ours isn't listed so just hit Enter. 
 
-It will give me access to Kerberos, and I can use this [guide](https://indeed.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0011115) after I have VPN access. This is necessary for me to request data and run scripts. It's a way to identify and permission computers. 
+It will give me access to [[Kerberos]], and I can use this [guide](https://indeed.service-now.com/now/nav/ui/classic/params/target/kb_view.do%3Fsysparm_article%3DKB0011115) after I have VPN access. This is necessary for me to request data and run scripts. It's a way to identify and permission computers. 
 
 
 

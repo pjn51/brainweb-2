@@ -8,7 +8,7 @@ Dylan and I went over a high-level view of my onboarding process, then we dived 
 ## Overview of onboarding
 He explained that [[Job Seeker Operations]] has their own onboarding, and that's why some of my sessions are irrelevant. They want everyone to have a basic understanding of things like [[DREMR]], [[Waldo]], and job level / account level moderation, even those who won't use those tools.
 
-The things I actually need to know are IQL, [[CRON job|CRON jobs]], and [[Orc]] (a tool for scheduling CRON jobs).
+The things I actually need to know are IQL, [[Cronjob|CRON jobs]], and [[Orc]] (a tool for scheduling CRON jobs).
 
 ## Finding metadata about IQL indices
 I can get the names of all fields, common filters for each index, the teams that own each index, and more useful information in [[Alexandria]]. 

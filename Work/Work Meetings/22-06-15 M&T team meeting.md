@@ -25,7 +25,7 @@ This is a 20-person meeting of the whole [[Measurement & Tools]] team.
 - [[Yan]]: research engineer. Canadian. Guitar.  
 - [[Jesse]]: senior TA on tool side. Motorcycles. Houston. 
 - [[Atsushi]]: TA on tooling side. Gym, 2hrs every day. 
-- [[Josh]]: TA on Syed's team with me. Just joined!
+- [[Work/People & Teams/Josh]]: TA on Syed's team with me. Just joined!
 - [[Megan]]: On Syed's team. Joined in January. Houston. 
 - [[Dan]]: Senior ops analyst for measurement. 4 yrs. Dogs. Video games. 
 - [[Charles]]: TA on data ops team. Colorado. 
