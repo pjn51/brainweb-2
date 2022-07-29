@@ -3,7 +3,7 @@ born: 1818
 died: 1883
 ---
 # Karl Marx
-`TAGS:` #people
+#people
 
 ---
 # Introduction

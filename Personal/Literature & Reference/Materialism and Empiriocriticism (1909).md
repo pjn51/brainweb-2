@@ -5,7 +5,7 @@ genre: political
 ---
 # Materialism and Empiriocriticism (1909)
 `SOURCE:` 
-`TAGS:` #wip 
+#wip 
 
 ---
 > [!Abstract]

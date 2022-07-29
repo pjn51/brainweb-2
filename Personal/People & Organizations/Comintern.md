@@ -1,5 +1,5 @@
 # The Communist International
-`TAGS:` #org 
+#org 
 
 ---
 The Comintern, or Communist International, was the international organization of revolutionary parties set up in the [[Russia|USSR]] to spread the movement elsewhere. At first, it provided a base of support for the generation of many good organizations, but as [[The USSR became a degenerated workers' state]], the [[Stalinism|Stalinist]] foreign policy of the USSR replaced internationalism as the driving force in the organization. 

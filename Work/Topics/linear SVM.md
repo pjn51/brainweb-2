@@ -1,6 +1,6 @@
 # Linear SVM
 `LINKS:` [tds reference](https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989#:~:text=SVM%20or%20Support%20Vector%20Machine,separates%20the%20data%20into%20classes.)
-`TAGS:` 
+
 
 ---
 SVM stands for support vector machine. Linear SVM is a linear [[modeling]] technique for [[classification]] or [[regression]] problems. The idea is that the algorithm creates a line or hyperplane in the feature space that separates the observations into classes. 

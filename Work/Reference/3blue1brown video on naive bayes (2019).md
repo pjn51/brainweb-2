@@ -6,7 +6,7 @@ format: video
 ---
 # Naive Bayes, According to 3Blue1Brown
 `LINKS:` [Link](https://www.youtube.com/watch?v=HZGCoVF3YvM&feature=share)
-`TAGS:` #video 
+#video 
 
 ---
 <center>

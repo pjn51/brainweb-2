@@ -3,7 +3,7 @@ born: 1879
 died: 1915
 ---
 # Joe Hill
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

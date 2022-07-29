@@ -3,7 +3,7 @@ born: 1632
 died: 1677
 ---
 # Baruch Spinoza
-`TAGS:` #people 
+#people 
 
 ---
 Spinoza was a [[Netherlands|Dutch]] philosopher of Jewish origin. One of his biggest achievements was that [[Spinoza resolved the mind-body dualism]] of [[Descartes]]. 

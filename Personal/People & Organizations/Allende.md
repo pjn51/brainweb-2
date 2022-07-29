@@ -5,7 +5,7 @@ died: 1973
 
 # Salvador Allende
 `LINKS`: [wiki](https://en.wikipedia.org/wiki/Salvador_Allende)
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

@@ -1,5 +1,5 @@
 # Sigmoid
-`TAGS`: #equation 
+#equation 
 
 ---
 $$

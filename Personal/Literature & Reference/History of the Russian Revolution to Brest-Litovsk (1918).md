@@ -5,7 +5,7 @@ format: book
 ---
 # History of the Russian Revolution to Brest-Litovsk (1918)
 `SOURCE:` [[The Revolutionary Philosophy of Marxism (2018)]]
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]

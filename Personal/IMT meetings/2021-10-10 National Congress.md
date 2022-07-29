@@ -1,7 +1,7 @@
 # National Congress, Day Two
 `DATE:` [[2021-10-10]]
 `WITH:` [[IMT]]
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 # Bolshevism in the 2020s (Antonio Balmer)

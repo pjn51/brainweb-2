@@ -4,7 +4,7 @@ author: multiple
 genre: political
 ---
 # The Revolutionary Philosophy of Marxism
-`TAGS:` #book #wip
+#book #wip
 
 ---
 > [!Abstract]

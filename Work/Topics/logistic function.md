@@ -1,5 +1,5 @@
 # The Logistic Function
-`TAGS`: #equation 
+#equation 
 
 ---
 $$

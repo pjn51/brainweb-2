@@ -4,6 +4,6 @@ aliases: []
 ---
 # Scrumban
 ---
-Scrumban is a project management system adopting aspects of [[scrum]] and [[kanban]]. This is the system that my team, [[Measurement]], uses.
+Scrumban is a [[project management]] system adopting aspects of [[scrum]] and [[kanban]]. This is the system that my team, [[Measurement]], uses.
 
 ---

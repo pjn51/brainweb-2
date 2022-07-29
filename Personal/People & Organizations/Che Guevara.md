@@ -3,7 +3,7 @@ born: 1928
 died: 1967
 ---
 # Che Guevara
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

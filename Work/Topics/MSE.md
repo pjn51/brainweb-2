@@ -1,5 +1,5 @@
 # Mean Squared Error
-`TAGS:` #equation 
+#equation 
 
 ---
 $$

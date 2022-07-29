@@ -3,7 +3,7 @@ aliases: [America, American, United States]
 ---
 
 # The United States of America 🇺🇸
-`TAGS:` 
+
 
 ---
 # Introduction

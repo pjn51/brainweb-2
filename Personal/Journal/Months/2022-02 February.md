@@ -1,6 +1,6 @@
 # 📅 February 2022
 `LINKS:` [[2022-01 January]] // [[2022-03 March]] // [[2022]]
-`TAGS:` #daily 
+#daily 
 
 ---
 # Stats
@@ -20,7 +20,7 @@ This month was interesting. It started out with a little rollercoaster action in
 
 ---
 # First week
-I got an invitiation to a "anti-capitalist coalition," I caught up with Jacob, talked with JT, and also with John. On Saturday we went to a house showing and then hung out in Madrona. This was really a week of emotional recovery from the rollercoaster that the Northgate condo represented. Otherwise, it was pretty unremarkable. 
+I got an invitiation to a "anti-capitalist coalition," I caught up with Jacob, talked with [[JT]], and also with John. On Saturday we went to a house showing and then hung out in Madrona. This was really a week of emotional recovery from the rollercoaster that the Northgate condo represented. Otherwise, it was pretty unremarkable. 
 
 - Tuesday: [[2022-02-01]]
 - Wednesday: [[2022-02-02]]

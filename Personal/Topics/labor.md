@@ -2,7 +2,7 @@
 aliases: [labor power]
 ---
 # Labor 💪
-`TAGS:` 
+
 
 ---
 ## Introduction

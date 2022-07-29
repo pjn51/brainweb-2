@@ -1,5 +1,5 @@
 # Blanquism
-`TAGS`: 
+
 
 ---
 # Introduction

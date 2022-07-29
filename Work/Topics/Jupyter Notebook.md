@@ -26,7 +26,7 @@ Currently, I have the `nbextensions` plugin, which makes working with most exten
 
 I'm using `jupyter-themes` which is run via the [[command line]].
 ```
-jt -t onedork 					# change the theme to onedork
+[[jt]] -t onedork 					# change the theme to onedork
 
 jt -t onedork -fs 13 -ofs 13 	# change the theme to onedork, set code font size to 13 and output 
 								# font size to 13

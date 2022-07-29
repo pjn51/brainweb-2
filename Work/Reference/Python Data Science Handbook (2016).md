@@ -4,7 +4,7 @@ genre: STEM
 ---
 # Python Data Science Handbook
 `LINKS:` [source](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-`TAGS:` #book #wip
+#book #wip
 `AUTHOR:` Jake VanderPlas
 
 ---

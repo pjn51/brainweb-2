@@ -1,5 +1,5 @@
 # Mean Absolute Error
-`TAGS`: #equation 
+#equation 
 
 ---
 $$\frac{\sum|y_p-y_a|}{n}$$

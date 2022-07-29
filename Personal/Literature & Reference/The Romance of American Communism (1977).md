@@ -5,7 +5,7 @@ genre: political
 ---
 # The Romance of American Communism (1977)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]

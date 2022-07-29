@@ -9,7 +9,7 @@ Dan said that my main priority should be to get familiar with [[IQL indices|IQL 
 
 They both advised me to reach out to [[Lynn]], who they said was able to conduct deep dives into various [[PM queues]] rather quickly.
 
-They said that it was probably good for me to learn about the [[MidApply Feedback queue]] first, as it was less complex than the [[Report A Job|RAJ]] one. I've been invited to some recurring vendor calibration meetings, where vendors are able to bring up confusing documents and ask questions.
+They said that it was probably good for me to learn about the [[Midapply Feedback queue]] first, as it was less complex than the [[Report A Job queue|RAJ]] one. I've been invited to some recurring vendor calibration meetings, where vendors are able to bring up confusing documents and ask questions.
 
 Megan said that she could show me her RAJ deepdives, and mentioned that a big priority should be figuring out who can benefit from these queues. For instance, she said the [[SERP Relrating queue]] is kind of unloved.
 

@@ -4,7 +4,7 @@ genre: STEM
 ---
 # JQuery Crash Course (2016)
 `SOURCE:` https://www.youtube.com/watch?v=3nrLc_JOF7k
-`TAGS:` #wip #video 
+#wip #video 
 
 ---
 I will be following along with this tutorial in the `testing_ground.html` file in my `javascript` folder. 

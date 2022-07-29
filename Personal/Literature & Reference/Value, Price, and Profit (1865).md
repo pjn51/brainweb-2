@@ -6,7 +6,7 @@ genre: political
 # Value, Price, and Profit
 `LINKS:` [Source](https://www.marxists.org/archive/marx/works/1865/value-price-profit/) // [Reading Guide](https://www.socialist.net/value-price-and-profit-a-reading-guide.htm)
 `AUTHOR:`  [[Marx]]
-`TAGS:`   #book
+  #book
 
 ---
 # Preface

@@ -5,7 +5,7 @@ genre: political
 ---
 # The State and Revolution
 `LINKS:` [Source](https://www.marxists.org/archive/lenin/works/1917/staterev/) // *Marxist Classics* v.1
-`TAGS:` #book 
+#book 
 
 ---
 >[!abstract]

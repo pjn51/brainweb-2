@@ -4,7 +4,7 @@ genre: political
 ---
 # Against the Theory of State Capitalism (1949)
 `SOURCE:` https://www.marxists.org/archive/grant/1949/cliff.htm
-`TAGS:` #article 
+#article 
 
 ---
 > [!Context]

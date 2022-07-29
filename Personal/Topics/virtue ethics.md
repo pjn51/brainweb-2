@@ -1,6 +1,5 @@
 # Virtue Ethics
 `LINKS:` [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-virtue/)
-`TAGS`: 
 
 ---
 Virtue ethics is an approach towards [[ethics]] in philosophy. 

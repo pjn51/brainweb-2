@@ -4,7 +4,7 @@ author: Ursula LeGuin
 genre: fiction
 ---
 # The Disposessed
-`TAGS:` #book 
+#book 
 
 ---
 # Review

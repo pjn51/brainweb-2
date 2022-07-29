@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Deleuze
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

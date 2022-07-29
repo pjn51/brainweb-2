@@ -1,5 +1,5 @@
 # Kubernetes
-`TAGS:` 
+
 
 ---
 # Introduction

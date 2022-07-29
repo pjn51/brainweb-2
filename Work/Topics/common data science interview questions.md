@@ -1,6 +1,6 @@
 # Common [[data science]] Interview Questions
 `LINKS`: [[interviews]] | [Source](https://www.themuse.com/advice/data-science-interview-questions-answers)
-`TAGS`: 
+
 
 ---
 ## Understand what role you're interviewing for

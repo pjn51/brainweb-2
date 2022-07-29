@@ -1,6 +1,6 @@
 # Interviews
 `LINKS:` [[career]]
-`TAGS:` 
+
 
 ---
 Interviews are obviously an important part of the job search process. For some interview advice from the Metis career advisors, see my [[3-10-21 metis]] notes. 

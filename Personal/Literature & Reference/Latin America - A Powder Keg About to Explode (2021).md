@@ -6,7 +6,7 @@ format: article
 ---
 # Latin America - A Powder Keg About to Explode
 `LINKS:` [source](https://socialistrevolution.org/latin-america-a-powder-keg-about-to-explode/)
-`TAGS:` #article 
+#article 
 `AUTHOR:` Jorge Martin
 
 ---

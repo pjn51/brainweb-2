@@ -1,5 +1,5 @@
 # Journal 📔
-`TAGS`: #hub
+#hub
 
 ---
 # Introduction

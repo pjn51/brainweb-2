@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Elinor Ostrom
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

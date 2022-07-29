@@ -1,5 +1,5 @@
 # [[IMT]] Finance Call with Pete Walsh
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 [[Jacob]] should send links. 

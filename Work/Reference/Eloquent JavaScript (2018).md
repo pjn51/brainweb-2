@@ -5,7 +5,7 @@ genre: STEM
 ---
 # Eloquent JavaScript (2018)
 `SOURCE:` [source](https://eloquentjavascript.net/)
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 > [!info]

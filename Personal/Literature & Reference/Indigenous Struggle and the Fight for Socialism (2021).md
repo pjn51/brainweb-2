@@ -5,7 +5,7 @@ genre: political
 ---
 # Indigenous Struggle and the Fight for Socialism (2021)
 `SOURCE:` [source](https://www.marxist.ca/article/indigenous-struggle-and-the-fight-for-socialism-revolution-not-reconciliation)
-`TAGS:` #article 
+#article 
 
 ---
 # Introduction

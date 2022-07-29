@@ -2,7 +2,7 @@
 aliases: [Honduran]
 ---
 # Honduras 🇭🇳
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -1,6 +1,6 @@
 # The Zettelkasten Method
 `LINKS:` [[PKM]] | [zettelkasten.de](https://zettelkasten.de/posts/overview/)
-`TAGS:` 
+
 
 ---
 ## Introduction

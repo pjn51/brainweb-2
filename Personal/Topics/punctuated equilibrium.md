@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Punctuated Equilibrium
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -1,9 +1,9 @@
-# Stages of Historical Development
-`LINKS:` [[Marxism]] 
-`TAGS:`  
-
 ---
-The progress of humanity can be broadly broken down into a number of stages of developement, expressed as different modes of production.
+aliases: [stage of historical development, developmental stage]
+---
+# Stages of Historical Development
+---
+The progress of humanity can be broadly broken down into a number of stages of developement, expressed as different modes of production. 
 
 - [[primitive communism]]
 - Barbarism

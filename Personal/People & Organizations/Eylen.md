@@ -3,14 +3,14 @@ born: 1997
 died: 
 ---
 # Eylen Kim 💞
-`TAGS`: #people 
+#people 
 
 ---
 Eylen is my girlfriend 🥰
 
 She is a mix of type three and six in the [[What is the Enneagram?]] system. 
 
-Eylen's [[What are love languages?|love language]] is mainly *receiving gifts* and *acts of service.*
+Eylen's [[love languages|love language]] is mainly *receiving gifts* and *acts of service.*
 
 Her ring size is 4.5. She said she would be open to a synthetic diamond, but doesn't like square ones. 
 

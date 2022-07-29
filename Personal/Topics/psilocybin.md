@@ -1,5 +1,5 @@
 # Shrooms 🍄
-`TAGS:` 
+
 
 ---
 ## Introduction

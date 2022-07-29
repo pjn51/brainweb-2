@@ -1,5 +1,5 @@
 # Class Independence
-`TAGS:` #tactic
+#tactic
 
 ---
 # Introduction

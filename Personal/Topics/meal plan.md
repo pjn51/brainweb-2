@@ -1,5 +1,5 @@
 # Meal Plan 😋
-`TAGS`: 
+
 
 ---
 # Introduction

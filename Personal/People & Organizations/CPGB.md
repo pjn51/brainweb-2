@@ -1,5 +1,5 @@
 # The Communist Party of Great Britain 🚩
-`TAGS`: #org 
+#org 
 
 ---
 The CPGB was a communist party in the [[UK]]. 

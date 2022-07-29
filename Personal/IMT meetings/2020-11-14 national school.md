@@ -1,6 +1,6 @@
 # IMT National School, 11-14 & 11-15-2020
 `LINKS`: [[IMT]]
-`TAGS`: #meeting/political 
+#meeting/political 
 
 ---
 ## Election 2020 and the Fight for Socialist Revolution

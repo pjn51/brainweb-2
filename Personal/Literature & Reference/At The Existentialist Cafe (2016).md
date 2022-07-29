@@ -4,7 +4,7 @@ author: Sarah Bakewell
 genre: non-fiction
 ---
 # At The Existentialist Cafe (2016)
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 # Review

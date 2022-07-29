@@ -3,7 +3,7 @@ born: 1925
 died: 1965
 ---
 # Malcolm X
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

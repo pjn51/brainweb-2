@@ -1,6 +1,6 @@
 # 📅 December 2021
 `LINKS:` [[2021-11 November]] // [[2022-1 January]] // [[2021]]
-`TAGS:` #daily 
+#daily 
 
 ---
 # Summary

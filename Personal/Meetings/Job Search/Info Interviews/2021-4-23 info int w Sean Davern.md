@@ -1,5 +1,5 @@
 # Informational Interview with Sean Davern
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Sean Davern is a Senior Data Scientist at Pacific Northwest National Laboratory (PNNL). He's worked there for ten months. Before that, he was a [[Metis]] alumni. Prior to that, he has experience at Amgen, where he was a scientist for over 10 years. I'm interested in talking with him for some [[career]] information.

@@ -6,7 +6,7 @@ format: article
 ---
 # Escaping the Labour Left 'Safety Valve:' Towards Dual Power in Britain
 `LINKS`: [source](https://cosmonautmag.com/2021/02/escaping-the-labour-left-safety-valve-towards-dual-power-in-britain/)
-`TAGS`: #article 
+#article 
 `AUTHOR:` Alfie Hancox
 
 ---

@@ -5,7 +5,7 @@ genre: political
 ---
 # Results and Prospects
 `LINKS:` [Source](https://www.marxists.org/archive/trotsky/1931/tpr/rp-index.htm)
-`TAGS:` #wip #book 
+#wip #book 
 `AUTHOR:` [[Trotsky]]
 
 ---

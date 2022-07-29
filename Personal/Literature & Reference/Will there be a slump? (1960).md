@@ -4,7 +4,7 @@ genre: political
 ---
 # Will there be a slump? (1960)
 `SOURCE:` physical printout
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 This article sets out to criticize the theories of other '[[Marxism|Marxist]]' groups and thinkers who failed to predict the post-[[WW2]] upswing and then pivoted dramatically towards theories that [[capitalism]] had developed the ability to avoid crisis. This includes [[Tony Cliff]] who thought that a 'permanent arms economy' was capable of stimulating the economy to avoid downturns (printout, p.1). 

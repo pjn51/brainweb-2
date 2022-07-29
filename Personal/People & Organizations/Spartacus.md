@@ -3,7 +3,7 @@ born: -111
 died: -71
 ---
 # Spartacus
-`TAGS:` #people 
+#people 
 
 ---
 Spartacus led a series of [[slave society|slave]] revolts in the [[Rome|Roman Empire]]. 

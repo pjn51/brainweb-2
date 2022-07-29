@@ -3,7 +3,7 @@ One huge advantage of a [[zettelkasten method|Zettelkasten]] is that I can see e
 
 One way is through attempting to [[How can we measure similarity?|detect similiarity]] through [[machine learning]]. However, similarity is not quite what I'm looking for here. Perhaps it's useful to see which notes are *somewhat* similar, but that process can only reinforce patterns that already exist within my vault, reinforcing connections that I already understand. This is an example of how [[ML can't overcome bad data]]. 
 
-As of right now, I'm using the Graph Analysis plugin, which leverges [[Adamic Adar]] and [[jaccard distance]] to detect similarity between notes. Notably, neither of these algorithms use any information from the note other than the notes that share a connection with it. 
+As of right now, I'm using the Graph Analysis plugin, which leverges [[Adamic Adar]] and [[jaccard index]] to detect similarity between notes. Notably, neither of these algorithms use any information from the note other than the notes that share a connection with it. 
 
 ---
 #question/pkm 

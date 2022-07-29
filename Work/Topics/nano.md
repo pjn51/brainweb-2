@@ -1,6 +1,6 @@
 # Nano
 `LINKS:` [Basics of nano](https://wiki.gentoo.org/wiki/Nano/Basics_Guide#:~:text=If%20you%20want%20to%20save,Y%20in%20case%20you%20do.)
-`TAGS:` 
+
 
 ---
 # What is nano? 

@@ -1,5 +1,5 @@
 # Hungary 🇭🇺
-`TAGS`: 
+
 
 ---
 # Introduction

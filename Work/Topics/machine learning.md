@@ -1,6 +1,6 @@
 # Machine Learning
 `LINKS:` [[modeling]]
-`TAGS:` 
+
 
 ---
 ## Introduction

@@ -6,7 +6,7 @@ format: article
 ---
 # Postscript on the Societies of Control (1990)
 `LINKS:` [source](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control) // PDF
-`TAGS:` #article
+#article
 `AUTHOR:` [[Deleuze]]
 
 ---

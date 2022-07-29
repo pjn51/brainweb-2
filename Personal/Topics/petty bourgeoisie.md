@@ -2,7 +2,7 @@
 aliases: [petty bourgeois]
 ---
 # The Petty Bourgeoisie
-`TAGS:` 
+
 
 ---
 # Introduction

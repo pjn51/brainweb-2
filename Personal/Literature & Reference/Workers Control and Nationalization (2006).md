@@ -7,7 +7,7 @@ type: article
 
 # Workers Control and Nationalization
 `LINKS:`  [Source](https://www.marxist.com/workers-control-nationalization-part1.htm)
-`TAGS:` #article 
+#article 
 
 ---
 In [[Venezuela]], we see the system of co-management being introduced. This is the way in which the working class there is struggling to move towards socialism. 

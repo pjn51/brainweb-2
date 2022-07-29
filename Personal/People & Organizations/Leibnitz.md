@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Leibnitz
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

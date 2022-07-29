@@ -6,7 +6,7 @@ format: article
 ---
 # 2021 IMT World Perspectives
 `LINKS`: [[IMT]] | [source](file:///Users/patricknorman/Downloads/WP%202021%20IEC%20draft.pdf)
-`TAGS`: #article 
+#article 
 `AUTHORS:` Executive Committee of the IMT
 
 ---

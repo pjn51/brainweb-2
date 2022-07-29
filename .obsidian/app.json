@@ -8,7 +8,7 @@
   "showFrontmatter": false,
   "autoPairMarkdown": true,
   "spellcheck": false,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabeticalReverse",
   "foldIndent": false,
   "showLineNumber": false,
   "mobileToolbarCommands": [
@@ -60,5 +60,5 @@
   "legacyEditor": false,
   "showUnsupportedFiles": false,
   "showIndentGuide": false,
-  "vimMode": true
+  "vimMode": false
 }

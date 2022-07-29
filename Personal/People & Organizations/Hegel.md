@@ -4,7 +4,7 @@ died: 1831
 ---
 # Georg Wilhelm Friedrich Hegel
 `LINKS:` [[philosophy]]
-`TAGS:` #people 
+#people 
 
 
 ---

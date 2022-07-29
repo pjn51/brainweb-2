@@ -3,7 +3,7 @@ born: 1926
 died: 1984
 ---
 # Foucault
-`TAGS:` #people 
+#people 
 
 ---
 Foucault was a [[France|French]] philosopher.  He is associated with the school of [[postmodernism]]. He wrote on the topics of power, sexuality, and freedom. 

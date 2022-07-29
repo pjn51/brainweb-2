@@ -4,7 +4,7 @@ author: Michael Pollan
 genre: non-fiction
 ---
 # How to Change Your Mind (2018)
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 # Review

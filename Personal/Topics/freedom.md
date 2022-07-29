@@ -1,5 +1,5 @@
 # Freedom 🦅
-`TAGS`: 
+
 
 ---
 # Introduction

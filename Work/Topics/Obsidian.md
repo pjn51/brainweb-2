@@ -1,5 +1,5 @@
 # Obsidian 💎
-`TAGS`: 
+
 
 ---
 # Introduction

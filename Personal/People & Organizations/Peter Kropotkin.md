@@ -3,7 +3,7 @@ born: 1842
 died: 1921
 ---
 # Peter Kropotkin
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

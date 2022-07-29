@@ -1,6 +1,6 @@
 # 3-8-21 call with UHC mental health coordinator
 `LINKS:` [[health meetings]]
-`TAGS:` #meeting/health
+#meeting/health
 
 ---
 - 50 minutes of weekly therapy is covered for my plan

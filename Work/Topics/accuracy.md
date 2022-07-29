@@ -1,5 +1,5 @@
 # Accuracy
-`TAGS:` 
+
 
 ---
 $$

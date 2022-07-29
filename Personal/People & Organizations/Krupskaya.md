@@ -3,7 +3,7 @@ born: 1869
 died: 1939
 ---
 # Nadezhda Krupskaya
-`TAGS:` #people 
+#people 
 
 ---
 Krupskaya was [[Lenin|Lenin's]] wife, and an instrumental figure in the workers' movement alongside him. 

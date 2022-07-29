@@ -11,7 +11,7 @@ The Enneagram is another personality model.
 # [[What is the Enneagram?]]
 
 Love languages are a more specific model of how we give and recieve interpersonal affection. 
-# [[What are love languages?]]
+# [[love languages]]
 
 ---
 #question/psychology 

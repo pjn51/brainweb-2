@@ -1,6 +1,6 @@
 # The Pythonic Coding Style
 `LINKS:` [[Python]]
-`TAGS:` 
+
 
 ---
 Something is 'pythonic' if it follows the generally agreed-upon coding guidelines for [[Python]], specifically, [PEP8](https://www.python.org/dev/peps/pep-0008/).

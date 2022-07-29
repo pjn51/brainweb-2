@@ -1,5 +1,5 @@
 # Metis
-`TAGS:` #hub
+#hub
 `LINKS:` [[data science]]
 
 ---

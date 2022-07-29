@@ -1,5 +1,5 @@
 # Grocery List 🛒
-`TAGS`: 
+
 
 ---
 ## Fresh

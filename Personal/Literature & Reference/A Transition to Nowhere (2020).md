@@ -4,7 +4,7 @@ genre: political
 ---
 # A Transition to Nowhere (2020)
 `SOURCE:` PDF
-`TAGS:` #article 
+#article 
 
 ---
 > [!Context]

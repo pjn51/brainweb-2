@@ -3,7 +3,7 @@ born: 1868
 died: 1916
 ---
 # James Connolly 
-`TAGS:` #people
+#people
 
 ---
 # Introduction

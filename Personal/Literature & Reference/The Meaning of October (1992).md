@@ -5,7 +5,7 @@ genre: political
 ---
 # The Meaning of October (1992)
 `SOURCE:` [source](https://www.marxist.com/the-russian-revolution-the-meaning-of-october.htm)
-`TAGS:`  #article 
+ #article 
 
 ---
 [[Alan Woods]] begins by talking about the demise of the Soviet Union, and how we should study the October revolution. He says that [[Revolutions become inevitable when the superstructure strangles the productive forces]]. 

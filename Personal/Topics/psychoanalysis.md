@@ -1,5 +1,5 @@
 # Psychoanalysis
 `LINKS`: [[psychology]]
-`TAGS`: 
+
 
 ---

@@ -1,5 +1,5 @@
 # The Normal Distribution
-`TAGS`: 
+
 
 ---
 ## Introduction

@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Budget Project
-`TAGS:` 
+
 
 ---
 # Introduction

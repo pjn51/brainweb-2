@@ -1,6 +1,6 @@
 # Class Imbalance
 `LINKS:` [[2-1-21 metis]]
-`TAGS:` 
+
 
 ---
 [[Classification requires balanced classes]]. We have to worry about this, because if 99% of the training data is in class A, then a classifier that just put all the predictions in class A would have a 99% [[accuracy]] score. This means that we have to use additional [[metrics]] to grade our models. This is one reason why [[Accuracy is an insufficient classification metric]]. 

@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Napoleon Bonaparte
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

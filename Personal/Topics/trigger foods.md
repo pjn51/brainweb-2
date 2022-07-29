@@ -1,5 +1,5 @@
 # Trigger Foods 😰
-`TAGS`: 
+
 
 ---
 # Introduction

@@ -1,5 +1,5 @@
 # Ecuador 🇪🇨
-`TAGS`: 
+
 
 ---
 # Introduction

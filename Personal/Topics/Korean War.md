@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Korean War
-`TAGS:` 
+
 `SOUTHERN FORCES:` [[USA]], [[South Korea]] 
 `NORTHERN FORCES:` [[North Korea]], [[China]], [[Russia|USSR]]
 

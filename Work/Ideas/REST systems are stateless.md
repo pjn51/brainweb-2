@@ -6,4 +6,4 @@ This constraint makes these systems more scalable, faster, and more reliable.
 ---
 #idea/compsci 
 
-1. https://www.codecademy.com/article/what-is-rest
+1. [Codeacademy](https://www.codecademy.com/article/what-is-rest)

@@ -3,7 +3,7 @@ born: 1948
 died: 1969
 ---
 # Fred Hampton
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

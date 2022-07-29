@@ -3,7 +3,7 @@ born: 1914
 died: 1990
 ---
 # Hal Draper
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

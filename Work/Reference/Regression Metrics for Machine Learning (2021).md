@@ -6,7 +6,7 @@ format: article
 ---
 # Regression Metrics for Machine Learning
 `LINKS:` [source](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
-`TAGS:` #article 
+#article 
 `AUTHOR:` Jason Brownlee
 
 ---

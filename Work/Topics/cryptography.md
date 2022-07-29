@@ -3,7 +3,7 @@ aliases: [cryptographic, encrypt, encrypted, encryption, encrypts]
 ---
 # Cryptography
 `LINKS:` [interesting video](https://www.youtube.com/watch?v=rLiEA06Bcic)
-`TAGS:` #hub  
+#hub  
 
 ---
 Cryptography is the science and field of encrypting messages and data. 

@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3a44db3577e6ff",
+        "id": "a4f3ec0dd2b53b8a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/Kerberos.md",
+            "file": "People & Teams/Zandra.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "55052033a72f3be2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics/Indeed org chart.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "93dc7e3357bd448e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Work Meetings/22-07-29 PQM presentation planning.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ux ",
-                "matchingCase": false,
+                "query": "tag:#idea/learning/pkm",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -54,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285,
-    "collapsed": true
+    "width": 285
   },
   "right": {
     "id": "e94cd9a5052e87bd",
@@ -71,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Kerberos.md",
+                "file": "Topics/Indeed org chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/Kerberos.md",
+                "file": "Topics/Indeed org chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/Kerberos.md"
+                "file": "Topics/Indeed org chart.md"
               }
             }
           },
@@ -123,24 +148,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2c3a44db3577e6ff",
+  "active": "55052033a72f3be2",
   "lastOpenFiles": [
-    "Kerberos uses symmetric encryption.md",
-    "Topics/cryptography.md",
-    "Ideas/Encryption is the cornerstone of the internet.md",
-    "Questions/How is data encrypted?.md",
-    "Topics/Kerberos.md",
-    "Topics/IQL.md",
-    "IQL doesn't use joins.md",
-    "Reference/IQL - b2i session six.md",
-    "Reference/IQL - From Beginner to Intermediate.md",
-    "People & Teams/Measurement.md"
+    "People & Teams/Zandra.md",
+    "Work Meetings/22-07-29 Job alerts policy review.md",
+    "Topics/Indeed org chart.md",
+    "Work Meetings/22-07-27 Syed 1o1.md",
+    "Work Meetings/22-07-28 PQM presentation.md",
+    "Work Meetings/22-07-28 PQM standup.md",
+    "Work Meetings/22-07-29 PQM presentation planning.md",
+    "Workdays/22-07-29 Fri.md",
+    "People & Teams/Measurement.md",
+    "Workdays/Months/22-07 July.md"
   ]
 }

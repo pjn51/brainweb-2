@@ -6,7 +6,7 @@ format: article
 ---
 # Green Steel / Atomic Steel
 `LINKS:` [Source](https://paulcockshott.wordpress.com/2021/02/01/green-steel-atomic-steel/)
-`TAGS:` #article 
+#article 
 `AUTHOR:`  Paul Cockshott
 
 ---

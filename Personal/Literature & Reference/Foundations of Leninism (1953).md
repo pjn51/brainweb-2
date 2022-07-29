@@ -5,7 +5,7 @@ genre: political
 ---
 # Foundations of Leninism (1953)
 `LINKS:` [source](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/index.htm)
-`TAGS`: #book #wip 
+#book #wip 
 
 ---
 > [!info]

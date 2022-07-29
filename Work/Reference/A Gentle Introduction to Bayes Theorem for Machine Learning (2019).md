@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # A Gentle Introduction to Bayes Theorem for Machine Learning (2019)
 `SOURCE:` [source](https://machinelearningmastery.com/bayes-theorem-for-machine-learning/)
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 This is an article about [[Bayes theorem]] and how we can apply it to [[machine learning]] in the form of [[naive bayes]]. 

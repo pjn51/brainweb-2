@@ -1,5 +1,5 @@
 # North Korea 🇰🇵
-`TAGS`: 
+
 
 ---
 # Introduction

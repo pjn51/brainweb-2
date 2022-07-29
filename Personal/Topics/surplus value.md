@@ -1,5 +1,5 @@
 # Surplus Value
-`TAGS:` 
+
 
 ---
 ## Introduction

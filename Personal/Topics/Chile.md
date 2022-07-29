@@ -1,5 +1,5 @@
 # Chile 🇨🇱
-`TAGS`: 
+
 
 ---
 # Introduction

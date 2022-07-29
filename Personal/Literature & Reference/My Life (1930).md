@@ -4,7 +4,7 @@ genre: political
 ---
 # My Life (1930)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]

@@ -6,7 +6,7 @@ format: article
 ---
 # 50 Years Since Allende's Election in Chile: Lessons for the Future
 `LINKS`: [source](https://www.marxist.com/50-years-since-allende-s-election-in-chile-lessons-for-the-future.htm)
-`TAGS`: #article 
+#article 
 `AUTHOR:` Diego Catalan
 
 ---

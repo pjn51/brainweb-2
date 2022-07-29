@@ -1,6 +1,6 @@
 # Metis Notes for Wednesday, March 3rd
 `LINKS:` [[metis week 9]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Pair: boost

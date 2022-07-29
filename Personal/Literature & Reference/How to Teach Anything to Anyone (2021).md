@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # How to Teach Anything to Anyone (2021)
 `SOURCE:` [source](https://www.inc.com/kevin-daum/how-to-teach-anything-to-anyone.html)
-`TAGS:` #article 
+#article 
 
 ---
 # Ideas

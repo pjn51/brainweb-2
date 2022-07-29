@@ -1,6 +1,6 @@
 # Metis Notes for Friday, Feb 5th
 `LINKS:` [[metis week 5]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 We're starting off with pair programming like usual, and then we have lectures on plotly / dash, and another classification assessment. 

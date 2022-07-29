@@ -5,7 +5,7 @@ genre: political
 ---
 # Why We Are Marxists
 `LINKS:` [[Trotskyism]] | [Source](https://www.marxist.com/why-we-are-marxists.htm)
-`TAGS:`  #tactic 
+ #tactic 
 
 ---
 This article by [[Alan Woods]] is a good intro to the ideas of [[Marxism]]. 

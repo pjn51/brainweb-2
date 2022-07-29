@@ -1,6 +1,6 @@
 # Open endedness: The last grand challenge you've never heard of
 `LINKS:` [[data science]] | [Source](https://www.oreilly.com/radar/open-endedness-the-last-grand-challenge-youve-never-heard-of/)
-`TAGS:` 
+
 
 ---
 For something to be open ended means that it continually produces more and more content, on a higher and higher level of complexity. The best example is [[evolution]]. 

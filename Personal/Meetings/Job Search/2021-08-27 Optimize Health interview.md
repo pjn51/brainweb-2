@@ -1,7 +1,7 @@
 # Optimize Health Interview
 `DATE:` Friday, August 27, 2021
 `WITH:` Sarah Jacobs (VP of product at Optimize Health)
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 # Topics to discuss

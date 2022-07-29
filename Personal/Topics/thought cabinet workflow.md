@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Thought Cabinet Workflow
-`TAGS:` 
+
 
 ---
 # Introduction

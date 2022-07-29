@@ -1,5 +1,5 @@
 # Notes from my Jan 14th career support meeting
-`TAGS:` #meeting/career 
+#meeting/career 
 
 During [[metis week 2]], I decided to schedule a meeting with Jen, my [[career]] advisor.
 

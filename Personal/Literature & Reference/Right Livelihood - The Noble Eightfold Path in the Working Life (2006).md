@@ -5,7 +5,7 @@ genre: philosophy
 ---
 # Right Livelihood - The Noble Eightfold Path in the Working Life
 `LINKS:` [source](https://www.accesstoinsight.org/lib/authors/various/wheel294.html#livelihood)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Susan Elbaum Jootla
 
 ---

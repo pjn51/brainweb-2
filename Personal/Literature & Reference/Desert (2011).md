@@ -5,7 +5,7 @@ genre: political
 ---
 # Desert
 `LINKS:` [[Anarchism]] | [Source](https://theanarchistlibrary.org/library/anonymous-desert)
-`TAGS:` #book #wip 
+#book #wip 
 `AUTHOR:` anonymous
 
 ---

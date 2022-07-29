@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Richard Feynman
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

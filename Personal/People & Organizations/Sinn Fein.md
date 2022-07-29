@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Sinn Fein
-`TAGS:` #org 
+#org 
 
 ---
 # Introduction

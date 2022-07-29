@@ -5,7 +5,7 @@ genre: political
 ---
 # A History of Labor Militant (   )
 `SOURCE:` PDF
-`TAGS:` #article 
+#article 
 
 ---
 > [!Abstract]

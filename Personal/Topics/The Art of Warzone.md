@@ -1,5 +1,5 @@
 # The Art of Warzone
-`TAGS:` 
+
 
 ---
 # Summer of Love '21

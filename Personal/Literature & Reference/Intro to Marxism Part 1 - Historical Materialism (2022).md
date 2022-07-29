@@ -5,7 +5,7 @@ format: video
 ---
 # Intro to Marxism Part 1 - Historical Materialism (2022)
 `SOURCE:` https://www.youtube.com/watch?v=TTorEO1u9qo
-`TAGS:` #wip #video 
+#wip #video 
 
 ---
 > [!Abstract]

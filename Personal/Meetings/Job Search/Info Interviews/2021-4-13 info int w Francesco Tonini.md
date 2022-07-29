@@ -1,7 +1,7 @@
 # Informational Interview with Francesco Tonini
 `DATE:` [[2021-04-13]]
 `WITH:` Francesco Tonini
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Job description

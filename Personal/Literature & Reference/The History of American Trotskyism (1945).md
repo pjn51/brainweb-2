@@ -5,7 +5,7 @@ genre: political
 ---
 # The History of American Trotskyism
 `LINKS:` [Partial source](https://www.marxists.org/archive/cannon/works/1945/history/index.html)
-`TAGS:` #book
+#book
 `AUTHOR:` [[James Cannon]]
 
 ---

@@ -1,5 +1,5 @@
 # Globalization 🌐
-`TAGS:` 
+
 
 ---
 # Introduction

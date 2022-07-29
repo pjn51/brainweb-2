@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Erich Fromm
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

@@ -2,7 +2,7 @@
 aliases: [sect, sectarian]
 ---
 # Sectarianism
-`TAGS:` #tactic
+#tactic
 
 ---
 Sectarianism is an error in which [[Marxism]] becomes dogmatic, and the sectarian loses all flexibility in their understanding of the movement and their principles. 

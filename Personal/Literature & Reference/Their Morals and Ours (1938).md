@@ -6,7 +6,7 @@ genre: political
 ---
 # Their Morals and Ours (1938)
 `SOURCE:` Kindle
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]

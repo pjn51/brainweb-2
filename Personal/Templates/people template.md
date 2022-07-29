@@ -4,6 +4,6 @@ born:
 died: 
 ---
 # {{title}}
-`TAGS:` #people 
+#people 
 
 ---

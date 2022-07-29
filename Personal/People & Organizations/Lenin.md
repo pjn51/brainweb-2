@@ -3,7 +3,7 @@ born: 1870
 died: 1924
 ---
 # Vladimir Ilyich Ulyanov (Lenin)
-`TAGS:` #people 
+#people 
 
 ---
 Vladimir Ilyich Ulyanov was a [[Russia|Russian]] theorist and revolutionary. He helped lead the [[Bolsheviks]] to victory during the October revolution. He wrote multiple excellent works of theory and tactics. 
@@ -24,7 +24,7 @@ Vladimir Ilyich Ulyanov was a [[Russia|Russian]] theorist and revolutionary. He 
 # Lenin's ideas
 - [[Lenin called imperialism parasitic]]
 - [[Lenin advocated revolutionary defeatism]]
-- [[Lenin gave five basic features of imperialism]]
+- [[Lenin defined imperialism around financial domination]]
 - [[Lenin attacked the theory of ultra-imperialism]]
 - [[Lenin centered theory in revolutionary activity]]
 - [[Lenin criticised Kautsky's definition of imperialism]]

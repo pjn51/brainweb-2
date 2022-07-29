@@ -2,7 +2,7 @@
 aliases: [Irish]
 ---
 # Ireland 🇮🇪
-`TAGS:` 
+
 
 ---
 # Introduction

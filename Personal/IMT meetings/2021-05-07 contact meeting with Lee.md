@@ -1,7 +1,7 @@
 # 2021-5-7 contact meeting with Lee
 `DATE:` [[2021-05-21]]
 `WITH:` Lee (IMT contact)
-`TAGS:` #meeting/political
+#meeting/political
 
 ---
 # ✅ Topics to discuss
@@ -10,7 +10,7 @@
 # ✏️ Notes
 - # [[IMT]] Contact Meeting with Lee, 5-7-21
 `LINKS`: 
-`TAGS`: #meeting/political 
+#meeting/political 
 
 ---
 ## Points to Cover

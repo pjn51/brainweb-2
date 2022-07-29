@@ -3,7 +3,7 @@ born: 1946
 died: 
 ---
 # Donald Trump
-`TAGS:` #people  
+#people  
 
 ---
 Trump was the President of the [[USA]] from 2016-2020. He was often accused of being a specter of [[fascism]], although he must not have been a very good one, seeing as he was removed from office without much real resistance. The fact is, he was just an egotistical asshole. 

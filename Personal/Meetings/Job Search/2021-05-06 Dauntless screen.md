@@ -1,5 +1,5 @@
 # Phone Screening for DAUNTLESS Data Scientist Position
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Company Info

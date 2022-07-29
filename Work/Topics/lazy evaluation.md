@@ -1,5 +1,5 @@
 # Lazy Evaluation
-`TAGS:` 
+
 
 ---
 ## Introduction

@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Eugene Debs
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

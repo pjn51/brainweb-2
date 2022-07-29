@@ -1,5 +1,5 @@
 # Stash-o-Matic Trajectory
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -1,6 +1,6 @@
 # The Freedom Socialist Party 🚩
 `LINKS`: [website](https://socialism.com/)
-`TAGS`: #org
+#org
 
 ---
 # Introuduction

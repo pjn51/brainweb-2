@@ -1,5 +1,5 @@
 # Paraguay 🇵🇾
-`TAGS`: 
+
 
 ---
 # Introduction

@@ -6,7 +6,7 @@ format: video
 ---
 # 3blue1brown: The Binomial Distribution
 `LINKS:` [source](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
-`TAGS`: #wip #video
+#wip #video
 
 ---
 <center>

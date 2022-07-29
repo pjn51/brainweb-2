@@ -1,5 +1,5 @@
 # Latent Dirichlet Allocation
-`TAGS:` 
+
 
 ---
 ## Introduction

@@ -5,7 +5,7 @@ genre: political
 ---
 # Marx and Engels' Selected Correspondance (1980)
 `SOURCE:` physical
-`TAGS:` #wip 
+#wip 
 
 ---
 > [!Abstract]

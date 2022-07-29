@@ -1,5 +1,5 @@
 # Caffiene ☕️
-`TAGS`: 
+
 
 ---
 ## Caffiene and IBD | [source](https://www.ibdrelief.com/diet/role-of-diet-in-inflammatory-bowel-disease/trigger-foods/caffeine-and-ibd)

@@ -7,7 +7,7 @@ During this week's team meeting, [[Maitreyi]] explained that she's finally gotte
 
 Maitreyi said that new rubrics are being developed for the Technical Analyst positions company-wide, which are supposed to be released by the next review cycle.
 
-During the standup portion, I said that I'm wrapping up my two tickets and I'm excited to actually be creating a [[Cronjob]] from [[Dan|Dan's]] [[Ishbook]] next sprint. I'm attending vendor calibrations for the [[MidApply Feedback queue]] so that I understand what the process is like, and I'm diving into [[Orc]] to round out my [[4607 - Learn how to write a Cronjob]] ticket.
+During the standup portion, I said that I'm wrapping up my two tickets and I'm excited to actually be creating a [[Cronjob]] from [[Dan|Dan's]] [[Ishbook]] next sprint. I'm attending vendor calibrations for the [[Midapply Feedback queue]] so that I understand what the process is like, and I'm diving into [[Orc]] to round out my [[4607 - Learn how to write a Cronjob]] ticket.
 
 ---
 1. [Meeting notes](https://docs.google.com/document/d/1O4Dn0VmXZBN9mtrJdgnlK6i_BAdK4yxA-YHRpGj5iys/edit#heading=h.taxy3c4rld3y)

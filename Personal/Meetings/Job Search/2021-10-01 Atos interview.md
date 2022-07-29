@@ -1,7 +1,7 @@
 # 2021-10-01 Atos interview
 `DATE:` [[2021-10-01]]
 `WITH:` Andrew Larson
-`TAGS:` #meeting/career 
+#meeting/career 
 
 ---
 # Why I want to work at Atos

@@ -6,7 +6,7 @@ format: article
 ---
 # "What Kind of Party Do We Need?" A Reply to Comrades in DSA
 `LINKS:` [source](https://wellred.box.com/s/vu6d3qew25zoeiv4fx83rlks688n6uto)
-`TAGS:` #article
+#article
 `AUTHOR:` Tom Trottier and Antonio Balmer
 
 ---

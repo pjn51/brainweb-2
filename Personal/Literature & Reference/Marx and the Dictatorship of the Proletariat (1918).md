@@ -4,7 +4,7 @@ genre: political
 ---
 # Marx and the Dictatorship of the Proletariat (1918)
 `SOURCE:` [digital](https://www.marxists.org/archive/martov/1918/xx/marxdp.htm)
-`TAGS:` #article 
+#article 
 
 ---
 [[Martov]] delves into an analysis of what [[Marx]] and [[Engels]] thought about the [[What is the dictatorship of the proletariat and why is it needed?|dictatorship of the proletariat]], and whether or not they were influenced by [[Blanquism]]. 

@@ -2,7 +2,7 @@
 aliases: [Bolshevik, Bolshevism]
 ---
 # The Bolsheviks 🚩
-`TAGS:` #org 
+#org 
 
 ---
 The Bolsheviks were a faction of the [[RSDLP]] in [[Russia]]. In this, we can see confirmation that [[Revolutionary parties tend to emerge from splits in existing mass organizations]]. 

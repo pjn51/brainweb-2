@@ -3,7 +3,7 @@ born: 1942
 died: 
 ---
 # Joseph Biden
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

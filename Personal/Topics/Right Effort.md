@@ -1,5 +1,5 @@
 # Right Effort
-`TAGS:` 
+
 
 ---
 ## Introduction

@@ -1,6 +1,6 @@
 # Deconstructivism
 `LINKS:` [[architecture]]
-`TAGS:`  
+ 
 
 ---
 ![disney concert hall](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Image-Disney_Concert_Hall_by_Carol_Highsmith_edit-2.jpg/220px-Image-Disney_Concert_Hall_by_Carol_Highsmith_edit-2.jpg)

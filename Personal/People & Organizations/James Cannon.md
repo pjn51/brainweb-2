@@ -3,7 +3,7 @@ born: 1890
 died: 1974
 ---
 # James Cannon
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction 

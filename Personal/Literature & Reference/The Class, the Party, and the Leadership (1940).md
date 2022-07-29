@@ -6,7 +6,7 @@ genre: political
 # The Class, the Party, and the Leadership
 `SOURCE:` [here](https://www.marxists.org/archive/trotsky/1940/xx/party.htm)
 `AUTHOR`: [[Trotsky]]
-`TAGS`: #book 
+#book 
 
 ---
 > [!info]

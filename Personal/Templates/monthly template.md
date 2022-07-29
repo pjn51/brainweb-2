@@ -3,7 +3,7 @@ origin: {{date:YYYY-MM-DD}}
 ---
 # 📅 {{date: MMMM YYYY}}
 `LINKS:` %%previous%% // %%next%% // [[{{year}}]]
-`TAGS:` #daily 
+#daily 
 
 ---
 # Stats

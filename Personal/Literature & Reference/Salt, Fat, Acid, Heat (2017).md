@@ -3,7 +3,7 @@ author: Samin Nosrat
 genre: non-fiction
 ---
 # Salt, Fat, Acid, Heat (2017)
-`TAGS:` #book  
+#book  
 
 ---
 - [[Salt, fat, acid, and heat are the fundamentals of cooking]]

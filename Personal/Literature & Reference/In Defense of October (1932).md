@@ -5,7 +5,7 @@ genre: political
 ---
 # In Defense of October (1932)
 `SOURCE:` [source](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
-`TAGS:`  #book 
+ #book 
 
 ---
 # Summary

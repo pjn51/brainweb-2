@@ -1,5 +1,5 @@
 # Mexico 🇲🇽
-`TAGS`: 
+
 
 ---
 # Introduction

@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Fourier
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

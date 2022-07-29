@@ -1,6 +1,6 @@
 # The Eightfold Path
 `LINKS:` [Access to Insight study guide](https://www.accesstoinsight.org/ptf/dhamma/index.html)
-`TAGS:` 
+
 
 ---
 # Introduction

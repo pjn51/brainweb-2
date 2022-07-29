@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # The Enchiridion
 `LINKS:` [source](http://www.gutenberg.org/files/45109/45109-0.txt)
-`TAGS:` #wip #book
+#wip #book
 
 ---
 This work of philosophy, written by [[Epitctetus]], is a foundational text of [[Stoicism]]. 

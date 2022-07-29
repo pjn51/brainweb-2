@@ -6,7 +6,7 @@ format: article
 ---
 # Thirteen Ways to Fight Sugar Cravings
 `LINKS:` [source](https://www.webmd.com/diet/features/13-ways-to-fight-sugar-cravings#1)
-`TAGS`: #article 
+#article 
 `AUTHOR:` Wendy Fries
 
 ---

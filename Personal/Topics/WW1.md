@@ -1,5 +1,5 @@
 # The First World War
-`TAGS:` 
+
 
 ---
 ## The Allied Powers

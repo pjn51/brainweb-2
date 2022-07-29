@@ -1,6 +1,6 @@
 # Metis Notes for Thursday, Feb 4th
 `LINKS:` [[metis week 5]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Pair programming

@@ -3,7 +3,7 @@ born: 1935
 died: 
 ---
 # Dave Harvey
-`TAGS`: #people 
+#people 
 
 ---
 Dave Harvey is an [[academy|academic]] from the [[USA]]. He has a very popular introductory series on [[Capital (1867)]].

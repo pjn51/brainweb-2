@@ -3,7 +3,7 @@ born: 1879
 died: 1940
 ---
 # Leon Trotsky
-`TAGS:` #people 
+#people 
 
 ---
 Leon Trotsky was a [[Ukraine|Ukrainain]] revolutionary who fought side-by-side with [[Lenin]] in [[Russia|the October revolution]]. He later led the creation of the Red Army and the defense of the USSR during their civil war. 

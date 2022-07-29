@@ -6,7 +6,7 @@ format: article
 ---
 # The Unreasonable Effectiveness of Recurrent Neural Networks
 `LINKS:` [source](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-`TAGS`: #wip #article 
+#wip #article 
 `AUTHOR:` Andrej Karpathy
 
 ---

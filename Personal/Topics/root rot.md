@@ -1,5 +1,5 @@
 # Root rot
-`TAGS:` 
+
 
 ---
 # Introduction

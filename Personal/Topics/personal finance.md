@@ -1,5 +1,5 @@
 # Personal Finance
-`TAGS`: 
+
 
 ---
 For a breakdown of my income over time, see [[my income history]]. 

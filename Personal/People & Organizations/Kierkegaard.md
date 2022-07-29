@@ -3,7 +3,7 @@ born: 1813
 died: 1855
 ---
 # Soren Kierkegaard
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

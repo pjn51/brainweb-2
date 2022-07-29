@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Hume
-`TAGS:` #people 
+#people 
 
 ---
 Hume was a philosopher. [[Woods describes Hume as a subjective idealist]].

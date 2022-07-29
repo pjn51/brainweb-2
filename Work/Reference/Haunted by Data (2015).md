@@ -4,7 +4,7 @@ genre: STEM
 ---
 # Haunted by Data (2015)
 `SOURCE:` https://idlewords.com/talks/haunted_by_data.htm
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 > [!Introduction]

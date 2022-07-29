@@ -6,7 +6,7 @@ format: article
 ---
 # How to Network and Build a Personal Brand in Data Science
 `LINKS:` [source](https://www.kdnuggets.com/2016/05/how-network-build-personal-brand-data-science.html)
-`TAGS`: #article 
+#article 
 `AUTHOR:` Roger Huang
 
 ---

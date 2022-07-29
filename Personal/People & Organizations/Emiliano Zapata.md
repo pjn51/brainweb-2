@@ -3,7 +3,7 @@ born: 1879
 died: 1919
 ---
 # Emiliano Zapata
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

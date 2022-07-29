@@ -1,6 +1,6 @@
 # Enneagram Type Six
 `LINKS:` [[What is the Enneagram?]] | [Enneagram Institute description](https://www.enneagraminstitute.com/type-6)
-`TAGS:` 
+
 
 ---
 ![chart](https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1482154861533-011M04CIAIIUKIEKVNSC/ke17ZwdGBToddI8pDm48kGJhuUC4fYhB0qr4zYQ1TANZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF5wAUowfLoeyHki4sxHpjkbq6xH0spp_o6E8WxvA3humQ6l2WM7tn7mqHTODzkmeM/image-asset.gif?format=500w)

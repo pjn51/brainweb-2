@@ -1,5 +1,5 @@
 # The Labour Party (UK)
-`TAGS:` #org 
+#org 
 
 ---
 # Introduction

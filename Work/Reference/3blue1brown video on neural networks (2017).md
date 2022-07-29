@@ -6,7 +6,7 @@ format: video
 ---
 # 3BLUE1BROWN - [[neural network|neural networks]]
 `LINKS:` [video](https://www.youtube.com/watch?v=aircAruvnKk) 
-`TAGS:` #video 
+#video 
 
 ---
 <center>

@@ -1,5 +1,5 @@
 # Exercise 🏋️‍♀️
-`TAGS:` #hub 
+#hub 
 
 ---
 Exercise is important for living a healthy life. There are a few main regions that should be balanced: 

@@ -4,7 +4,7 @@ genre: political
 ---
 # On Historical Materialism (1892)
 `SOURCE:` [source]()
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!note]

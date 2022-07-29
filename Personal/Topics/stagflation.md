@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Stagflation
-`TAGS:` 
+
 
 ---
 # Introduction

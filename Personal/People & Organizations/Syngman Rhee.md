@@ -3,7 +3,7 @@ born: 1875
 died: 1965
 ---
 # Syngman Rhee
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

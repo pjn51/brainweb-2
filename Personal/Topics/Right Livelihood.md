@@ -1,5 +1,5 @@
 # Right Livelihood
-`TAGS:` 
+
 
 ---
 ## Introduction

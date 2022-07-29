@@ -1,4 +1,5 @@
-*EOQ seeks to minimize holding and ordering costs.* The EOQ formula, which stands for [[economic order quantity]], is expressed as...
+# EOQ seeks to minimize holding and ordering costs.
+The EOQ formula, which stands for [[economic order quantity]], is expressed as...
 $$
 Q* = \sqrt{\frac{2DK}{h}}
 $$... where $Q*$ is the optimal order quantity, $D$ is the annual demand quantity, $K$ is the fixed cost per order (such as shipping), and $h$ is the annual holding cost per unit. 

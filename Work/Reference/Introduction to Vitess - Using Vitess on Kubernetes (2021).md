@@ -6,7 +6,7 @@ format: article
 ---
 # Introduction to Vitess - Using Vitess on Kubernetes
 `LINKS:` [source](https://rancher.com/blog/2018/2018-08-31-intro-to-vitess-on-kubernetes/)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Roman Doroschevici
 
 ---

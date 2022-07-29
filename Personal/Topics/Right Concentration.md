@@ -1,5 +1,5 @@
 # Right Concentration
-`TAGS:` 
+
 
 ---
 ## Introduction

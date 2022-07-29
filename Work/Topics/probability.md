@@ -1,5 +1,5 @@
 # Probability
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

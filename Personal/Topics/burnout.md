@@ -1,5 +1,5 @@
 # Burnout
-`TAGS`: 
+
 
 ---
 # Introduction

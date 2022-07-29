@@ -1,6 +1,6 @@
 # [[IMT]] Reading Group, 3-16-21
 `LINKS:` [[The Revolutionary Philosophy of Marxism (2018)]]
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 ## Reading Questions

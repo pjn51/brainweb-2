@@ -1,5 +1,5 @@
 # The French Communist Party 🚩
-`TAGS`: #org 
+#org 
 
 ---
 # Introduction

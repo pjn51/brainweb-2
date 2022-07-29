@@ -1,5 +1,5 @@
 # IPython
-`TAGS:` 
+
 
 ---
 ## Introduction

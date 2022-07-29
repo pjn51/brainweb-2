@@ -6,7 +6,7 @@ format: article
 ---
 # How the Militant was Built - and How it was Destroyed
 `LINKS:` [Source](https://www.marxist.com/militant-built-destroyed101004.htm) 
-`TAGS:` #tactic #article 
+#tactic #article 
 `AUTHOR:` [[Rob Sewell]]
 
 ---

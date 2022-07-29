@@ -1,5 +1,5 @@
 # Central Limit Theorem
-`TAGS`: 
+
 
 ---
 # Introduction

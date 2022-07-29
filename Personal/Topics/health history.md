@@ -1,6 +1,6 @@
 # Health History
 `LINKS:` [[Crohn's disease]]
-`TAGS:` 
+
 
 ---
 This is a more condensed version of my [[flare log]]. 

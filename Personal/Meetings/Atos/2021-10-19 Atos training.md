@@ -1,7 +1,7 @@
 # 2021-10-19 Atos training
 `DATE:` [[2021-10-19]]
 `WITH:` multiple
-`TAGS:` #meeting/Atos
+#meeting/Atos
 
 ---
 # Andrew Larson

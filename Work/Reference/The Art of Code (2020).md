@@ -4,7 +4,7 @@ genre: STEM
 ---
 # The Art of Code (2020)
 `SOURCE:` [source](https://www.youtube.com/watch?v=6avJHaC3C2U)
-`TAGS:` #wip #video 
+#wip #video 
 
 ---
 # Ideas

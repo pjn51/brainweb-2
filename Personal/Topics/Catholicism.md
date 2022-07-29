@@ -2,7 +2,7 @@
 aliases: [Catholic, Catholics, Catholic Church]
 ---
 # Catholicism ✝️
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -1,5 +1,5 @@
 # Panama 🇵🇦
-`TAGS:`  
+ 
 
 ---
 # Introduction

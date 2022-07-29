@@ -3,7 +3,7 @@ born: 1865
 died: 1939
 ---
 # Philip Scheidemann
-`TAGS`: #people 
+#people 
 
 ---
 Scheidemann was a leading member of the [[SPD]] and Chancellor of the German government during the failed [[Germany|German revolution]]. 

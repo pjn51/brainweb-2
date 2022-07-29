@@ -1,5 +1,5 @@
 # Photosynthesis
-`TAGS:` 
+
 
 ---
 # Introduction

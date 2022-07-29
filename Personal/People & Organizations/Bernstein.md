@@ -3,7 +3,7 @@ born: 1850
 died: 1932
 ---
 # Eduard Bernstein
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

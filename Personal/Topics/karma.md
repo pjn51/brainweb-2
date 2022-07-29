@@ -1,5 +1,5 @@
 # Karma
-`TAGS:` 
+
 
 ---
 # Introduction

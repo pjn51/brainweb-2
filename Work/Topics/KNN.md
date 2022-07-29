@@ -1,5 +1,5 @@
 # K-Nearest Neighbor Classification
-`TAGS:` 
+
 
 ---
 # Introduction

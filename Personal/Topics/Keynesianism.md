@@ -1,4 +1,4 @@
 # Keynesian Economics
-`TAGS`: 
+
 
 ---

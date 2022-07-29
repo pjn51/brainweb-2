@@ -1,6 +1,6 @@
 # 📅 November 2021
 `LINKS:` [[2021]]
-`TAGS:` #daily 
+#daily 
 
 ---
 # Summary

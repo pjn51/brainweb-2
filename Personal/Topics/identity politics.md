@@ -1,5 +1,5 @@
 # Identity Politics
-`TAGS`: 
+
 
 ---
 Identity politics represents the tendency towards looking at political issues such as racism, sexism, and other forms of oppression from a standpoint focusing on individual identity, inclusion, and representation.

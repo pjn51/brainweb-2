@@ -1,5 +1,5 @@
 # The Bachelorette
-`TAGS`: 
+
 
 ---
 > [!info]

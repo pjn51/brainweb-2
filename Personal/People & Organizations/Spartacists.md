@@ -1,5 +1,5 @@
 # The Spartacists 🚩
-`TAGS`: #org 
+#org 
 
 ---
 Not to be confused with [[Spartacist League]]. 

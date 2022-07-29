@@ -3,7 +3,7 @@ on [[22-07-01 Fri]]
 with [[Lynn]], [[Dan]], [[Megan]]
 
 ---
-This was a really interesting meeting where Lynn walked me, Megan, and Dan through a Google Colab notebook she wrote up to do some exploratory [[topic modeling]] on [[Report A Job|RAJ]] verbatim comments. ^1
+This was a really interesting meeting where Lynn walked me, Megan, and Dan through a Google Colab notebook she wrote up to do some exploratory [[topic modeling]] on [[Report A Job queue|RAJ]] verbatim comments. ^1
 
 In order to get the [[data]] into the notebook, she had to export from [[IQL]] into Google Drive as a CSV, connect Google Drive, and then import the data.
 

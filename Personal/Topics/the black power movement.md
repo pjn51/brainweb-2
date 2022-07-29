@@ -1,5 +1,5 @@
 # The Black Power Movement ✊🏿
-`TAGS:` #hub 
+#hub 
 
 ---
 ## Introduction 

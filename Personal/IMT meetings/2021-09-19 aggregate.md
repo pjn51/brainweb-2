@@ -1,7 +1,7 @@
 # Aggregate, Sunday, September 19, 2021
 `LINKS:` [[IMT]]
 `DATE:` [[2021-09-19]]
-`TAGS`: #meeting/political 
+#meeting/political 
 
 ---
 # ☭ Political discussion
@@ -137,7 +137,7 @@ See [[SMART goals]].
 ## 1. Meet in-person weekly (on Sundays at 11)
 Starting on Oct 17. 
 
-## 2. Set up biweekly one-on-ones between PN & JC, and PN & CC, within the next two weeks
+## 2. Set up biweekly one-on-ones between PN & JC, and PN & [[CrC]], within the next two weeks
 
 ## 3. Recruit at least one student at UW within the next six months
 

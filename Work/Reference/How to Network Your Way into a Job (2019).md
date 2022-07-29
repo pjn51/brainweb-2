@@ -6,7 +6,7 @@ format: video
 ---
 # How to Network Your Way Into a Job
 `LINKS`:  [video](https://www.youtube.com/watch?v=mi2mCQGejMM)
-`TAGS`: #video 
+#video 
 
 ---
 [[networking]] is an essential part of getting a job. 

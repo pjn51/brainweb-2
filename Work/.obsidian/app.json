@@ -4,5 +4,5 @@
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": false
 }

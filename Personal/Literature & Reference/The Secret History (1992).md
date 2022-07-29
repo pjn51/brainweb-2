@@ -4,7 +4,7 @@ author: Donna Tartt
 genre: fiction
 ---
 # The Secret History (1992)
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Summary

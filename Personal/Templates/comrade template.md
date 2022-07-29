@@ -1,3 +1,7 @@
+---
+origin: {{date:YYYY-MM-DD}}
+aliases: []
+---
 # {{title}}
 ---
 
@@ -6,5 +10,5 @@
 ```dataview
 LIST
 FROM [[{{title}}]] 
-AND "IMT meetings"
+AND "Personal/IMT meetings"
 ```

@@ -5,7 +5,7 @@ genre: political
 ---
 # Capital
 `LINKS`: [source](https://www.marxists.org/archive/marx/works/1867-c1/)
-`TAGS`: #book #wip 
+#book #wip 
 `AUTHOR:` [[Marx]]
 
 ---

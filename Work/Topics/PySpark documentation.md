@@ -1,6 +1,6 @@
 # PySpark Documentation
 `LINKS:` [source](https://spark.apache.org/docs/latest/api/python/getting_started/quickstart.html)
-`TAGS:` #article 
+#article 
 
 ---
 > [!info]

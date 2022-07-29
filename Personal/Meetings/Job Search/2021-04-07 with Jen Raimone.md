@@ -1,5 +1,5 @@
 # Career Meeting, 4-7-21
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 - Apply more, like 5-12 a week. 

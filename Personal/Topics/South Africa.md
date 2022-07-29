@@ -1,5 +1,5 @@
 # South Africa 🇿🇦
-`TAGS`: 
+
 
 ---
 # Introduction

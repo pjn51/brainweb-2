@@ -2,7 +2,7 @@
 aliases: [economic]
 ---
 # Economics 💰
-`TAGS:` #hub 
+#hub 
 
 ---
 Economics is the (usually [[bourgeoisie|bourgeois]]) study of the economy. Since [[The ruling ideas tend to be those of the ruling class]], the mainstream trends in economics represent apologia for [[capitalism]] and a justification of the status quo, either through outright reactionary positions or a kind of technocratic [[reformism]]. 

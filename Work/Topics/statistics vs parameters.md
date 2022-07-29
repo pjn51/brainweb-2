@@ -1,5 +1,5 @@
 # Statistics vs Parameters
-`TAGS`: 
+
 
 ---
 In the field of [[statistics]], a *parameter* describes a characteristic of a population, while a *statistic* describes a characteristic of a sample taken from a population. 

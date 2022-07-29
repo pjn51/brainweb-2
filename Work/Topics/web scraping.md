@@ -1,6 +1,6 @@
 # Web Scraping
 `LINKS:` [[data wrangling]]
-`TAGS:` 
+
 
 ---
 

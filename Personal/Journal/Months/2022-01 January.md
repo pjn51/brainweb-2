@@ -1,6 +1,6 @@
 # 📅 January 2022
 `LINKS:` [[2021-12 December]] // [[2022-02 February]] // [[2022]]
-`TAGS:` #daily 
+#daily 
 
 ---
 # Stats

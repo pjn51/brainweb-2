@@ -1,6 +1,6 @@
 # Art 👨‍🎨
 `LINKS:` [Kelly Belter's Patreon](https://www.patreon.com/kellybelter/posts?sort=published_at)
-`TAGS:` #hub 
+#hub 
 
 ---
 This is the organizing page for all sorts of artistic stuff, which I'm trying to get into.

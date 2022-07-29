@@ -2,7 +2,7 @@
 aliases: 
 ---
 # JQuery
-`TAGS:` 
+
 
 ---
 # Introduction

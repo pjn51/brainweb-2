@@ -3,7 +3,7 @@ aliases: [Democrats, DNC]
 ---
 
 # The Democratic Party 
-`TAGS:` #org 
+#org 
 
 ---
 # Introduction

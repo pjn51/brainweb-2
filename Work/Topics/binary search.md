@@ -1,5 +1,5 @@
 # Binary Search
-`TAGS:` 
+
 
 ---
 ## Introduction

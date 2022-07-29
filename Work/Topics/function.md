@@ -1,5 +1,5 @@
 # Functions (mathematics)
-`TAGS`: 
+
 
 ---
 Not to be confused with [[functions (python)]]. 

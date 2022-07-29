@@ -3,7 +3,7 @@ aliases:
 origin: {{date:YYYY-MM-DD}}
 ---
 # {{title}}
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # The Para Method (2021)
 [source](https://fortelabs.co/blog/para/)
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 > [!Abstract]

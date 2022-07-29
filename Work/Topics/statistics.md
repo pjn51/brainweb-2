@@ -2,7 +2,7 @@
 aliases: [statistical, statistic]
 ---
 # Statistics
-`TAGS:` #hub
+#hub
 
 ---
 The central question of statistics is: [[How can we estimate population characteristics?]] The fundamental issue in statistics is that we are almost always dealing with a sample, but we want to make conclusions about a whole population. How can we make sure that we are taking a representative sample, and what tools can tell us useful things about the population by looking at the sample (see [[sample and population]])? 

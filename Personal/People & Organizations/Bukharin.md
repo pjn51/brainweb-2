@@ -4,7 +4,7 @@ died: 1938
 ---
 
 # Bukharin
-`TAGS:` #people
+#people
 
 ---
 # Introduction

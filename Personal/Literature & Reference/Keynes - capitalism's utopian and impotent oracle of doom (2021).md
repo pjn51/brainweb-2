@@ -5,7 +5,7 @@ genre: political
 ---
 # Keynes - capitalism's utopian and impotent oracle of doom (2021)
 `SOURCE:` [source](https://www.marxist.com/john-maynard-keynes-capitalism-s-impotent-and-utopian-oracle-of-doom.htm)
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 > [!info]

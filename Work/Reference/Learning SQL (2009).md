@@ -4,7 +4,7 @@ genre: STEM
 ---
 # Learning SQL (2009)
 `SOURCE:` PDF
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Quick start]

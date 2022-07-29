@@ -1,7 +1,7 @@
 # 2021-11-22 contact with Tiffany
 `DATE:` [[2021-11-22]]
 `WITH:` Tiffany G. 
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 # ✏️ Notes

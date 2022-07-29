@@ -1,6 +1,6 @@
 # Metis Week 1
 `LINKS:` [[Metis]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 During the first week of the bootcamp, we hit the ground running. We reviewed [[Pandas]], [[NumPy]], and [[GitHub]]. Then, we started work on our first project, an explotartory data analysis of MTA turnstile data.

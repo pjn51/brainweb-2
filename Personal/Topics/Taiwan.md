@@ -2,7 +2,7 @@
 aliases: [Taiwanese]
 ---
 # Taiwan 🇹🇼
-`TAGS:` 
+
 
 ---
 # Introduction

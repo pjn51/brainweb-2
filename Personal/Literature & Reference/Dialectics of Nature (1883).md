@@ -6,7 +6,7 @@ genre: political
 # Dialectics of Nature
 `LINKS:` [[Marxism]] | [[environmental science]] | [[philosophy]] | [Source](https://www.marxists.org/archive/marx/works/1883/don/index.htm)
 `AUTHOR:`  [[Engels]]
-`TAGS:` #book #wip
+#book #wip
 
 ---
 # I. Introduction

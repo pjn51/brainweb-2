@@ -1,5 +1,5 @@
 # Lists
-`TAGS`: 
+
 
 ---
 Lists are among the most common [[data types]], along with strings and integers. We need to be familiar with them and understand how to manipulate them. 

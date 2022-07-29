@@ -1,5 +1,5 @@
 # The United Arab Emirates 🇦🇪
-`TAGS:` 
+
 
 ---
 # Introduction

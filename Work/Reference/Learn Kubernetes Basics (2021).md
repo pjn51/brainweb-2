@@ -6,7 +6,7 @@ format: article
 ---
 # Learn Kubernetes Basics
 `LINKS:` [source](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` N/A
 
 ---

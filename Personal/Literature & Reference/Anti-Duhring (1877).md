@@ -5,7 +5,7 @@ format: book
 ---
 # Anti-Duhring (1877)
 `SOURCE:` 
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]

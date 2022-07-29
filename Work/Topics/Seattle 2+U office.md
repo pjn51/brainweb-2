@@ -6,9 +6,9 @@ aliases:
 ---
 [[Indeed]] has an office in downtown Seattle. Reception hours are 8am - 5pm, but I can get in with a badge 24/7. They provide parking validation as well.
 
-Breakfast is served on floor 37 from 8am - 10:30am. Lunch is served from 11:30am - 1:30pm. There are also food trucks sometimes. ^3-4
+Breakfast is served on floor 37 from 8am - 10:30am. Lunch is served from 11:30am - 1:30pm. There are also food trucks outside sometimes. ^3-4
 
-If I want to work at the office, I have to reserve a desk. Since I'm remote, I can reserve a spot on floor 33 (there are also plenty of places to work without a reservation). ^5
+If I want to work at the office, I have to reserve a desk, but there are plenty of places to work without a reservation, and it's usually pretty relaxed. ^5
 
 Visitors are allowed but must register via the Envoy app. ^2
 

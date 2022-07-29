@@ -3,7 +3,7 @@ born: 1760
 died: 1825
 ---
 # Saint-Simon
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

@@ -3,7 +3,7 @@ born: 1883
 died: 1936
 ---
 # Grigory Zinoviev
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

@@ -1,7 +1,7 @@
 # Lenin criticised Kautsky's definition of imperialism.
 [[Lenin]] said that [[Kautsky]]'s definition of [[imperialism]] was useless ([[Imperialism - The Highest Stage of Capitalism (1916)#VII Imperialism as a special stage of capitalism|1]]). 
 
-[[Kautsky defined imperialism as agrarian expansionism]]. Lenin said that this definition gave one-sided emphasis to the national question, and was too concerned with the political expression of what Lenin considered to be a fundamentally political *and economic* process. 
+[[Kautsky defines imperialism as agrarian expansionism]]. Lenin said that this definition gave one-sided emphasis to the national question, and was too concerned with the political expression of what Lenin considered to be a fundamentally political *and economic* process. 
 
 Furthermore, Lenin says that it is *finance capital,* not *industrial capital,* that acts as the motor force for imperialism. In fact, Lenin continues, it was actually the decline in the power of industrial capital that spurred the development of imperialism in [[France]], for instance. 
 

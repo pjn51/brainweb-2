@@ -5,7 +5,7 @@ genre: political
 ---
 # Socialism: Utopian and Scientific
 `LINKS:` [Source](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)
-`TAGS:`  #book 
+ #book 
 
 ---
 > [!info]

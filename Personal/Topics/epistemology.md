@@ -1,6 +1,6 @@
 ---
 origin: 2022-07-10
-aliases: [epistemic, ]
+aliases: [epistemic, 1]
 ---
 # Epistemology
 ---

@@ -3,7 +3,7 @@ born: 1918
 died: 1989
 ---
 # Nicolae Ceausescu
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction 

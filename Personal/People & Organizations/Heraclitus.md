@@ -3,7 +3,7 @@ born: -538
 died: -475
 ---
 # Heraclitus
-`TAGS`: #people 
+#people 
 `BORN:`
 `DIED:`
 

@@ -4,7 +4,7 @@ genre: political
 ---
 # Critique of the Gotha Program (1875)
 `SOURCE:` [[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]]
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 [[Marx]] explains that labor *is not* the source of *all* wealth - nature is also a source of value. He says that it is only the application of labor to the correct raw material that increases [[use value]] and culture ([[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]], p112). 

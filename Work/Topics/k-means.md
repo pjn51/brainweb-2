@@ -1,5 +1,5 @@
 # K-Means Clustering
-`TAGS:` 
+
 
 ---
 # Introduction

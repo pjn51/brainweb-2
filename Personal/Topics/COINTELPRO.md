@@ -1,5 +1,5 @@
 # COINTELPRO
-`TAGS:` 
+
 
 ---
 COINTELPRO was an FBI program aimed at left-wing organizations. Short for counter-intelligence program, the mission was to surveil, infiltrate, discredit, and disrupt the targeted organizations.

@@ -7,7 +7,7 @@ format: article
 # The Chinese Revolution of 1949
 `LINKS:` [Source](https://www.marxist.com/chinese-revolution-1949-one.htm)
 `AUTHOR:`  [[Alan Woods]]
-`TAGS:` #article
+#article
 
 ---
 *This is an article from In Defense of Marxism, written in 2019.*

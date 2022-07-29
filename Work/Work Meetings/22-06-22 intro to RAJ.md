@@ -3,7 +3,7 @@ on [[22-06-22 Wed]]
 with [[Andrew]]
 
 ---
-In this meeting, Andrew gave a brief overview of how we get [[Report A Job|RAJ]] reports, the infrastructure that supports this process, and what we can do with the [[data]]. 
+In this meeting, Andrew gave a brief overview of how we get [[Report A Job queue|RAJ]] reports, the infrastructure that supports this process, and what we can do with the [[data]]. 
 
 We can get these reports when jobseekers report a job within the listing. We attempt to filter irrelevant or accidental reports upon ingestion. 
 

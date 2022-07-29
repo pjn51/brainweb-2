@@ -1,5 +1,5 @@
 # Canada 🇨🇦
-`TAGS`:  
+ 
 
 ---
 # Introduction

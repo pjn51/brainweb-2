@@ -1,5 +1,5 @@
 # Hinduism 🕉
-`TAGS:` 
+
 
 ---
 # Introduction

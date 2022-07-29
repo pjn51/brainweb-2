@@ -2,7 +2,7 @@
 aliases: [Maoist, Maoists]
 ---
 # Maoism
-`TAGS:` #hub
+#hub
 
 ---
 Maoism is the revolutionary legacy of [[Mao]]'s ideas. There is also something called Mao Zedong Thought, which I don't know anything about. 

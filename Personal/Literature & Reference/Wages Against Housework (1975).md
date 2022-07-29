@@ -5,7 +5,7 @@ genre: political
 ---
 # Wages Against Housework 
 `LINKS:` [Source](https://monoskop.org/images/2/23/Federici_Silvia_Wages_Against_Housework_1975.pdf)
-`TAGS:` #book 
+#book 
 
 ---
 # Review

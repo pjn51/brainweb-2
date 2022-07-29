@@ -1,5 +1,5 @@
 # Coefficient of Determination, R^2
-`TAGS`: #equation  
+#equation  
 
 ---
 $$1-\frac{\sum{\sqrt{(y_p-y_a)^2}}}{n}$$

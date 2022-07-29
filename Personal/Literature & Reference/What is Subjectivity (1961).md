@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # What is Subjectivity (1961)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Introduction]

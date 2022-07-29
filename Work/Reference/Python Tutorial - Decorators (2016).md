@@ -6,7 +6,7 @@ format: video
 ---
 # Python Tutorial - Decorators (2016)
 `SOURCE:` [source](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
-`TAGS:` #wip #video
+#wip #video
 `AUTHOR:`Corey Schafer
 
 ---

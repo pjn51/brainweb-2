@@ -1,5 +1,5 @@
 # Environmental Science 🌎
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

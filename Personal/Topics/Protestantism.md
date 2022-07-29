@@ -2,7 +2,7 @@
 aliases: [Protestant, Protestants]
 ---
 # Protestantism ✝️
-`TAGS:` 
+
 
 ---
 # Introduction

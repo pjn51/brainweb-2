@@ -1,5 +1,5 @@
 # Heterotrophy
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -5,7 +5,7 @@ genre: political
 ---
 # On Contradiction
 `LINKS:` [Source](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm) 
-`TAGS:` #book 
+#book 
 
 ---
 # Review

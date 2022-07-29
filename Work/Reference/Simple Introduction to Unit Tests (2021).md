@@ -5,7 +5,7 @@ format: article
 ---
 # Simple Introduction to Unit Tests (2021)
 `SOURCE:` [source](https://github.com/thisismetis/NBM_Engineering_Student/blob/main/curriculum/unit-testing/simple_introduction_to_unit_tests.ipynb)
-`TAGS:` #wip 
+#wip 
 
 ---
 This is a [[Jupyter Notebook]] provided by [[Metis]] about unit testing.

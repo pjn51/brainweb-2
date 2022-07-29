@@ -1,5 +1,5 @@
 # Tumor Necrosis Factor
-`TAGS`: 
+
 
 ---
 # Introduction

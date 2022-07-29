@@ -1,4 +1,5 @@
 ---
+origin: {{date:YYYY-MM-DD}}
 aliases: [SQMEASURE - ]
 ---
 # {{title}} 

@@ -6,7 +6,7 @@ format: article
 ---
 # IMT US Organizational Resolution (2021)
 `SOURCE:` [source](https://app.box.com/file/845357560607)
-`TAGS:` 
+
 `AUTHOR:` The Central Committee of Socialist Revolution
 
 ---

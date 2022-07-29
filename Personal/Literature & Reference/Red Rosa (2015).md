@@ -4,7 +4,7 @@ author: Kate Evans
 genre: non-fiction
 ---
 # Red Rosa (2015)
-`TAGS:` #book
+#book
 
 ---
 # Review

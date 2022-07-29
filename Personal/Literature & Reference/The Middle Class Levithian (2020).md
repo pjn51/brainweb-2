@@ -5,7 +5,7 @@ genre: political
 ---
 # The Middle Class Levithian: Corona, the "Fascism" Blackmail, and the Defeat of the Working Class
 `SOURCE:` [source](https://www.zora.uzh.ch/id/eprint/193388/1/elena-louisa-lange-and-joshua-pickett-depaolis.pdf)
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 # Summary

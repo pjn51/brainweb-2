@@ -1,5 +1,5 @@
 # Buddhist Ethics
-`TAGS:` 
+
 
 ---
 ## Introduction

@@ -6,7 +6,7 @@ format: article
 ---
 # Level Up - spaCy NLP for the Win (2020)
 `LINKS:` [source](https://opendatascience.com/level-up-spacy-nlp-for-the-win/)
-`TAGS`: #article
+#article
 `AUTHOR:` Kimberly Fessel
 
 ---

@@ -1,5 +1,5 @@
 # Committee for a Workers' International
-`TAGS:` #org  
+#org  
 
 ---
 # Introduction

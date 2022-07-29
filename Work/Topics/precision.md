@@ -1,5 +1,5 @@
 # Precision
-`TAGS:` #equation 
+#equation 
 
 ---
 $$

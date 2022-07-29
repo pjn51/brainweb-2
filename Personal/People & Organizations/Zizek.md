@@ -3,7 +3,7 @@ born: 1949
 died: 
 ---
 # Slavoj Zizek
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

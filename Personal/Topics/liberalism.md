@@ -3,7 +3,7 @@ aliases: [liberal, liberals]
 ---
 # Liberalism
 `LINKS:` 
-`TAGS:` #hub
+#hub
 
 ---
 This will act as my hub for liberalism, the ideology of [[capitalism]]. Classic liberal thinkers include [[Hobbes]], Paine, and Rousseau. 

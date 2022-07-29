@@ -1,5 +1,5 @@
 # Tuples
-`TAGS`: 
+
 
 ---
 # Introduction

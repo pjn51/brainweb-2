@@ -2,7 +2,7 @@
 aliases: [religious]
 ---
 # Religion
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

@@ -5,7 +5,7 @@ genre: political
 ---
 # In Defense of Marxism
 `LINKS:` [source](https://www.marxists.org/archive/trotsky/idom/dm/index.htm)
-`TAGS:` #book 
+#book 
 
 ---
 > [!info]
@@ -282,7 +282,7 @@ In the pursuit of this, Trotsky recommends that the majority offer the minority 
 
 Trotsky calls for a convention so that this matter can be debated openly, and hopefully a split could be avoided over this debate. 
 
-To me, this speaks of the struggle to hold an organization together through political disagreements. It's important for an open and honest debate to be carried out, without either side afraid that if they lose the debate, they will be punished. Factions should faithfully debate their positions, and then make amends after the party reaches a decision on the actions that will be taken on the matter. This is the essence of [[democratic centralism]] and it's the opposite method of debate from the [[petty bourgeoisie|petty bourgeois]] method that I've talked about with JT, particularly demonstrated by Vyom's conduct (making bold, often personal attacks, and then disappearing when he didn't get his way). 
+To me, this speaks of the struggle to hold an organization together through political disagreements. It's important for an open and honest debate to be carried out, without either side afraid that if they lose the debate, they will be punished. Factions should faithfully debate their positions, and then make amends after the party reaches a decision on the actions that will be taken on the matter. This is the essence of [[democratic centralism]] and it's the opposite method of debate from the [[petty bourgeoisie|petty bourgeois]] method that I've talked about with [[JT]], particularly demonstrated by Vyom's conduct (making bold, often personal attacks, and then disappearing when he didn't get his way). 
 
 # A letter to Max Shachtman (November 1939)
 Trotsky writes to MS, replying to a speech that the latter had made. First of all, Trotsky questions MS' claim that the Marxists "saw and foresaw" the degeneration of the [[Comintern]] far in advance. To the contrary, he says that there was a possibility of the regeneration of the Comintern, and only the events in [[Germany]] between 1929-33 confirmed the damnation of that organization.

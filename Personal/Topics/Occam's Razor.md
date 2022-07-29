@@ -1,6 +1,6 @@
 # Occam's Razor 🪒
 `LINKS`: [[philosophy]]
-`TAGS`: 
+
 
 ---
 # Introduction

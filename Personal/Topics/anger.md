@@ -1,5 +1,5 @@
 # Anger
-`TAGS:` 
+
 
 ---
 ## Introduction

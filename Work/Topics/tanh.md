@@ -1,5 +1,5 @@
 # The Hyperbolic Tangent Function
-`TAGS`: #equation 
+#equation 
 
 ---
 In [[trigonometry]], *tanh* represents the hyperbolic tangent of an angle x. It is defined as the ratio of the hyperbolic sine and the hyperbolic cosine.

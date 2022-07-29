@@ -1,5 +1,5 @@
 # Distributed File Systems
-`TAGS:`  
+ 
 
 ---
 ## Introduction [^1]

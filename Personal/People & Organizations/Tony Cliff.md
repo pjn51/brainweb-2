@@ -3,7 +3,7 @@ born: 1917
 died: 2000
 ---
 # Tony Cliff
-`TAGS:` #people 
+#people 
 
 ---
 Tony Cliff was a British [[Trotskyism|Trotskyist]] activist and a founding member of the [[SWP (UK)]]. 

@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # The Mandelbrot Set - Numberphile (2014)
 `SOURCE:` [source](https://www.youtube.com/watch?v=NGMRB4O922I)
-`TAGS:`  #video 
+ #video 
 
 ---
 We can generate the [[Mandelbrot set]] on the *complex plane.* The complex plane is the plane of *complex numbers* ([[Complex numbers are combinations of real and imaginary numbers]]). 

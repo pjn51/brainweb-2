@@ -1,5 +1,5 @@
 # Primitive Communism
-`TAGS:` 
+
 `LINKS:` [[stages of historical development]]
 
 ---

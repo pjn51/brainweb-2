@@ -1,5 +1,5 @@
 # COVID-19 🦠
-`TAGS:` 
+
 
 ---
 # Introduction

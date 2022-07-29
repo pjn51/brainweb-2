@@ -5,7 +5,7 @@ genre: political
 format: article
 ---
 # Is Housework An Unpaid Job? False Theoretical Premise Leads to Reactionary Position in Practice
-`TAGS:` 
+
 
 ---
 *This is an article put out by the Spanish section of the IMT, in response to [[Wages Against Housework (1975)]]*

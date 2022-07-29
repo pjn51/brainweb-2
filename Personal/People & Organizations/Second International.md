@@ -1,5 +1,5 @@
 # The Second International
-`TAGS:` #org 
+#org 
 
 ---
 The Second International was an international group of socialist political parties, with the center of gravity being in [[Germany]] with the [[SPD]] ([[reformism|Social Democratic]] Party of Germany). 

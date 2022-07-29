@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # How Does the Internet Work? (2002)
 `SOURCE:` http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 1. Introduction

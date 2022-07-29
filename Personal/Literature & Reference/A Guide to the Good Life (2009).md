@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # A Guide to the Good Life
 `AUTHOR:` William Irvine
-`TAGS`: #book
+#book
 
 ---
 # Review 

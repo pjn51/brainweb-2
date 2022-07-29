@@ -1,5 +1,5 @@
 # Afghanistan 🇦🇫
-`TAGS`: 
+
 
 ---
 # Introduction

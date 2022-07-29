@@ -1,5 +1,5 @@
 # Recipes 🥡
-`TAGS`: #hub 
+#hub 
 
 ---
 # Introduction

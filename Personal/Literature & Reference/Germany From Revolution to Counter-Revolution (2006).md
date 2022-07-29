@@ -5,7 +5,7 @@ genre: political
 ---
 # Germany: From Revolution to Counter-Revolution
 `LINKS:`  [Source](https://www.marxist.com/germany-counter-revolution-rise-fascism.htm)
-`TAGS:` #book  
+#book  
 
 ---
 # Review

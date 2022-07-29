@@ -6,7 +6,7 @@ format: video
 ---
 # Convolutional Neural Networks (CNNs) Explained - Deeplizard
 `LINKS`: [video](https://youtu.be/YRhxdVk_sIs)
-`TAGS`: #video
+#video
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YRhxdVk_sIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ format: article
 ---
 # Problems of Entrism
 `LINKS`: [[Trotskyism]] | [Source](https://www.marxists.org/archive/grant/1959/03/entrism.htm)
-`TAGS`: #tactic 
+#tactic 
 `AUTHOR:` [[Ted Grant]]
 
 ---

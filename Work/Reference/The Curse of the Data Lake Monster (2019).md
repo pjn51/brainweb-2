@@ -6,7 +6,7 @@ format: article
 ---
 # The Curse of the Data Lake Monster
 `LINKS:` [source](https://www.thoughtworks.com/insights/blog/curse-data-lake-monster)
-`TAGS`: #article
+#article
 `AUTHOR:` Kiran Prakesh and Lucy Chambers
 
 ---

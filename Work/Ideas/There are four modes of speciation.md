@@ -1,4 +1,5 @@
-*There are four modes of speciation.* In general, [[Isolation causes differentiation]], which eventually results in speciation. This can happen for one of four reasons.
+# There are four modes of speciation.
+In general, [[Isolation causes differentiation]], which eventually results in speciation. This can happen for one of four reasons.
 
 In *allopatric speciation,* a barrier of some kind forms within the geographic range of the species, such as a mountain range or new river. Then, the two segments of the species begin to reproduce and thus evolve in isolation from one another, causing more and more differences to accumulate until [[Quantity transforms into quality]] and they can be classified as separate species. These differences can accumulate as a combination of different selective pressures and genetic drift. 
 

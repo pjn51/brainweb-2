@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Mandelbrot set
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # The Wisdom of the Enneagram (1999)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Preface

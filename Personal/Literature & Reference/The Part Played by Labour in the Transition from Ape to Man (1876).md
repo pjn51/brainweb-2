@@ -5,7 +5,7 @@ genre: political
 ---
 # The Part Played by Labour in the Transition from Ape to Man (1876)
 `SOURCE:` 
-`TAGS:` #wip 
+#wip 
 
 ---
 > [!Abstract]

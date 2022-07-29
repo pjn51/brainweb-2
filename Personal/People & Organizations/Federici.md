@@ -3,7 +3,7 @@ born: 1942
 died: 
 ---
 # Silvia Federici
-`TAGS:` #people 
+#people 
 `LINKS:` [[feminism]]
 
 ---

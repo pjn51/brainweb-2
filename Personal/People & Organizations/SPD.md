@@ -1,5 +1,5 @@
 # The Social Democratic Party of Germany 🚩
-`TAGS:` #org 
+#org 
 
 ---
 # Introduction

@@ -4,7 +4,7 @@ genre: STEM
 ---
 # The evolution of Python for data science (2022)
 `SOURCE:` [audio](https://vanishinggradients.fireside.fm/7) // [transcript](https://assets.fireside.fm/file/fireside-images/podcasts/transcripts/1/140c3904-8258-4c39-a698-a112b7077bd7/episodes/d/da4fab18-c5fa-460d-9ddf-0c8f1e60f3f8/transcript.txt)
-`TAGS:` #wip #podcast
+#wip #podcast
 
 ---
 >[!Info]

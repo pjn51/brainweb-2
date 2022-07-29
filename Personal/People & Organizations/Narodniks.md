@@ -1,5 +1,5 @@
 # The Narodniks
-`TAGS:` #org 
+#org 
 
 ---
 a.k.a. Narodnaya Volya, they were a group in Tsarist [[Russia]], mainly following the ideas of [[Anarchism]].  See [[Bolshevism - Road to Revolution (1999)]] for an analysis of their ideas and role in the movement. 

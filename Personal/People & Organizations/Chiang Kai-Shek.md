@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Chiang Kai-Shek
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

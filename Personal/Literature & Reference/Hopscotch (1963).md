@@ -4,7 +4,7 @@ author: Julio Cortazar
 genre: fiction
 ---
 # Hopscotch (1963)
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 # Review

@@ -4,7 +4,7 @@ author: Eric Foner
 genre: non-fiction
 ---
 # Reconstruction (1988)
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Summary

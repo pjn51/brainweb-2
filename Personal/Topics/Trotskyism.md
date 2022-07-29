@@ -2,7 +2,7 @@
 aliases: [Trotskyist, Trotskyists]
 ---
 # Trotskyism
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

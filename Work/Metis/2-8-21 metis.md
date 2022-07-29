@@ -1,5 +1,5 @@
 # Metis Notes for Monday, Feb 8th
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 We're starting the beginning of [[metis week 6]] with a pair session, followed by a lecture on GLM, and a review of the classification test we took last week. 

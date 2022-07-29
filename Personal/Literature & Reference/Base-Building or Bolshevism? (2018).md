@@ -7,7 +7,7 @@ format: article
 # Base-Building or Bolshevism?
 `LINKS:` [Source](https://socialistrevolution.org/base-building-or-bolshevism/)
 `AUTHOR:` Antonio Balmer
-`TAGS:` #article 
+#article 
 
 ---
 > [!info]

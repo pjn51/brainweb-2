@@ -31,4 +31,3 @@ Bivariate data is data from two variables, with each value from each variable is
 
 ---
 `LINKS:` [[statistics]] 
-`TAGS:` 

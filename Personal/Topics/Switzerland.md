@@ -1,5 +1,5 @@
 # Switzerland 🇨🇭
-`TAGS`: 
+
 
 ---
 # Introduction

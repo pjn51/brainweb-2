@@ -3,7 +3,7 @@ author: Sonke Ahrens
 genre: non-fiction
 ---
 # How To Take Smart Notes (2017)
-`TAGS:` #book
+#book
 
 ---
 This is a famous book on [[PKM]]. 

@@ -1,6 +1,6 @@
 # MongoDB
 `LINKS`: [[noSQL]] | [docs](https://docs.mongodb.com/manual/introduction/)
-`TAGS`: 
+
 
 ---
 A record in MongoDB is called a *document.* It is a data structure composed of key value pairs. 

@@ -1,6 +1,6 @@
 # Bitcoin
 `LINKS:` [3Blue1Brown video](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-`TAGS:` 
+
 
 ---
 Bitcoin is an online [[currency]] with extremely high volaitility. 

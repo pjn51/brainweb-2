@@ -5,7 +5,7 @@ genre: tech
 ---
 # W3 JavaScript Tutorial (2021)
 `SOURCE:` [source](https://www.w3schools.com/js/default.asp)
-`TAGS:` #wip #article 
+#wip #article 
 `AUTHOR:` W3 Schools
 
 ---

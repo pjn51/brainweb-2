@@ -1,5 +1,5 @@
 # Diet
-`TAGS:` 
+
 
 ---
 # Introduction

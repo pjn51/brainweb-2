@@ -1,6 +1,6 @@
 # Metis Week 8
 `LINKS:` [[Metis]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 This was the first full week after I got back from the hospital, and I was still getting back in the groove of learning. 

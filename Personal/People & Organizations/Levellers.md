@@ -1,5 +1,5 @@
 # The Levellers
-`TAGS:`  #org 
+ #org 
 
 ---
 The Levellers were a political group during the [[UK|English revolution]].

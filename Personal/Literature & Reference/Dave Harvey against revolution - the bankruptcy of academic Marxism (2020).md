@@ -6,7 +6,7 @@ format: article
 ---
 # Dave Harvey Against Revolution - the Bankruptcy of Academic Marxism
 `LINKS`: [source](https://www.marxist.com/david-harvey-against-revolution-the-bankruptcy-of-academic-marxism.htm)
-`TAGS`: #article 
+#article 
 `AUTHOR:` Jorge Martin
 
 ---

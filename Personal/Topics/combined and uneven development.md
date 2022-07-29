@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Combined and Uneven Development
-`TAGS:` 
+
 
 ---
 # Introduction

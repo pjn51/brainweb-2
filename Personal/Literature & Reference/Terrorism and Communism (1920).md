@@ -4,7 +4,7 @@ author: Leon Trotsky
 genre: political
 ---
 # Terrorism and Communism (1920)
-`TAGS:`  #book 
+ #book 
 
 ---
 # Summary
@@ -28,7 +28,6 @@ The introduction is written by [[Zizek]].
 - [[Kautsky was a vaccilator]]
 - [[The state cannot be done away with overnight]]
 - [[Soviet workers were not slaves]]
-- 
 
 ---
 # On the "dictatorship" of the party

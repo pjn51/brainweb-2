@@ -1,5 +1,5 @@
 # 2021 IMT World Congress
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 <center>

@@ -1,5 +1,5 @@
 # The Revolutionary Armed Forces of Colombia
-`TAGS`: #org 
+#org 
 
 ---
 # Introduction

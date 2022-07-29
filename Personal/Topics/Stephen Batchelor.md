@@ -3,7 +3,7 @@ born: 1953
 died: 
 ---
 # Stephen Batchelor
-`TAGS:` #people 
+#people 
 
 ---
 

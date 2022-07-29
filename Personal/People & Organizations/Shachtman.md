@@ -3,7 +3,7 @@ born: 1904
 died: 1972
 ---
 # Max Shachtman
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

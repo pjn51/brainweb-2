@@ -1,5 +1,5 @@
 # Gross National Income
-`TAGS:` 
+
 
 ---
 # Introduction

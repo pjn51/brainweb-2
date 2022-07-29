@@ -1,5 +1,5 @@
 # Cadre
-`TAGS`: #tactic 
+#tactic 
 
 ---
 # Introduction

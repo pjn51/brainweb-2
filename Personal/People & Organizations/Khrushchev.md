@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Khrushchev
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

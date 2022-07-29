@@ -1,5 +1,5 @@
 # [[IMT]] Reading Group, 3-31-21
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 We're discussing [[Theses on Feuerbach (1845)]] and [[Marx's Revolution in Philosophy (2013)]]. 

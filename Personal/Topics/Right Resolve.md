@@ -1,5 +1,5 @@
 # Right Resolve
-`TAGS:` 
+
 
 ---
 ## Introduction 

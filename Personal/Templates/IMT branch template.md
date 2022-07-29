@@ -7,7 +7,7 @@ with: SEA branch comrades
 # Branch, 
 `LINKS:` [[IMT]]
 `DATE:` 
-`TAGS`: #meeting/political 
+#meeting/political 
 
 ---
 # 📰 News updates

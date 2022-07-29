@@ -1,5 +1,5 @@
 # Feminism ♀
-`TAGS:` #hub 
+#hub 
 
 ---
 Feminism is the ideology underpinning the womens' liberation movement. It has both bourgeois and more radical strains, and is often categorized into multiple periods of thought that have culminated in four "waves" throughout history. 

@@ -1,5 +1,5 @@
 # Google Colab
-`TAGS:`  
+ 
 
 ---
 ## Introduction

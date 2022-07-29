@@ -1,6 +1,6 @@
 # Informational Interview with Chris Robinson
 `LINKS:` [[career]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Chris Robinson is a Senior Remote Sensing Analyst at NOAA's Office for Coastal Management in South Carolina. 

@@ -1,5 +1,5 @@
 # The Democratic Socialists of America 🌹
-`TAGS:` #org 
+#org 
 
 ---
 The Democratic Socialists of America is a loose organization of leftists in the US. There is a wide spectrum of ideology within the DSA, ranging from [[reformism|reformists]] and social democrats, to democratic socialists, to [[Marxism|Marxists]]. 

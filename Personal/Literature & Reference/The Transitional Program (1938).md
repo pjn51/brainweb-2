@@ -6,7 +6,7 @@ format: article
 ---
 # The Transitional Program
 `LINKS:` [Source](https://www.marxists.org/archive/trotsky/1938/tp/)
-`TAGS:` #tactic 
+#tactic 
 
 ---
 > [!info]

@@ -1,5 +1,5 @@
 # Stash Gender Classifier
-`TAGS:` 
+
 
 ---
 # Introduction

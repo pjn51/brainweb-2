@@ -2,7 +2,7 @@
 aliases: [Communist Party of China]
 ---
 # The Communist Party of China 🚩
-`TAGS:` #org
+#org
 
 ---
 The CPC is the leading group in the [[China|Chinese]] [[state|state]], and led [[China's 1949 revolution]]. To classify them as simply Maoist or Stalinist is an oversimplification, since the party developed and mutated ideologically over its long history. 

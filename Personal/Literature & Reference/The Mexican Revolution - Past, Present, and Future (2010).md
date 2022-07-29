@@ -6,7 +6,7 @@ format: article
 ---
 # The Mexican Revolution - Past, Present, and Future (2010)
 `LINKS`: [source](https://www.marxist.com/mexican-revolution-past-present-future.htm)
-`TAGS`:  
+ 
 `AUTHOR:` [[Alan Woods]]
 
 ---

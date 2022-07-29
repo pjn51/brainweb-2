@@ -1,6 +1,6 @@
 # Informational Interview with Nathan Walker, 4-26-21
 `LINKS`: [[career]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 WebGIS felow at the forest serice. Spatial analysis and maps. 

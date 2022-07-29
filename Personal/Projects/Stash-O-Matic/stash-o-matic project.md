@@ -1,5 +1,5 @@
 # Stash-O-Matic
-`TAGS:` #hub #stash
+#hub #stash
 
 ---
 ## Introduction

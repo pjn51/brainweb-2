@@ -1,5 +1,5 @@
 # Cardio 🚴‍♂️
-`TAGS`: 
+
 
 ---
 # Introduction

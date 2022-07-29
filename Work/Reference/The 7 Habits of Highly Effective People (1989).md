@@ -4,7 +4,7 @@ author: Stephen Covey
 genre: non-fiction
 ---
 # The 7 Habits of Highly Effective People (1989)
-`TAGS:` #wip #book 
+#wip #book 
 `AUTHOR:` Stephen R. Covey
 
 ---

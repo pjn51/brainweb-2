@@ -3,7 +3,7 @@ born: 1881
 died: 1970
 ---
 # Kerensky
-`TAGS`: #people 
+#people 
 
 ---
 # Introduction

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e235ef70a2282970",
+        "id": "e8b42afc06792599",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/IMT meetings/2022-07-15 Hayden 1o1.md",
+            "file": "Personal/Literature & Reference/The Struggle for a Proletarian Party (1943).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "998bde0ebfa39074",
+        "id": "ffac011ed477d1f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Literature & Reference/The History of Philosophy (2021).md",
+            "file": "Personal/Journal/Days/2022-07-28.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Literature & Reference/The History of Philosophy (2021).md",
+                "file": "Personal/Journal/Days/2022-07-28.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Literature & Reference/The History of Philosophy (2021).md",
+                "file": "Personal/Journal/Days/2022-07-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Literature & Reference/The History of Philosophy (2021).md"
+                "file": "Personal/Journal/Days/2022-07-28.md"
               }
             }
           }
@@ -151,33 +151,26 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
-          {
-            "id": "370db2983ca07857",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 305.5,
     "collapsed": true
   },
-  "active": "998bde0ebfa39074",
+  "active": "ffac011ed477d1f1",
   "lastOpenFiles": [
-    "Personal/IMT meetings/2022-07-15 Hayden 1o1.md",
-    "Personal/Literature & Reference/The History of Philosophy (2021).md",
-    "Pythagoras.md",
-    "Personal/Templates/1o1 template.md",
-    "Untitled.md",
-    "Hayden.md",
-    "Personal/Templates/meeting template.md",
-    "Personal/Journal/Days/2022-07-15.md",
-    "Personal/Journal/Days/2022-07-14.md",
-    "Personal/Journal/Days/2022-07-13.md"
+    "Personal/Journal/Days/2022-07-27.md",
+    "Revolutionaries come from all classes.md",
+    "Personal/Literature & Reference/The Struggle for a Proletarian Party (1943).md",
+    "Personal/Topics/democratic centralism.md",
+    "Personal/Ideas/Global supply chains are fragile.md",
+    "Personal/Questions/What's the Marxist analysis of credit?.md",
+    "Personal/Ideas/Credit severs money supply from the real economy.md",
+    "Personal/Topics/credit.md",
+    "Credit destabilizes the global economy.md",
+    "Personal/Ideas/Global debt has surpassed GDP.md"
   ]
 }

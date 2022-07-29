@@ -2,7 +2,7 @@
 aliases: [residual]
 ---
 # Residuals
-`TAGS:` 
+
 
 ---
 # Introduction

@@ -6,7 +6,7 @@ format: article
 ---
 # Data Science is Different Now
 `LINKS:` [source](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
-`TAGS:` #article 
+#article 
 `AUTHOR:` Vicki Boykis
 
 ---

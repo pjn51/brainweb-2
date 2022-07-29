@@ -4,7 +4,7 @@ genre: STEM
 ---
 # MongoDB - The Definitive Guide (2020)
 `SOURCE:` https://learning-oreilly-com.ezproxy.spl.org/library/view/mongodb-the-definitive/9781491954454/preface01.html#sect2_d1e227
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 1. Introduction to MongoDB

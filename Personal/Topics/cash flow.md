@@ -1,5 +1,5 @@
 # Cash Flow
-`TAGS:` 
+
 
 ---
 ## Introduction

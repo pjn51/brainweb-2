@@ -1,35 +1,24 @@
 ---
-aliases: [imperialist, imperialists]
+aliases: [imperialist, imperialists, imperial]
 ---
 # Imperialism 🌐
 ---
-- [[Imperialism renders the cooperative model uncompetitive]]
-- [[Kautsky defined imperialism as agrarian expansionism]]
-- [[First-world workers don't benefit from imperialism]]
-- [[Lenin explained that imperialism strengthens opportunism]]
+## Fundamental theories
+[[Lenin defined imperialism around financial domination]], which now constitutes the basic [[Marxism|Marxist]] definition of imperialism. However, there were other competing definitions. [[Kautsky defines imperialism as agrarian expansionism]] instead. [[Lenin criticised Kautsky's definition of imperialism]]. 
 
-Imperialism is the phenomenon of the export of [[capital]] from one country to another, as well as the political dynamic that develops as a result. [[Marxism|Marxists]] argue that [[Imperialism is an inevitable stage of capitalism]] motivated by the fact that [[Capitalism requires expansion]]. 
+[[Marxism|Marxists]] argue that [[Imperialism is an inevitable stage of capitalism]] motivated by the fact that [[Capitalism requires expansion]]. 
 
-For an in-depth treatment, see [[Imperialism - The Highest Stage of Capitalism (1916)]]. [[Lenin gave five basic features of imperialism]] and [[Lenin called imperialism parasitic]]. 
+I think Lenin's theory has been further validated by the fact that [[An increasing proportion of goods and services travel internationally]], and [[Supply chains are becoming more complex]], as well as how [[Colonial extraction continues today]].
 
-[[Kautsky defined imperialism as agrarian expansionism]], but [[Lenin criticised Kautsky's definition of imperialism]]. 
+## In relation to war
+[[Imperialism drives warfare]]. 
 
 [[Kautsky proposed the theory of ultra-imperialism]]. [[Lenin attacked the theory of ultra-imperialism]], but in my opinion, [[Lenin's critique of ultra-imperialism has flaws]]. 
 
-[[Lenin]] said that the international situation of imperialism meant that world war was inevitable since the national bourgeoisie needed more and more places to export capital, but the world was already divided up into colonies. 
+## Postwar imperialism
+Despite the fact that [[The formal colonial system declined after WW2]], [[Postwar "decolonization" was a mirage]] and [[Colonial extraction continues today]].
 
-[[An increasing proportion of goods and services travel internationally]], and [[Supply chains are becoming more complex]]. 
-
-# Postwar imperialism
-There's an apparent flaw in this theory when we look at the world today. After [[WW2]], most of the colonies of the world were "freed" from colonial rule. How can this be if Lenin is correct that capitalism requires colonialism?
-
-To understand the change in the political basis of imperialism, we should understand that the international situation has changed since Lenin wrote his pamphlet in 1916. After WW2, the dominance of the [[USA]] was assured. As a condition of joining the war and saving the [[UK]], the US mandated that the former empire hand over naval dominance to the US and surrender multiple colonial holdings. 
-
-However, US imperialism did not need to assume the same political forms of the earlier period. There was no longer a need for direct, overt political domination. 
-
-There are multiple possible reasons that this overt control was no longer used. Perhaps the national bourgeoisie of the colonized countries had developed enough to take power into their own hands, while they were still tied to the imperialists for capital. Perhaps since the US faced no imperial rivals, exclusionary dominance wasn't needed. 
-
-If the latter is a driving cause, then we would expect to see imperialism become more and more visible due to the declining ability of the American bourgeoisie to manage the world, and the rising influence of the Chinese bourgeoisie. We are beginning to see such a trend, with the US media obsessed with Chinese influence in Southeast Asia and East Africa. 
+Instead, local officials manage imperialism in their respective countries. The advanced capitalist countries are not able to compete for these markets, since [[A unipolar world emerged after WW2]]. Due to the fact that [[American empire is in decline]], we would expect to see imperialism become more and more visible. We are beginning to see such a trend, with the US media obsessed with Chinese influence in Southeast Asia and East Africa. 
 
 # The Marxist attitude towards imperialism
 Obviously, Marxists need to stand against imperialist domination, and with the oppressed masses of the world, whose lives are made worse by imperialism. However, some organizations, such as the [[PSL]] end up focusing too much on the current form of imperialism, rather than its content. [[Never confuse content and form]]. 

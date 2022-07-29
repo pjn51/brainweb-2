@@ -2,8 +2,6 @@
 aliases: [fascist, fascists]
 ---
 # Fascism
-`TAGS:`
-
 ---
 [[What is fascism?]]
 

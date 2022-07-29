@@ -1,5 +1,5 @@
 # Standard Deviation
-`TAGS:` #equation 
+#equation 
 
 ---
 $$ S = \sqrt{\frac{\sum{x_i - \bar{x}}^2}{n-1}} $$

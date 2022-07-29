@@ -1,5 +1,5 @@
 # Atos
-`TAGS:` 
+
 
 ---
 # Introduction

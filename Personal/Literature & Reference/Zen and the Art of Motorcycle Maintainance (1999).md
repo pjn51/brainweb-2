@@ -3,7 +3,7 @@ author: Robert Pirsig
 genre: fiction
 ---
 # Zen and the Art of Motorcycle Maintainance (1999)
-`TAGS:` #book  
+#book  
 
 ---
 # Ideas

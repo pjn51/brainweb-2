@@ -5,7 +5,7 @@ genre: political
 ---
 # Settlers: The Mythology of the White Proletariat
 `LINKS:`[source](https://readsettlers.org/settlers.pdf)
-`TAGS:` #wip #book 
+#wip #book 
 `AUTHOR:` J. Sakai
 
 ---

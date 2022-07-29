@@ -5,7 +5,7 @@ died: 1960
 
 # Albert Camus
 `LINKS:` [SEP](https://plato.stanford.edu/entries/camus/) | [[Existentialism]]
-`TAGS:` #people 
+#people 
 
 ---
 Albert Camus is one of the most famous philisophers of the 20th century, and his relationship with [[Sartre]] became representative of the divide between the pro-Communist and anti-Communist left in Europe. 

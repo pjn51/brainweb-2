@@ -1,7 +1,7 @@
 # Meeting with Jen Raimone
 `DATE:` Thursday, August 19, 2021
 `WITH:` Jen Raimone
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 # Topics to discuss

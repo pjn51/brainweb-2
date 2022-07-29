@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Debt-to-Income Ratio
-`TAGS:` 
+
 
 ---
 # Introduction

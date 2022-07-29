@@ -1,6 +1,6 @@
 # Eigenvalues and Eigenvectors
 `LINKS`: [[linear algebra]]
-`TAGS`: 
+
 
 ---
 ## Introduction

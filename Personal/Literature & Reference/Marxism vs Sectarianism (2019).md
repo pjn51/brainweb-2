@@ -4,7 +4,7 @@ genre: political
 ---
 # Marxism vs Sectarianism (2019)
 `SOURCE:` PDF, Kindle
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 The article begins by explaining that [[opportunism]] and [[sectarianism]] are two sides of the same coin, and it's only natural that in an epoch of [[reformism]], some would turn to [[ultraleftism|ultraleft]] [[sectarianism]] as a misguided attempt to course correct (PDF, p.1). 
@@ -21,7 +21,7 @@ The article describes opportunism and sectarianism as fundamentally [[petty bour
 The authors quote Trotsky, who says that we must absorb the Marxist mode of analysis if we are to withstand the dominant tide of rigid, mechanical thinking that bourgeois society produces (Kindle, loc 50). 
 
 # "Freedom of criticism"
-The authors argue that the hallmark of [[Bolsheviks|Bolshevism]] is an "unwavering, principled class independence on all political questions, combined with infinite tactical flexibility," and explain that this is backed by an organizational method of [[democratic centralism]]. They outline how [[Democratic centralism allows for freedom of debate, unity of action]] (PDF, p.3). This is restating the idea that [[Bolshevism requires firmness on content, flexibility on form]]. 
+The authors argue that the hallmark of [[Bolsheviks|Bolshevism]] is an "unwavering, principled class independence on all political questions, combined with infinite tactical flexibility," and explain that this is backed by an organizational method of [[democratic centralism]]. They outline how [[Freedom of debate enables unity of action]] (PDF, p.3). This is restating the idea that [[Bolshevism requires firmness on content, flexibility on form]]. 
 
 Discussing the sectarian organizational method, the article says that sectarians feel the need to "go into writing" on any and all questions, and the discussion should continue as long as they wish. The authors draw parallels with [[Lenin|Lenin's]] critique of the revisionist "freedom of criticism" defense in [[What is to be Done (1902)]] (Ibid, p.3). This also reminds me of how [[The petty bourgeoisie prefers endless debate]]. 
 

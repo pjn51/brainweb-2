@@ -9,6 +9,8 @@ Here is an example of a basic document:
 			   '1': 'Tuesday'}}
 ```
 
+Note that these documents are very similar to [[JSON]] in structure.
+
 [[MongoDB organizes documents into collections]]. 
 
 ---

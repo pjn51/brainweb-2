@@ -1,6 +1,6 @@
 # 2021-1-5 correspondence w Dr. Zisman's office 
 `LINKS:` [[health meetings]]
-`TAGS:` #meeting/health
+#meeting/health
 
 ---
 # Notes

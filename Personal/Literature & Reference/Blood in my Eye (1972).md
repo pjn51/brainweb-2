@@ -6,7 +6,7 @@ genre: political
 # Blood In My Eye
 `LINKS:`  [Source](https://redyouthnwa.files.wordpress.com/2018/05/george_l-_jackson_blood_in_my_eyebook4you-org.pdf)
 `AUTHOR:`  George Jackson
-`TAGS:` #wip #book
+#wip #book
 
 ---
 # Introduction

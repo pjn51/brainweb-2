@@ -1,5 +1,5 @@
 # MongoDB Aggregation Pipeline
-`TAGS`: 
+
 
 ---
 # Introduction

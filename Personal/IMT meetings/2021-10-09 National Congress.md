@@ -1,7 +1,7 @@
 # 2021 National Congress, Day One
 `DATE:` [[2021-10-09]]
 `WITH:` [[IMT]]
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 # World perspectives video

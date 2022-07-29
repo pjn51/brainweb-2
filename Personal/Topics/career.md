@@ -1,6 +1,6 @@
 # Career
 `LINKS:` [[data science]]
-`TAGS:` #hub
+#hub
 
 ---
 This will be the organizing page for my job search, and (hopefully) job or career-related notes. As of right now, I hope that this career will be in the field of [[data science]]. 

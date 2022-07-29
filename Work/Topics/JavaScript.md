@@ -1,5 +1,5 @@
 # JavaScript
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

@@ -5,7 +5,7 @@ genre: political
 ---
 # Trotskyism - Counter-Revolution in Disguise
 `LINKS:` [source](https://www.marxists.org/archive/olgin/1935/trotskyism/index.htm)
-`TAGS`: #book #wip 
+#book #wip 
 `AUTHOR:` Moissaye J. Olgin
 
 ---

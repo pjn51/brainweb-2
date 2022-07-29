@@ -4,7 +4,7 @@ genre: political
 ---
 # Anti-Oedipus (1972)
 `SOURCE:` PDF
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Context]

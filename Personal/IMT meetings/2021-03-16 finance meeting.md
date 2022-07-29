@@ -1,5 +1,5 @@
 # [[IMT]] Finance Meeting, 3-16-21
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 ## National Center Payment Links

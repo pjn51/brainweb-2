@@ -1,5 +1,5 @@
 # Belarus 🇧🇾
-`TAGS:` 
+
 
 ---
 ## Introduction

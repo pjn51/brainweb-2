@@ -6,7 +6,7 @@ genre: political
 
 # Wage Labor and Capital
 `LINKS:` [source](https://www.marxists.org/archive/marx/works/1847/wage-labour/)
-`TAGS:`  #book
+ #book
 `AUTHOR:` [[Marx]] & [[Engels]]
 
 ---

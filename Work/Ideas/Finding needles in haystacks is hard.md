@@ -1,4 +1,5 @@
-*Finding needles in haystacks is hard.* For example, let's look at a super powerful terrorist-finding algorithm and see how well it really works. To do this, we need to use [[Bayes theorem]]:
+# Finding needles in haystacks is hard.
+For example, let's look at a super powerful terrorist-finding algorithm and see how well it really works. To do this, we need to use [[Bayes theorem]]:
 
 $$
 P(T|S)=\frac{P(S|T)* P(T)}{P(S)}
@@ -37,10 +38,5 @@ This means that given an algorithm that selects 99% of the terrorists, and only 
 
 Our inability to grasp this is called the base rate fallacy ([[Beware the base rate fallacy]]). 
 
-#idea/math/probability 
-
 ---
-```dataview
-LIST
-FROM [[Finding needles in haystacks is hard]] AND -outgoing([[Finding needles in haystacks is hard]])
-```
+#idea/math/probability 

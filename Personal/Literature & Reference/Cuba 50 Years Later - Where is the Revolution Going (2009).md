@@ -6,7 +6,7 @@ format: article
 ---
 # Cuba 50 Years Later - Where is the Revolution Going?
 `LINKS:` [[Trotskyism]] | [Source](https://www.marxist.com/cuba-50-years-later.htm)
-`TAGS:` 
+
 `AUTHOR:` Jorge Martin
 
 ---

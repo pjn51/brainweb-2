@@ -5,7 +5,7 @@ genre: political
 ---
 # Marxism and the USA
 `LINKS:` [Source](https://www.marxist.com/book-marxism-and-the-usa.htm)
-`TAGS:` #book #wip 
+#book #wip 
 `AUTHOR:`  [[Alan Woods]]
 
 ---

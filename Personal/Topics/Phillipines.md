@@ -2,7 +2,7 @@
 aliases: [Filipino]
 ---
 # Phillipines 🇵🇭
-`TAGS:` 
+
 
 ---
 # Introduction

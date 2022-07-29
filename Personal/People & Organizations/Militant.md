@@ -1,6 +1,6 @@
 # The Militant 🚩
 `LINKS:` [wiki](https://en.wikipedia.org/wiki/Militant_tendency)
-`TAGS:` #org  
+#org  
 
 ---
 The Militant was a [[Trotskyism|Trotskyist]] organization in the [[UK]]. For a summary of the rise and fall of the Militant, see [[How the Militant was Built - and How it was Destroyed (2005)]]. 

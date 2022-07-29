@@ -1,5 +1,5 @@
 # Hyperparameters
-`TAGS:` 
+
 
 ---
 # Introduction

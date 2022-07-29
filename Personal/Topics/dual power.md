@@ -1,5 +1,5 @@
 # Dual Power
-`TAGS`: 
+
 
 ---
 # Introduction

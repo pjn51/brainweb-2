@@ -1,6 +1,6 @@
 # Trigonometry
 `LINKS`: 
-`TAGS`: #hub 
+#hub 
 
 ---
 Trigonometry is the mathematical study of triangles. 

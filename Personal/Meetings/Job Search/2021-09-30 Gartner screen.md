@@ -1,7 +1,7 @@
 # Gartner phone screen
 `DATE:` [[2021-09-30]]
 `WITH:` Alycia Byrne (HR)
-`TAGS:` #meeting/career 
+#meeting/career 
 
 ---
 # Introduction

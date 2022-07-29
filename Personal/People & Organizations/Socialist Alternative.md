@@ -1,5 +1,5 @@
 # Socialist Alternative
-`TAGS:` #org 
+#org 
 
 --- 
 Socialist Alternative is a [[Trotskyism|Trotskyist]] political group in the [[USA|United States]] and elsewhere. 

@@ -5,7 +5,7 @@ died: -483
 
 # Gautama Buddha
 `LINKS:` [[Buddhism]]
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

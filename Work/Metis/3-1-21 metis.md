@@ -1,6 +1,6 @@
 # Metis Notes for Monday, March 1st
 `LINKS:` [[metis week 9]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Project 4 Introduction

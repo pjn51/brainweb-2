@@ -1,5 +1,5 @@
 # Biology
-`TAGS:` #hub 
+#hub 
 
 ---
 # Introduction

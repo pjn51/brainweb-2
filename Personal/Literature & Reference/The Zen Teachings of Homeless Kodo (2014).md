@@ -4,7 +4,7 @@ author: Kosho Uchiyama and Shohaku Okumura
 genre: philosophy
 ---
 # The Zen Teachings of Homeless Kodo (2014)
-`TAGS:` #book  
+#book  
 
 ---
 # Ideas

@@ -6,7 +6,7 @@ format: article
 ---
 # Python Object Oriented Programming (2021)
 `LINKS:` [source](https://www.programiz.com/python-programming/object-oriented-programming)
-`TAGS:` #article
+#article
 `AUTHOR:` N/A
 
 ---

@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Plato
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

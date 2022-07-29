@@ -1,5 +1,5 @@
 # Psychology 🧠
-`TAGS`: #hub 
+#hub 
 
 ---
 Psychology is the study of the human mind and its functions. Most of my interest related to it is because of my need to understand different theraputic approaches. 

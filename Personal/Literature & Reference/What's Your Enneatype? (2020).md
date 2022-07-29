@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # What's Your Enneatype? (2020)
 `SOURCE:` physical book
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 # The Enneagram: what it is and what it isn't

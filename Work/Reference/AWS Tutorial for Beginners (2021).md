@@ -6,7 +6,7 @@ format: article
 ---
 # AWS Tutorial for Beginners (2021)
 `SOURCE:` [source](https://www.simplilearn.com/tutorials/aws-tutorial/what-is-aws)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Simplilearn
 
 ---

@@ -1,5 +1,5 @@
 # Recurrent Neural Network
-`TAGS`: 
+
 
 ---
 # Introduction

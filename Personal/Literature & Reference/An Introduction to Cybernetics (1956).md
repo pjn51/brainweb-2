@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # An Introduction to Cybernetics
 `LINKS:` [source](https://archive.org/details/introductiontocy00ashb/page/n13/mode/1up)
-`TAGS:` #book #wip 
+#book #wip 
 `AUTHORS:` William R. Ashby
 
 ---

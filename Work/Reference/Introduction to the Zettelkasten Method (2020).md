@@ -6,7 +6,7 @@ format: article
 ---
 # Introduction to the Zettelkasten Method (2020)
 `LINKS:` https://zettelkasten.de/introduction/
-`TAGS`: #article 
+#article 
 `AUTHOR:` Sascha
 
 ---

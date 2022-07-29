@@ -1,6 +1,6 @@
 # Derivatives
 `LINKS:` [[calculus]]
-`TAGS:` 
+
 
 ---
 # Introduction

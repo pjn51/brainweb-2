@@ -1,5 +1,5 @@
 # Direct Action
-`TAGS`: #tactic 
+#tactic 
 
 ---
 Direct action is a tactic often associated with [[Anarchism]], but is often common in [[liberalism|liberal]] activist groups and NGOs. 

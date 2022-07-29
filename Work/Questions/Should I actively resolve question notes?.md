@@ -4,4 +4,7 @@ Maybe actively "solving" question notes would allow me to progress within the br
 On the other hand, why remove the question in the end? Couldn't I just create some new idea notes and continue my thoughts there?
 
 ---
+I should resolve question notes through the creation of answers, while still preserving my reasoning for later reference. This allows progression while retaining the steps of my thought process.
+
+---
 #question/pkm 

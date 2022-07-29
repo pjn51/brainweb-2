@@ -6,7 +6,7 @@ format: article
 ---
 # Anatomy of the Micro-Sect (1973)
 `LINKS`: [source](https://www.marxists.org/archive/draper/1973/xx/microsect.htm)
-`TAGS`: #article 
+#article 
 `AUTHOR`: Hal Draper
 
 ---
@@ -110,4 +110,4 @@ The author argues that there is a better foundation for the American socialist m
 > 
 > I would think that the [[IMT]] does sort of fit into this conception. We argue for the creation of a multi-tendency workers party, and we function in the way that the author describes a political center to function. 
 > 
-> This would be an interesting article to discuss on the Branch Committee, particularly with JT. 
+> This would be an interesting article to discuss on the Branch Committee, particularly with [[JT]]. 

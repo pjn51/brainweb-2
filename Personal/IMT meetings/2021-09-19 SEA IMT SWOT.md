@@ -3,7 +3,7 @@ aliases:
 ---
 # SEA IMT SWOT, September 2021
 `DATE:` [[2021-09-19]]
-`TAGS:` 
+
 
 ---
 # Introduction

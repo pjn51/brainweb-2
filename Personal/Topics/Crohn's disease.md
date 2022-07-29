@@ -1,5 +1,5 @@
 # Crohn's Disease 💩
-`TAGS:` #hub 
+#hub 
 
 ---
 # [[What causes Crohn's?]]

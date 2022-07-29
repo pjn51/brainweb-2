@@ -1,5 +1,5 @@
 # The Party for Socialism and Liberation
-`TAGS:` #org 
+#org 
 
 ---
 ## 1. Introduction

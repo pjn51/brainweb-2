@@ -3,7 +3,7 @@ born: 1944
 died: 
 ---
 # Alan Woods
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

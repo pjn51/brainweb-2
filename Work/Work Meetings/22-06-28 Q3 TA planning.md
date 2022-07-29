@@ -15,7 +15,7 @@ My area of focus will be user feedback. We discussed a previous jamboard that co
 
 We created a new jamboard to highlight things in a more focused way. In this one, a note at the top has higher priority than those below it, so it's a bit more linear than the previous one. ^3
 
-Big tasks here include scoping out easy places to plug automation into the [[Report A Job|RAJ]] process, wor[[Cronjob|CRON]]am [[CRON job|CRON]] that will feed data into Josh's [[MidApply Feedback queue]] [[IQL indices|IQL index]], and generally looking for patterns and trends across RAJ, NPS, [[SERP Relevance queue]], I2A relrating, and apply feedback.
+Big tasks here include scoping out easy places to plug automation into the [[Report A Job queue|RAJ]] process, wor[[Cronjob|CRON]]am [[CRON job|CRON]] that will feed data into Josh's [[Midapply Feedback queue]] [[IQL indices|IQL index]], and generally looking for patterns and trends across RAJ, NPS, [[SERP Relevance queue]], I2A relrating, and apply feedback.
 
 When doing this, I should coordinate with [[Megan]] and [[Dan]], since they've done this kind of work and I shouldn't waste time on stuff they've already worked on. I can rely on them for general direction, and they can rely on me for technical help since they don't know stats and coding as well as I do. Syed advised me to schedule a meeting with both of them, and also suggested that I shadow one of them so I can understand the limitations of the current process.
 

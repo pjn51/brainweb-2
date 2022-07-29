@@ -1,4 +1,5 @@
-*Action verifies perception.* When we want to gain objective knowledge about the material world, we apply our abstractions to this world and see what happens. If things go according to plan, while [[All classification is approximation]], we can still be more confident that our perceptions of reality are accurate, and we can alter our understanding if we fail. 
+# Action verifies perception.
+When we want to gain objective knowledge about the material world, we apply our abstractions to this world and see what happens. If things go according to plan, while [[All classification is approximation]], we can still be more confident that our perceptions of reality are accurate, and we can alter our understanding if we fail. 
 
 Through this process of action, we can bridge the gap between our sense perceptions and the material world. 
 

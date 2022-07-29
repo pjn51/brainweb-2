@@ -1,5 +1,5 @@
 # Contact Meetings with Bryce Robinson
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 # 2021-08-02
@@ -111,7 +111,7 @@
 	- The CC, CC contacts, the EC, Officers, and subcommittees
 		- The Central Committee can appoint various officers and subcommittees to deal with things as needed
 		- At a local level, we can have a Press Secretary, Branch Secretary, Contacts Officer, and Finance Officer as needed
-		- Since we're small, not much need for formal positions. I'm handling finance and contacts right now. [[Josh Creech|Josh]] is handling paper sales. 
+		- Since we're small, not much need for formal positions. I'm handling finance and contacts right now. [[JC|Josh]] is handling paper sales. 
 
 
 # 2021-09-03

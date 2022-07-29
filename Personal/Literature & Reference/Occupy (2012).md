@@ -4,7 +4,7 @@ author: Noam Chomsky
 genre: political
 ---
 # Occupy (2012)
-`TAGS:` #book 
+#book 
 
 ---
 # Summary

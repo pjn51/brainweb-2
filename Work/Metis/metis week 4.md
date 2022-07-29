@@ -1,5 +1,5 @@
 # Metis Week 4
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 It's crazy to think that I've completed the first quarter of the [[Metis]] bootcamp already. 

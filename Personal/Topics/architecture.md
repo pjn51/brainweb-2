@@ -1,6 +1,6 @@
 # Architecture 🏛
 `LINKS:` 
-`TAGS:`  #hub 
+ #hub 
 
 ---
 # Introduction

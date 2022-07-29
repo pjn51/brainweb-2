@@ -1,5 +1,5 @@
 # Structural Rationalism
-`TAGS:`  
+ 
 
 ---
 # Introduction

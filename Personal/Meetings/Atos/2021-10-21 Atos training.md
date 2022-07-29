@@ -1,7 +1,7 @@
 # 2021-10-21 Atos training
 `DATE:` [[2021-10-21]]
 `WITH:` multiple
-`TAGS:` #meeting/Atos
+#meeting/Atos
 
 ---
 #  Patrick Kadas

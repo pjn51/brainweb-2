@@ -6,7 +6,7 @@ format: article
 ---
 # Setting Up Your Remote Repository With Git (2021)
 `LINKS:` [source](https://www.inmotionhosting.com/support/website/git/setting-up-your-remote-repository-with-git/)
-`TAGS:` #article 
+#article 
 `AUTHOR:` Christopher Maiorana
 
 ---

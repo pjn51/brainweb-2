@@ -3,7 +3,7 @@
 aliases: [opportunists, opportunists]
 ---
 # Opportunism
-`TAGS:` #tactic
+#tactic
 
 ---
 # Introduction

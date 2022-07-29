@@ -5,7 +5,7 @@ with [[Dan]]
 ---
 Dan walked me through the sampling [[Ishbook]] that I'm going to be automating into a [[Cronjob]]. ^3
 
-This process needs to run every day in the morning, so that documents are loaded into the [[MidApply Feedback queue]] for vendors to grade. It samples a single day of activity. 
+This process needs to run every day in the morning, so that documents are loaded into the [[Midapply Feedback queue]] for vendors to grade. It samples a single day of activity. 
 
 He also noted that we should probably make the IQL queries more efficient, and chunk them by 1,000 IDs so that they don't clog IQL as much, especially the ones with subqueries.
 

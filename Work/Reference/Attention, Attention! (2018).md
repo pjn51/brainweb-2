@@ -6,7 +6,7 @@ format: article
 ---
 # Attention? Attention!
 `LINKS`: [Source](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#:~:text=In%20a%20nutshell%2C%20attention%20in,may%20have%20read%20in%20many)
-`TAGS`: #wip 
+#wip 
 `AUTHOR:` Lilian Weng
 
 ---

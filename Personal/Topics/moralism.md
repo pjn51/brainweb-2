@@ -1,5 +1,5 @@
 # Moralism
-`TAGS:` 
+
 
 ---
 [[Never confuse morality and strategy]]. 

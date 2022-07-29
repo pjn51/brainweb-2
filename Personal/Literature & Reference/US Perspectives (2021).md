@@ -6,7 +6,7 @@ format: article
 ---
 # US Perspectives (2021)
 `LINKS:` [source](https://app.box.com/file/845355741854?s=hyyg6g3aarxdzz84ssiqcdpmewe2jacb)
-`TAGS:` 
+
 
 ---
 # Introduction

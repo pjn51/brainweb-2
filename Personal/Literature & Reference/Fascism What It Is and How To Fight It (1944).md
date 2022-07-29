@@ -6,7 +6,7 @@ genre: political
 
 # Fascism: What It Is and How to Fight It
 `LINKS:` [Source](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm#p0)
-`TAGS:` #book 
+#book 
 
 ---
 > [!info]

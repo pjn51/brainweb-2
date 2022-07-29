@@ -1,6 +1,6 @@
 # Euclidian Distance
 `LINKS`: 
-`TAGS`: #equation 
+#equation 
 
 ---
 $$

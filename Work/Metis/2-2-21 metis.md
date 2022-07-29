@@ -1,6 +1,6 @@
 # Metis Notes for Tuesday, Feb 2nd
 `LINKS:` [[metis week 5]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Today we're starting off with a classification assessment, and then diving into [[data]] visualization, ensembling, and XGBoost. 

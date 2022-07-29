@@ -4,7 +4,7 @@ genre: STEM
 ---
 # Fundamentals of Data Engineering (2021)
 `SOURCE:` https://learning-oreilly-com.ezproxy.spl.org/library/view/fundamentals-of-data/9781098108298/ch01.html
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 1. Data engineering described

@@ -1,6 +1,6 @@
 # SpaCy
 `LINKS`: [documentation](https://spacy.io/)
-`TAGS`: 
+
 
 ---
 SpaCy is a [[Python]] [[modules and packages|package]] for [[NLP]]. 

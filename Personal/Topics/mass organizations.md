@@ -1,5 +1,5 @@
 # Mass Organizations
-`TAGS`: 
+
 
 ---
 ## What is a mass organization?

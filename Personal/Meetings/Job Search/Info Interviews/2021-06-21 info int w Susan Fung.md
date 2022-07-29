@@ -1,6 +1,6 @@
 # Info Interview w Susan Fung
 `LINKS:` [[career]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Susan Fung is a Data Scientist at Liberty Mutual. She has a PhD in neurobiology from UW, and went to [[Metis]]. After the boot camp, she got her current job at Liberty Mutual. 

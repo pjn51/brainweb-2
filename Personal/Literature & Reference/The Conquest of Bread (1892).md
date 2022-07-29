@@ -6,7 +6,7 @@ genre: political
 # The Conquest of Bread 🍞
 `LINKS:` [Source](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread). 
 `AUTHOR:`  [[Peter Kropotkin]]
-`TAGS:` #book #wip 
+#book #wip 
 
 ---
 > [!info]

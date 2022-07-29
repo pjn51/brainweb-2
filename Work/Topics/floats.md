@@ -1,5 +1,5 @@
 # Floats
-`TAGS`: 
+
 
 ---
 # Introduction

@@ -1,5 +1,5 @@
 # Data Visualization
-`TAGS:`  
+ 
 
 ---
 Data visualization is used for [[exploratory data analysis]], as well as for [[communication and deployment]] of project results. It's easy to overlook the value of data visualization since it isn't really complex or technically impressive. 

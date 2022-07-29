@@ -3,14 +3,14 @@ date: 2022-05-11
 kind: OoO
 with: Jake Thorp
 ---
-# 2022-05-11 OoO with JT
+# 2022-05-11 OoO with [[JT]]
 [[2022-05-11]]
 #meeting/political 
 
 ---
 # ✅ Topics to discuss
 - [[What is Money? (2016)#Part four inflation and the gold standard]]
-- Freeman and [[Hayden]] leaving probationary status
+- Freeman and [[HM]] leaving probationary status
 - Bulk bookstore order as a turn towards consolidation
 - Library finally open for meeting space
 - Convening BC monthly

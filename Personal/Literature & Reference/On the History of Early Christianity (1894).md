@@ -4,7 +4,7 @@ genre: political
 ---
 # On the History of Early Christianity (1894)
 `SOURCE:` [[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]]
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 # One

@@ -1,6 +1,6 @@
 # The Drake Equation
 `LINKS`: [wiki](https://en.m.wikipedia.org/wiki/Drake_equation)
-`TAGS`: 
+
 
 --- 
 The Drake Equation is a probabilistic argument for the existance of intelligent [[extraterrestrial life]] in [[space]]. It was first written in 1961 by Dr. Frank Drake for the purpose of stimulating scientific dialogue at the first conference of [[SETI]]. 

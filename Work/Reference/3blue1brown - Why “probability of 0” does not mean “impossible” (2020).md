@@ -6,7 +6,7 @@ format: video
 ---
 # Why “probability of 0” does not mean “impossible” | 3blue1brown
 `LINKS:` [source](https://www.youtube.com/watch?v=ZA4JkHKZM50)
-`TAGS`: #video 
+#video 
 
 ---
 <center>

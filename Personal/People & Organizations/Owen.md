@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Robert Owen
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

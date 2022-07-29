@@ -1,5 +1,5 @@
 # Hamas 
-`TAGS`: #org 
+#org 
 
 ---
 Hamas is the military and [[religion|religious]] organization that currently is in control of [[Palestine]].

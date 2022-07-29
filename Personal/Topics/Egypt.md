@@ -1,5 +1,5 @@
 # Egypt 🇪🇬
-`TAGS:` 
+
 
 ---
 # Introduction

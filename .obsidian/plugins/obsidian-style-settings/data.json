@@ -26,10 +26,11 @@
   "sanctum@@alt-link": true,
   "sanctum@@table-options": "alternate-row-clr",
   "minimal-advanced@@cursor": "default",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-pink-topaz",
   "blue-topaz-theme@@plain-file-title": false,
-  "blue-topaz-theme@@fancy-hr": "fancy-hr-number",
+  "blue-topaz-theme@@fancy-hr": "default-hr",
   "blue-topaz-theme@@custom-titlebar-bg@@light": "#FFFFFF",
   "blue-topaz-theme@@custom-titlebar-bg@@dark": "#000000",
-  "minimal-style@@tab-style": "tab-style-3"
+  "minimal-style@@tab-style": "tab-style-3",
+  "blue-topaz-theme@@muted-activeline-bg": true
 }

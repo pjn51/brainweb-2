@@ -1,5 +1,5 @@
 # Hexadecimal
-`TAGS`: 
+
 
 ---
 ## Introduction

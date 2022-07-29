@@ -5,7 +5,7 @@ genre: political
 ---
 # Where to Begin?
 `LINKS:` [[Marxism]] | [source](https://www.marxists.org/archive/lenin/works/1901/may/04.htm)
-`TAGS:` #tactic 
+#tactic 
 `AUTHOR:` [[Lenin]]
 
 ---

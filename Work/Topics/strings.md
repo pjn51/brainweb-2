@@ -1,5 +1,5 @@
 # Strings
-`TAGS:` 
+
 
 ---
 Strings are a [[data types|data type]] (in [[Python]]) similar to lists in their methods and how to manipulate them. However, they are immutable. We can still perform type conversions and index and slice them in the same way as we did for lists. 

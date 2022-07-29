@@ -1,5 +1,5 @@
 # Fungi 🍄
-`TAGS:` 
+
 
 ---
 # Introduction

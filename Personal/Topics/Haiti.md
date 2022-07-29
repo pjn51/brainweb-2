@@ -1,5 +1,5 @@
 # Haiti 🇭🇹
-`TAGS:` 
+
 
 ---
 # Introduction

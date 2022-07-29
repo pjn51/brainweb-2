@@ -5,7 +5,7 @@ genre: political
 # The Communist Manifesto
 `LINKS:` [Source](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 `AUTHORS:` [[Marx]] & [[Engels]]
-`TAGS:` #book
+#book
 
 ---
 # 1. Bourgeois and Proletarians

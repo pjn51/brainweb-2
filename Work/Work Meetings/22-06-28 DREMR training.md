@@ -7,7 +7,7 @@ In this meeting, Andrew and I went over [[DREMR]], the "Dradis Email Relay" tool
 
 The reason that we use this tool is to make sure communications are appropriate, and as a way of adding insight to account-level moderation. Moderators always check DREMR during account-level moderation.
 
-Additionally, jobseekers can report individual messages, so DREMR reports that as well. This sort of taps into the [[Report A Job|RAJ]] functionality. 
+Additionally, jobseekers can report individual messages, so DREMR reports that as well. This sort of taps into the [[Report A Job queue|RAJ]] functionality. 
 
 When messages trip existing rules created in [[Rulebook]], they automatically get withheld from the jobseeker and the account goes into the moderation queue. 
 

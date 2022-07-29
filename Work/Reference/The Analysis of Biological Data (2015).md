@@ -4,7 +4,7 @@ genre: STEM
 ---
 # The Analysis of Biological Data (2015)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Summary

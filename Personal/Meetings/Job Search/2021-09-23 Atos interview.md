@@ -1,7 +1,7 @@
 # Atos interview
 `DATE:` [[2021-09-23]]
 `WITH:` Janet Slasor
-`TAGS:` #meeting/career 
+#meeting/career 
 
 ---
 # ✅ Topics to discuss

@@ -1,5 +1,5 @@
 # Adjective Assisted Album Aggregation
-`TAGS`: 
+
 
 ---
 > [!info]

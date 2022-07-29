@@ -2,7 +2,7 @@
 aliases: 
 ---
 # My Atos Workflow
-`TAGS:` 
+
 
 ---
 # Introduction

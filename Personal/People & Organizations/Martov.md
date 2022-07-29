@@ -3,7 +3,7 @@ born: 1873
 died: 1923
 ---
 # Julius Martov
-`TAGS:` #people 
+#people 
 
 ---
 Martov was one of the leading figures on the left-wing of [[Mensheviks]]. He sometimes appeared to be moving towards the [[Bolsheviks]], but tended to waver at the decisive moment. 

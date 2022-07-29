@@ -1,8 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "baseFontSize": 18,
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Menlo",
+  "textFontFamily": "Menlo",
   "theme": "obsidian",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "translucency": false
 }

@@ -4,7 +4,7 @@ genre: STEM
 ---
 # Anatomy of an AI System (2018)
 `SOURCE:` https://anatomyof.ai/
-`TAGS:` #article 
+#article 
 
 ---
 # 1

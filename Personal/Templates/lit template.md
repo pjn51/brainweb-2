@@ -5,7 +5,7 @@ genre:
 ---
 # {{title}}
 `SOURCE:` 
-`TAGS:` #wip 
+#wip 
 
 ---
 > [!Abstract]

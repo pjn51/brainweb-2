@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Climbing 🧗
-`TAGS:` 
+
 
 ---
 # Introduction

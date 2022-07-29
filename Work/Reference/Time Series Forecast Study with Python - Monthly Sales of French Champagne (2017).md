@@ -7,7 +7,7 @@ format: article
 
 # Time Series Forecast Study with Python - Montlhy Sales of French Champagne
 `LINKS:` [source](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Jason Brownlee
 
 ---

@@ -4,7 +4,7 @@ genre: political
 ---
 # Ludwig Feuerbach and the End of Classical German Philosophy (1888)
 `SOURCE:` [[Marx and Engels - Basic Writings on Politics and Philosophy (1959)]]
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # 1. The revolution against Hegel

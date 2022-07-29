@@ -1,5 +1,5 @@
 # Linear Algebra
-`TAGS:` #hub
+#hub
 
 ---
 This is a field of math that studies sets of equations and their transformational properties. We can use these tools to break up complicated problems into simple ones, and allow us to understand multidimensional data space. 

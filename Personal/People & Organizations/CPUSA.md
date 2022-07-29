@@ -1,5 +1,5 @@
 # The Communist Party of the United States of America
-`TAGS:` #org
+#org
 
 ---
 During the early years of the [[Comintern]], this was a genuine vehicle of [[USA|American]] [[Bolsheviks|Bolshevism]], but it degenerated internally towards [[Stalinism]] with the [[Russia|USSR]]'s bureaucracy accelerating this process. 

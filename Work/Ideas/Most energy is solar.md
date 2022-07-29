@@ -6,5 +6,7 @@ Fundamentally, most energy on Earth came from the Sun at one point or another. A
 
 The only force that I can think of that isn't caused by the sun would be things caused by gravity, such as tides. 
 
+This is a great example of how interconnected the universe is.
+
 ---
 #idea/science 

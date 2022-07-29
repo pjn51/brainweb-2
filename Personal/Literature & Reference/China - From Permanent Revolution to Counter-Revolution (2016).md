@@ -6,7 +6,7 @@ genre: political
 # China: From Permanent Revolution to Counter-Revolution
 `LINKS:` [Source](https://www.marxist.com/china-permanent-revolution-to-counter-revolution-book/the-rise-of-the-second-chinese-revolution.htm)
 `AUTHOR:` John Peter Roberts
-`TAGS:` #wip #book
+#wip #book
 
 ---
 ## The Rise of the Second Chinese Revolution

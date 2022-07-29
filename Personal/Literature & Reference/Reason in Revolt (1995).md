@@ -4,7 +4,7 @@ author: Alan Woods, Ted Grant
 genre: political 
 ---
 # Reason in Revolt (1995)
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Review

@@ -2,7 +2,7 @@
 aliases: [Stalinist, Stalinists, Marxist-Leninism, Marxist-Leninist, Marxist-Leninists]
 ---
 # Stalinism
-`TAGS:` #hub
+#hub
 
 ---
 Marxism-Leninism is the ideology that emerged from [[Stalin]]'s buraucratic caste in the USSR. It isn't really coherent, as it was a tool that was used for whatever purpose the bureaucracy needed at the moment. From my perspective, Marxism-Leninism fails to grasp either the lessons of [[Marxism]] or the lessons that [[Lenin]] left in his writings. In an attempt to coopt [[Lenin]]'s legacy, Stalin generated the theory of 'Marxism-Leninism' just after Lenin's death. 

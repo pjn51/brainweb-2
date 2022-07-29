@@ -1,5 +1,5 @@
 # [[IMT]] Reading Group, 3-24-21
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 We're discussing the second half of the introduction to [[The Revolutionary Philosophy of Marxism (2018)]]. 

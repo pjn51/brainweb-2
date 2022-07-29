@@ -3,7 +3,7 @@ born: 1854
 died: 1938
 ---
 # Karl Kautsky
-`TAGS:` #people
+#people
 
 ---
 Kautsky was a prominent theorist of the Second International as a member of the German [[reformism|Social Democratic]] party, the [[SPD]]. He went from being one of the most respected Marxist scholars to what [[Lenin]] called a 'renegade' later in his life, because of his support for [[Germany]] in [[WW1]] and efforts to blunt the edge of Marx's ideas on revolution. He became a leading figure of the current of [[reformism]] and [[opportunism]] in the Social Democratic movement. 

@@ -1,6 +1,6 @@
 # Metis Notes for Monday, March 8th
 `LINKS:` [[metis week 10]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Lecture - [[PySpark]]

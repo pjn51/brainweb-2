@@ -6,7 +6,7 @@ genre: political
 # Left Wing Communism: An Infantile Disorder
 `LINKS:` [Source](https://www.marxists.org/archive/lenin/works/1920/lwc/)
 `AUTHOR:`  [[Lenin]]
-`TAGS:` #book  
+#book  
 
 ---
 # Review

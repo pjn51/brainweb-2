@@ -3,7 +3,7 @@ aliases: [Anarchists, Anarchist]
 ---
 # Anarchism 🏴
 `LINKS:` 
-`TAGS:` #hub 
+#hub 
 
 ---
 Anarchism is a political ideology that advocates decentralized structures and horizontalism. Their organizations seek to structure themselves in the image of the world to come, a world past [[capitalism]] entirely. 

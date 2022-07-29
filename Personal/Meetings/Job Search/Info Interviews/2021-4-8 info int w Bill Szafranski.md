@@ -1,5 +1,5 @@
 # Chat with Bill Szafranski, 4-8-21
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Bill is a Water Resources Scientist at Lynker. I'm interested to ask about his [[career]] and see if he has any advice.

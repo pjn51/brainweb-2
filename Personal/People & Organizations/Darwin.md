@@ -4,6 +4,6 @@ born:
 died: 
 ---
 # Charles Darwin
-`TAGS:` #people 
+#people 
 
 ---

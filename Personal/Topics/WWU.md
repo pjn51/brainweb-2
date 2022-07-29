@@ -1,5 +1,5 @@
 # Western Washington University
-`TAGS:` 
+
 
 ---
 # Introduction

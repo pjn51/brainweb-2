@@ -1,5 +1,5 @@
 # Plant log 🌱
-`TAGS:` 
+
 
 ---
 I want to establish a more scientific accounting of our [[plants]]. This should start with a summary of all the plants, and their species (to gauge water and light needs). After that, I can establish a schedule for watering and checkups. 

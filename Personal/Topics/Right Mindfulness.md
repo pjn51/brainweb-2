@@ -1,5 +1,5 @@
 # Right Mindfulness
-`TAGS:` 
+
 
 ---
 ## Introduction

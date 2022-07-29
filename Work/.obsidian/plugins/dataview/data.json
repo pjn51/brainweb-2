@@ -5,7 +5,7 @@
   "warnOnEmptyResult": false,
   "refreshEnabled": true,
   "refreshInterval": 2500,
-  "defaultDateFormat": "MMMM dd, yyyy",
+  "defaultDateFormat": "yy-M-d",
   "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
   "maxRecursiveRenderDepth": 4,
   "tableIdColumnName": "File",
@@ -13,6 +13,7 @@
   "allowHtml": true,
   "inlineQueryPrefix": "=",
   "inlineJsQueryPrefix": "$=",
+  "inlineQueriesInCodeblocks": true,
   "enableDataviewJs": false,
   "enableInlineDataviewJs": false,
   "prettyRenderInlineFields": true

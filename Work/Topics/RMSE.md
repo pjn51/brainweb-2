@@ -1,5 +1,5 @@
 # Root Mean Squre Error (RMSE)
-`TAGS`: #equation 
+#equation 
 
 ---
 $$\frac{\sum{\sqrt{(y_p-y_a)^2}}}{n}$$

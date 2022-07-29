@@ -1,6 +1,6 @@
 # The Labor Aristocracy
 `LINKS:` [[Marxism]]
-`TAGS:` 
+
 
 ---
 The idea of a labor aristocracy was first put forward by [[Marx]] and [[Engels]].

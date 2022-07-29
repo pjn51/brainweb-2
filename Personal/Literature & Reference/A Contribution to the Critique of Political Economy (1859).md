@@ -4,7 +4,7 @@ genre: political
 ---
 # A Contribution to the Critique of Political Economy (1859)
 `SOURCE:` 
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!info]

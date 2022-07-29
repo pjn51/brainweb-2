@@ -4,7 +4,7 @@ died: 1918
 ---
 # Lavr Kornilov
 `LINKS`: [wiki](https://en.wikipedia.org/wiki/Lavr_Kornilov)
-`TAGS`: #people 
+#people 
 
 ---
 Kornilov was a military commander in [[Russia]]. He led the failed Kornilov Affair under the [[Kerensky]] Provisional Government, but this failed and he was arrested.

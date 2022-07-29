@@ -1,5 +1,5 @@
 # Dimension Reduction
-`TAGS`: 
+
 
 ---
 Dimension reduction is the process of reducing the number of features (aka *dimensions*) present in our [[data]].

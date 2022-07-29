@@ -1,5 +1,5 @@
 # Colombia 🇨🇴
-`TAGS`: 
+
 
 ---
 # Introduction

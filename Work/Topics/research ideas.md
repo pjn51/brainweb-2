@@ -1,6 +1,6 @@
 # Research Ideas 💭
 `LINKS:` [[project questions]]
-`TAGS:`  
+ 
 
 ---
 ## Broad ideas

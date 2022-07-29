@@ -1,5 +1,5 @@
 # Cuba 🇨🇺
-`TAGS:` 
+
 
 ---
 # Introduction

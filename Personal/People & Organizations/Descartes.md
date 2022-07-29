@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Descartes
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

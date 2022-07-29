@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # Database Design Course (2018)
 `SOURCE:` https://www.youtube.com/watch?v=ztHopE5Wnpc
-`TAGS:` #wip #video 
+#wip #video 
 
 ---
 # What is a database?

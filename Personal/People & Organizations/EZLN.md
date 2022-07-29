@@ -1,5 +1,5 @@
 # The Zapatista Army of National Liberation 
-`TAGS`: #org 
+#org 
 `FOUNDED:` 1983
 
 ---

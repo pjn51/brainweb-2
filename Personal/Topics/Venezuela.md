@@ -1,6 +1,6 @@
 # Venezuela 🇻🇪
 `LINKS:`
-`TAGS:` 
+
 
 ---
 ## Introduction

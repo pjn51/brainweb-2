@@ -2,7 +2,7 @@
 aliases: [Muslim, Muslims, Islamic]
 ---
 # Islam ☪️
-`TAGS:` 
+
 
 ---
 # Introduction

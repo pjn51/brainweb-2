@@ -1,5 +1,5 @@
 # TDS podcast - Nicolai Baldin
-`TAGS:` #wip
+#wip
 `LINKS:` [[data science industry]]
 
 ---

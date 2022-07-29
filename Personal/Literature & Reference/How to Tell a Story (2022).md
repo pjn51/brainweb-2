@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # How to Tell a Story (2022)
 `SOURCE:` physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 This book seeks to answer the question: [[What makes a good story?]]

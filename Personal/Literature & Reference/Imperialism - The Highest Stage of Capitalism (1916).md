@@ -6,7 +6,7 @@ genre: political
 # Imperialism: The Highest Stage of Capitalism
 `LINKS:` [Source](https://www.marxist.com/classics-imperialism-the-highest-stage-of-capitalism.htm)
 `AUTHOR:`  [[Lenin]]
-`TAGS:` #book 
+#book 
 
 ---
 # Summary
@@ -191,7 +191,7 @@ He also explains that the export of capital gives an impetus to military control
 # VII. Imperialism as a special stage of capitalism
  Lenin points out that capitalism became capitalist imperialism at a stage where its features began to turn into their opposites. He says that free competition, the hallmark of the development of capitalism, developed into monopoly, its opposite. 
 
-[[Lenin gave five basic features of imperialism]]. He also says that imperialism occupies a specific contextual relationship to the other stages of capitalism. 
+[[Lenin defined imperialism around financial domination]]. He also says that imperialism occupies a specific contextual relationship to the other stages of capitalism. 
 
 [[Lenin criticised Kautsky's definition of imperialism]]. He also criticizes those who say that imperialism is progressive. 
 

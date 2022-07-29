@@ -1,6 +1,6 @@
 # 2021-03-01 meeting with VM pharmacist, Phat Chiem
 `LINKS:` [[health meetings]]
-`TAGS:` #meeting/health
+#meeting/health
 
 ---
 - Side effects to watch out for

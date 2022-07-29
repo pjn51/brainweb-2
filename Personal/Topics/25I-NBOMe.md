@@ -1,5 +1,5 @@
 # 25I-NBOMe
-`TAGS`: 
+
 
 ---
 25I-NBOMe is a synthetic hallucigenic [[drugs|drug]]. It was discovered in 2003, and entered recreational markets around 2010.

@@ -1,5 +1,5 @@
 # Right Action
-`TAGS:` 
+
 
 ---
 ## Introduction

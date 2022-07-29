@@ -1,6 +1,6 @@
 # Bayes' Theorem
 `LINKS:` [[modeling]]
-`TAGS:` 
+
 
 ---
 $$P(A|B)=\frac{P(B|A)* P(A)}{P(B)}$$

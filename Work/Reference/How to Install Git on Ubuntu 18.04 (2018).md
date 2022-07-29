@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # How to Install Git on Ubuntu 18.04
 `SOURCE:` [source](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04)
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 > [!info]

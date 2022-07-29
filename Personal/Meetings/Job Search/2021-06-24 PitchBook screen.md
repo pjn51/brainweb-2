@@ -1,5 +1,5 @@
 # PitchBook Phone Screen
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Points to highlight

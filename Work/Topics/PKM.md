@@ -1,5 +1,5 @@
 # Personal Knowledge Management 📇
-`TAGS:` #hub 
+#hub 
 
 ---
 PKM frameworks are meant to allow us to manage and grow our knowledge. The field consists of PKM tools, such as [[Obsidian]], and PKM frameworks, such as the [[zettelkasten method]], [[PARA]], and the [[IMF framework]]

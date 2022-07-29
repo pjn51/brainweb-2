@@ -1,6 +1,6 @@
 # Terrorism
 `LINKS:` 
-`TAGS:` #tactic 
+#tactic 
 
 ---
 Terrorism is one of the tactics sometimes employed in the service of the workers' movement. It is generally repudiated by Marxists as a pre-revolutionary strategy, but finds support in the theory of some [[Anarchism|anarchists]]. 

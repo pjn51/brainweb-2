@@ -1,6 +1,6 @@
 # Metis Notes for Thursday, March 4th
 `LINKS:` [[metis week 9]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 This morning we have a [[deep learning]] assessment, a few investigations, and then we have a lecture on "big [[data]]."

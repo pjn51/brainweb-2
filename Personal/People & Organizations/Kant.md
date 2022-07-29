@@ -3,7 +3,7 @@ born: 1724
 died: 1804
 ---
 # Immanuel Kant
-`TAGS`: #people 
+#people 
 
 ---
 Immanuel Kant was a big name in [[Germany|German]] [[philosophy]]. He was a central thinker in the Enlightenment.

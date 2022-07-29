@@ -1,6 +1,6 @@
 # PyMongo
 `LINKS:` [documentation](https://pymongo.readthedocs.io/en/stable/)
-`TAGS`: 
+
 
 ---
 # Introduction

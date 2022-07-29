@@ -1,6 +1,6 @@
 # September 2021
 `LINKS:` [[2021-08 August]] //[[2021]] // [[2021-10 October]] 
-`TAGS:` #daily 
+#daily 
 
 ---
 # Summary

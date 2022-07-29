@@ -1,5 +1,5 @@
 # Tattoo Ideas
-`TAGS`: 
+
 
 ---
 ## Ideas

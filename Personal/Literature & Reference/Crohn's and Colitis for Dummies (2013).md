@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # Crohns and Colitis For Dummies 
 `LINKS:` [[Crohn's disease]]
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Review

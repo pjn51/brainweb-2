@@ -4,7 +4,7 @@ author: Heather McAuliffe
 genre: non-fiction
 ---
 # Beating Seattle's Grey (2016)
-`TAGS:` #book
+#book
 
 ---
 # Review 

@@ -3,7 +3,7 @@ born: 1856
 died: 1918
 ---
 # Plekhanov
-`TAGS:` #people 
+#people 
 
 ---
 Plekhanov was a [[Russia|Russian]] revolutionary, and a contemporary of [[Lenin]]. They often butted heads, but also frequently worked together. 

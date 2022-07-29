@@ -1,5 +1,5 @@
 # Informational interview with Jason Salazar-Adams, Monday, June 14th, 2021
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 I scheduled this interview because of an available Data Scientist role at Starbucks. However, the role is no longer being advertised on their website, so this is just a general meeting to talk about the [[data science industry]]. 

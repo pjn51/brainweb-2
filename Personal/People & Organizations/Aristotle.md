@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Aristotle
-`TAGS:` #people 
+#people 
 
 ---
 Aristotle was a famous [[philosophy|philosopher]]. 

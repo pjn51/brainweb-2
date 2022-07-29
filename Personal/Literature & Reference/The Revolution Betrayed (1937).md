@@ -5,7 +5,7 @@ genre: political
 ---
 # The Revolution Betrayed
 `LINKS:` [Source](https://www.marxists.org/archive/trotsky/1936/revbet/)
-`TAGS:`  #book 
+ #book 
 
 ---
 # Summary

@@ -1,5 +1,5 @@
 # Thought Cabinet 🗃
-`TAGS:` #hub 
+#hub 
 
 ---
 This is the index of all my idea notes. I prefer flexible and associative tagging to strict categorization ([[Emergent associations beat predetermined categorization]]). There are several principles by which I develop idea notes, which can be found in my [[style guide]] page and in my [[thought cabinet workflow]]. Questions appear at the top, and act as organizing structures for ideas. 

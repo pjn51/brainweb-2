@@ -1,5 +1,5 @@
 # [[IMT]] Finance Meeting, 3-30-21
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 Agenda

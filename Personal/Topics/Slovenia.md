@@ -2,7 +2,7 @@
 aliases: [Slovenian]
 ---
 # Slovenia 🇸🇮
-`TAGS:` 
+
 
 ---
 # Introduction

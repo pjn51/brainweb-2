@@ -1,5 +1,5 @@
 # Boredom
-`TAGS:` 
+
 
 ---
 ## Introduction

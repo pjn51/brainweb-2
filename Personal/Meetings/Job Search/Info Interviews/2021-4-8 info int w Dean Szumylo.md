@@ -1,5 +1,5 @@
 # Chat with Dean Szumylo
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 Dean is the Pacific Northwest Regional Lead GIS Specialist for Lynker.

@@ -4,7 +4,7 @@ genre: political
 ---
 # The History of Philosophy
 `LINKS:` [reading guide](https://socialistrevolution.org/the-history-of-philosophy-a-marxist-perspective-a-reading-guide/)
-`TAGS:`  #book 
+ #book 
 
 ---
 # Summary

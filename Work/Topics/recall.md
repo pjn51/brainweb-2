@@ -1,5 +1,5 @@
 # Recall
-`TAGS:` #equation
+#equation
 
 ---
 $$

@@ -1,5 +1,5 @@
 # Linear Transformation
-`TAGS`: 
+
 
 ---
 This is something in [[linear algebra]] that takes in a [[scalars and vectors|vector]], and spits out a new vector. We say this instead of just saying they're [[functions (python)]] because we want to visualize them a little differently. 

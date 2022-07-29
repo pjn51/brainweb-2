@@ -1,5 +1,5 @@
 # The Socialist Workers' Party (USA)
-`TAGS`: #org 
+#org 
 
 ---
 The SWP in the [[USA|United States]] was formed in 

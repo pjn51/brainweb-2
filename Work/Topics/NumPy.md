@@ -1,6 +1,6 @@
 # NumPy
 `LINKS`: [[Python]]
-`TAGS`: 
+
 
 ---
 NumPy is the numerical [[modules and packages|package]] standard in python. Everything math has a place in numPy. We mainly use NumPy in [[data science]] for its arrays and math functions. 

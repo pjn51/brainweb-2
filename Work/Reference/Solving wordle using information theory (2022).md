@@ -4,7 +4,7 @@ genre: non-fiction
 ---
 # Solving wordle using information theory (2022)
 `SOURCE:` https://www.youtube.com/watch?v=v68zYyaEmEA
-`TAGS:` #wip #video 
+#wip #video 
 
 ---
 The author asks if there is a [[Data can be quantiative or qualitative|quantitative]] score we can give an opening word in Wordle, that judges the quality of each letter, as well as its placement, assuming that all ~12,000 valid words have an equal possibility of being the answer. 

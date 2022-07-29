@@ -1,6 +1,6 @@
 # [[IMT]] Reading Group, 4-7-21
 `LINKS:` [[Left Wing Communism an Infantile Disorder (1920)]] 
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 Today we're going over the first three chapters of LWC. 

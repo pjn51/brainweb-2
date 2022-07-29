@@ -1,5 +1,5 @@
 # Mutual Aid (aka Base-Building)
-`TAGS:` #tactic 
+#tactic 
 
 ---
 Mutual aid is a tactic often used by [[Anarchism|anarchists]] and [[Maoism|maoists]], as well as an increasing number of [[DSA]] activists. 

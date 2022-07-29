@@ -1,6 +1,6 @@
 # Metis Notes for Tuesday, March 9th
 `LINKS:` [[metis week 10]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Pair: affair

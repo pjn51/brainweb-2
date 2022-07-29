@@ -4,7 +4,7 @@ died: 1986
 ---
 # Simone de Beauvoir
 `LINKS:` [SEP](https://plato.stanford.edu/entries/beauvoir/)
-`TAGS:` #people 
+#people 
 
 ---
 She was a philosopher who styled herself as more of an author, and attached herself to the ideas of [[Sartre]], with whom she was in an open relationship for much of her life. 

@@ -3,7 +3,7 @@ author: James Clear
 genre: non-fiction
 ---
 # Atomic Habits (2018)
-`TAGS:` #wip #book
+#wip #book
 
 ---
 # Summary

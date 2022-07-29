@@ -1,5 +1,5 @@
 # SMART goals
-`TAGS:` 
+
 
 ---
 # Introduction

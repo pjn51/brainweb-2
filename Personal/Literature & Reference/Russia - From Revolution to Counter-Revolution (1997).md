@@ -4,7 +4,7 @@ genre: political
 ---
 # Russia - From Revolution to Counter-Revolution (1997)
 `SOURCE:` [source](https://www.marxist.com/russia-from-revolution-to-counter-revolution/all-pages.htm)
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 # Preface to the 2017 edition
@@ -276,43 +276,43 @@ Grant draws a few lessons from this ultimately failed uprising. The vast majorit
 
 > Today... the delages from the District Workers' Councils formed the Central Workers' Council of Greater Budapest... We declare our unshaken loyalty to the principles of socialism. We regard the means of production as collective property, which we are at all times ready to defend. 
 
-Grant argues that the workers learned fast, soon abandoning their efforts to call on UN intervention and turning to an appeal to the international working class (228). 
+Grant argues that the workers learned fast, soon abandoning their efforts to call on UN intervention and turning to an appeal to the international working class (228).
 
-However, he continues, this is also a brutal lesson that without a revolutionary party, every generation must start from scratch. This is the main cause he blames for the defeat of the Hungarian workers (229). 
+However, he continues, this is also a brutal lesson that without a revolutionary party, every generation must start from scratch. This is the main cause he blames for the defeat of the Hungarian workers (229).
 
-Turning towards an examination of Russian workers' uprisings, Grant notes the words of Tocqueville, who said that the most dangerous moment for a repressive regime is when they attempt to loosen the screws after a period of oppression (230). 
+Turning towards an examination of Russian workers' uprisings, Grant notes the words of Tocqueville, who said that the most dangerous moment for a repressive regime is when they attempt to loosen the screws after a period of oppression (230).
 
 ## The Novocherkassk uprising
-Workers in this south Russian city went on strike, Grant recounts, after wages were cut and meat prices were increased by 30% each. The strikers, he continues, assembled in the town square and easily overwhelmed the local police and soldiers, who were sympathetic to their cause. Grant explains how even troops that were brought in to crush the occupation of [[CPSU]] offices were reluctant to intervene. Finally, Grant says, the troops were ordered to fire on the unarmed crowd, and the officer who was to give the order refused, shooting himself in front of the battle lines. Nevertheless, he continues, the soldiers did open fire, killing a large but unknown amount of workers. Grant says that we can see how worried the bureaucrats were about this pattern repeating due to how heavily news of this uprising was supressed. The local radio station, he recounts, didn't even report on the event once (232). 
+Workers in this south Russian city went on strike, Grant recounts, after wages were cut and meat prices were increased by 30% each. The strikers, he continues, assembled in the town square and easily overwhelmed the local police and soldiers, who were sympathetic to their cause. Grant explains how even troops that were brought in to crush the occupation of [[CPSU]] offices were reluctant to intervene. Finally, Grant says, the troops were ordered to fire on the unarmed crowd, and the officer who was to give the order refused, shooting himself in front of the battle lines. Nevertheless, he continues, the soldiers did open fire, killing a large but unknown amount of workers. Grant says that we can see how worried the bureaucrats were about this pattern repeating due to how heavily news of this uprising was supressed. The local radio station, he recounts, didn't even report on the event once (232).
 
 # 6. The period of stagnation
 ## The fall of Khrushchev
-Grant explains that the party blamed this wave of uprisings on the reforms that were being made, and replaced the premier with [[Brezhnev]], who reversed many of the reforms. Without any debate or voting, he says, this decision was made behind closed doors with no explanation (235). 
+Grant explains that the party blamed this wave of uprisings on the reforms that were being made, and replaced the premier with [[Brezhnev]], who reversed many of the reforms. Without any debate or voting, he says, this decision was made behind closed doors with no explanation (235).
 
-Grant says that Brezhnev re-oriented the USSR towards global trade, a move that Lenin and Trotsky predicted and supported in their own time. He says that participation in the world market could have given the Soviets breathing room and checked the excesses of the bureaucracy through more realistic price mechanisms (236). 
+Grant says that Brezhnev re-oriented the USSR towards global trade, a move that Lenin and Trotsky predicted and supported in their own time. He says that participation in the world market could have given the Soviets breathing room and checked the excesses of the bureaucracy through more realistic price mechanisms (236).
 
 The author says that a unified federation of the USSR, eastern Europe, and China could have dominated the global economy, but they were held back by narrow concerns of national interest, especially between the Soviet and Chinese bureaucrats (238). 
 
 ## The Soviet Union lags behind
-Grant notes the decline of Soviet growth towards a rate of 8.5% in the 1960s, far down from the growth that the USSR had seen earlier. Grant blames this on high arms spending (11-13% of GDP), and bureaucratic inefficiency (239). 
+Grant notes the decline of Soviet growth towards a rate of 8.5% in the 1960s, far down from the growth that the USSR had seen earlier. Grant blames this on high arms spending (11-13% of GDP), and bureaucratic inefficiency (239).
 
 ## Technological advance
-Grant argues that without market forces to constrain inefficiency, there must be workers' democracy to avoid massive waste and spur innovation (p.241). 
+Grant argues that without market forces to constrain inefficiency, there must be workers' democracy to avoid massive waste and spur innovation (p.241).
 
-Continuing this point, he says that in a wider and wider array of commodities, the gap between the capitalist west and the USSR began to widen (p.244). 
+Continuing this point, he says that in a wider and wider array of commodities, the gap between the capitalist west and the USSR began to widen (p.244).
 
 ## Agriculture - the Achilles' heel
-Grant explains the low productivity of Soviet agriculture and the effect this had on Soviet living standards - less calories from meat and dairy, more from grains (p.246). 
+Grant explains the low productivity of Soviet agriculture and the effect this had on Soviet living standards - less calories from meat and dairy, more from grains (p.246).
 
 ## Living standards in the 1970s
-The author says that despite the slowdown, things were still improving. He cites statistics that demonstrate increases in consumption, and reminds us that all of this was done with no inflation, debt, or homelessness (p.253). 
+The author says that despite the slowdown, things were still improving. He cites statistics that demonstrate increases in consumption, and reminds us that all of this was done with no inflation, debt, or homelessness (p.253).
 
 ## The problem of quality
-Across different fields, Grant says, there were widely varying levels of quality. He attributes this to the discretion of individual factory directors and ministers, unchecked by any mandate except to fill the quotas (p.257). 
+Across different fields, Grant says, there were widely varying levels of quality. He attributes this to the discretion of individual factory directors and ministers, unchecked by any mandate except to fill the quotas (p.257).
 
-Turning to a description of [[Brezhnev]], Grant says the former owned a fleet of sports cars and lived like a bourgeois (p.259). 
+Turning to a description of [[Brezhnev]], Grant says the former owned a fleet of sports cars and lived like a bourgeois (p.259).
 
 ## The state under Brezhnev
-Under the new leader, Grant says, dissent was suppressed even more heavily. He explains that sometimes political prisoners were consigned to asylums, where they had no hope of escape, and often became insane themselves (p.263). 
+Under the new leadership, Grant says, dissent was suppressed even more heavily. He explains that sometimes political prisoners were consigned to asylums, where they had no hope of escape, and often became insane themselves (p.263).
 
 ## Art and science

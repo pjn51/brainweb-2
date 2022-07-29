@@ -1,5 +1,5 @@
 # The Irish Republican Army
-`TAGS:` #org
+#org
 `FOUNDED:` 1921
 
 ---

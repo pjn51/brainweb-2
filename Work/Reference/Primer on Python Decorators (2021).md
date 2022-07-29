@@ -6,7 +6,7 @@ format: article
 ---
 # Primer on Python Decorators
 `LINKS:` [source](https://realpython.com/primer-on-python-decorators/)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Geir Arne Hjelle
 
 ---

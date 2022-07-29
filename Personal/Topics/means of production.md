@@ -1,5 +1,5 @@
 # Means of Production
-`TAGS:` 
+
 
 ---
 # Introduction

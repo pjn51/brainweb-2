@@ -1,5 +1,5 @@
 # The Marxist Center Network
-`TAGS`: #org 
+#org 
 
 ---
 The Marxist Center network is a federation of socialist and communist organizations in the [[USA]]. They view themselves as an alternative to the [[sectarianism]] of the past, while refusing to go along with what they see as [[reformism]] on the [[USA|American]] left.

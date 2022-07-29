@@ -3,7 +3,7 @@ born: 1997
 died: 
 ---
 # Jacob Molloy
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

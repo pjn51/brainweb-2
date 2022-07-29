@@ -4,7 +4,7 @@ genre: political
 ---
 # What is Money? (2016)
 `SOURCE:` PDF
-`TAGS:` #wip #article 
+#wip #article 
 
 ---
 > [!abstract] 
@@ -40,7 +40,7 @@ Booth explains that the money relation actually hides a social relation behind i
 The author also says that the domination of the money relation represents the final [[alienation]] of the worker from their labor. He tells us that the worker is no longer producing things for their own consumption, but rather for money, which represents the abstracted value of their production (p.13). This is the economic reason for why [[Capitalism is alienating]]. 
 
 ## The enigma of profit
-Booth begins to explain that [[The commodity produciton circuit moves from C-M-C to M-C-M]] as commodity production matures. He says that initially, commodities are produced, transformed into money, and then exchanged for other commodities, which we can represent as $C-M-C$. Then, he continues, the circuit reverses, becoming a $M-C-M'$ circuit, as commodities are only purchased in order to sell them for an additional and greater sum of money,  $M'$ . Furthermore, he explains that money lenders and financiers attempt to jump past commodity purchasing altogether, attempting to create a $M-M'$ circuit. Booth says that this is a fundamentally parasitic cycle, as only the production of commodities increases the wealth of society (p.14).
+Booth begins to explain that [[The development of capitalism reversed the capital circuit]] as commodity production matures. He says that initially, commodities are produced, transformed into money, and then exchanged for other commodities, which we can represent as $C-M-C$. Then, he continues, the circuit reverses, becoming a $M-C-M'$ circuit, as commodities are only purchased in order to sell them for an additional and greater sum of money,  $M'$ . Furthermore, he explains that money lenders and financiers attempt to jump past commodity purchasing altogether, attempting to create a $M-M'$ circuit. Booth says that this is a fundamentally parasitic cycle, as only the production of commodities increases the wealth of society (p.14).
 
 Booth now answers the fundamental question as to the source of profit. He says that profit comes from the [[surplus value]] created by [[labor|labor power]], rather than from the exchange of commodities (p.15). 
 

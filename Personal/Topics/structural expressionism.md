@@ -1,6 +1,6 @@
 # Structural Expressionism
 `LINKS:` [[architecture]]
-`TAGS:`  
+ 
 
 ---
 ![lloyds building london](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lloyd%27s_Building%2C_London.jpg/800px-Lloyd%27s_Building%2C_London.jpg)

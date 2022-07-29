@@ -1,5 +1,5 @@
 # Plants 🌱
-`TAGS:` #hub 
+#hub 
 
 ---
 This is the organizing page for all things related to plant care and maintainance!

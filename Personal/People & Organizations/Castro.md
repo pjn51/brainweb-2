@@ -4,7 +4,7 @@ died: 2016
 ---
 
 # Fidel Castro
-`TAGS:` #people
+#people
 `BORN:` 1926
 `DIED:` 2016
 

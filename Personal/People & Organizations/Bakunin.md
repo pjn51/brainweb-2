@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Bakunin
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

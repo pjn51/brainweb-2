@@ -4,7 +4,7 @@ died: 1928
 ---
 
 # Big Bill Haywood
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

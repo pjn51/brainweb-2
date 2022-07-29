@@ -1,6 +1,6 @@
 # Entryism
 `LINKS:` [[Marxism]]
-`TAGS:` #tactic 
+#tactic 
 
 ---
 The role of a revolutionary party is fundamentally about orienting to the [[mass organizations]] of the [[proletariat]], through which the working class becomes politically active. 

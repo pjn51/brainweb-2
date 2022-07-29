@@ -1,6 +1,6 @@
 # Cognitive Behavioral Therapy
 `LINKS`: [[psychology]]
-`TAGS`: 
+
 
 ---
 Cognitive Behavioral Therapy, or CBT, is a type of therapeutic treatment meant to teach people how to identify and change destructive thought patterns that have a negative impact on behavior and emotions. [[CBT is a popular treatment for depression]]. 

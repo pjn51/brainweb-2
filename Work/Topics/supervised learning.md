@@ -1,5 +1,5 @@
 # Supervised Learning
-`TAGS`: 
+
 
 ---
 Supervised learning is one kind of [[modeling]] task where the target labels are known. 

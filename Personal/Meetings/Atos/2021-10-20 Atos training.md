@@ -1,7 +1,7 @@
 # 2021-10-20 Atos training
 `DATE:` [[2021-10-20]]
 `WITH:` multiple
-`TAGS:` #meeting
+#meeting
 
 ---
 See my previous notes = [[2021-10-19 Atos training]]

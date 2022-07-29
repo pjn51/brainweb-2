@@ -8,7 +8,7 @@
 					- Product Quality
 						- Technical Team
 							- [[Lynn]]
-							- [[Work/People & Teams/Josh]]
+							- [[Josh]]
 							- Me! 😎
 						- Measurement Ops ([[Zandra]])
 							- [[Megan]]

@@ -1,5 +1,5 @@
 # Climbing Gyms in Seattle
-`TAGS`: 
+
 
 ---
 # Introduction
@@ -40,5 +40,15 @@ Couple membership: $108 + $59 enrollment fee ($54 per person monthly).
 	- SODO location
 	- No ropes
 
-# Price comparison
-The cheapest option is Momentum at $54 monthly with the couples' membership. And until June 15, we can waive the enrollment fee, saving $54. 
+# Edgeworks
+Monthly membership: $74 + $50 enrollment fee.
+Couple membership: $136 + $40 enrollment fee ($68 per person monthly).
+
+- Pros
+	- Ropes!
+	- 1 guest pass per month, 2 first-time passes per day
+- Cons
+	- Price, location (Bellevue - 22 min drive)
+
+# Conclusion
+The cheapest option is Momentum at $54 monthly with the couples' membership, but I *really* want to be able to climb ropes. That means my best option is Edgeworks at $74 monthly. I need to find somebody to climb with though, but I could take Eylen with me once a month using the free pass.

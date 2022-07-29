@@ -3,7 +3,7 @@ author: Marx, Engels, Lewis Feuer
 genre: political
 ---
 # Marx and Engels - Basic Writings on Politics and Philosophy (1959)
-`TAGS:` #wip #book  
+#wip #book  
 
 ---
 > [!info]

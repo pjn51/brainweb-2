@@ -4,7 +4,7 @@ aliases: [Fives]
 
 # Enneagram Type Five
 `LINKS:` [Enneagram Institute description](https://www.enneagraminstitute.com/type-5)
-`TAGS:`  
+ 
 
 ---
 <center>

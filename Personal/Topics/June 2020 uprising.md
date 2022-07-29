@@ -1,5 +1,5 @@
 # The June 2020 Uprising ✊
-`TAGS:` 
+
 
 ---
 # Introduction

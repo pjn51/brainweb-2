@@ -3,7 +3,7 @@ author: Vladimir Lenin
 genre: political
 ---
 # What Is To Be Done?
-`TAGS:` #book 
+#book 
 `LINKS:`  [Source](https://www.marxists.org/archive/lenin/works/1901/witbd/)
 `AUTHOR:` [[Lenin]]
 

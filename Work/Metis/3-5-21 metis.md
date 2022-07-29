@@ -1,6 +1,6 @@
  # Metis Notes for Friday, March 5th
 `LINKS:` [[metis week 9]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Pair: map-reduce

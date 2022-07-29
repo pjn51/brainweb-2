@@ -3,7 +3,7 @@ aliases: [Marxist, Marxists]
 ---
 # Marxism
 `LINKS:` 
-`TAGS:` #hub 
+#hub 
 
 ---
 This is the #hub for Marxist political theory. This is quite a broad topic, so I should be specific in what should link to this note. This hub is for Marxist *political theory*, not famous Marxists or organizations. 

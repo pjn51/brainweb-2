@@ -4,7 +4,7 @@ genre: political
 ---
 # History of the Russian Revolution (1932)
 `SOURCE`: physical
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!abstract] 

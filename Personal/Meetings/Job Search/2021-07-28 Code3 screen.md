@@ -1,5 +1,5 @@
 # Code3 Phone Screen, July 28, 2021
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 # Company info

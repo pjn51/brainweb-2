@@ -4,7 +4,7 @@ author: Frank Herbert
 genre: fiction
 ---
 # Children of Dune (1981)
-`TAGS:` #book 
+#book 
 
 ---
 # Review

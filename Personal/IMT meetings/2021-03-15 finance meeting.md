@@ -1,5 +1,5 @@
 # [[IMT]] Finance Meeting, 3-15-21
-`TAGS:` #meeting/political 
+#meeting/political 
 
 ---
 ## Best Practices for Finances

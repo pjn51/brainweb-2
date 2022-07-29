@@ -1,5 +1,5 @@
 # Log Odds
-`TAGS`: #equation
+#equation
 
 ---
 $$

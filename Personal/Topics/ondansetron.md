@@ -1,5 +1,5 @@
 # Ondansetron
-`TAGS`: 
+
 
 ---
 # Introduction

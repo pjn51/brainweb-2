@@ -5,7 +5,7 @@ genre: political
 ---
 # Why the US Doesn't Have a Mass Workers' Party - and How We Can Change This
 `LINKS:` [source](https://app.box.com/file/839618031022?s=chz6a6krt4puqcv0bcjz3pvu7j3fscz1)
-`TAGS:` #article #wip 
+#article #wip 
 `AUTHOR:` Tom Trottier
 
 ---

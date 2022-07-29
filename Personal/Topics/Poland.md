@@ -1,5 +1,5 @@
 # Poland 🇵🇱
-`TAGS:` 
+
 
 ---
 # Introduction

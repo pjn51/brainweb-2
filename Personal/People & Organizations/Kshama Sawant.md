@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Kshama Sawant
-`TAGS:` #people 
+#people 
 
 ---
 Sawant sits on the [[Seattle]] city council, and is a member of [[Socialist Alternative]]. She was elected in 2013 by a 1.7% margin, and was re-elected in 2015 by a 12% margin. In 2019, she was again re-elected with a 4.1% margin, despite her opponent recieving more than $1.5 million in corporate backing. 

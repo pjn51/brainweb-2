@@ -1,6 +1,6 @@
 # Nutrition Notes
 `LINKS:` [[Crohn's disease]]
-`TAGS:` 
+
 
 ---
 ## 5-14-20 meeting with Dr. Ervin

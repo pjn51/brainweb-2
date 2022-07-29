@@ -2,7 +2,7 @@
 aliases: 
 ---
 # Third Camp tradition
-`TAGS:` 
+
 
 ---
 # Introduction

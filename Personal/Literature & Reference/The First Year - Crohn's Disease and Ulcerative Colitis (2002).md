@@ -6,7 +6,7 @@ format: book
 ---
 # The First Year - Crohn's Disease and Ulcerative Colitis
 `LINKS:`
-`TAGS:` #wip
+#wip
 `AUTHOR:` Jill Sklar
 
 ---

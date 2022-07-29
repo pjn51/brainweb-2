@@ -1,5 +1,5 @@
 # Right Speech
-`TAGS:` 
+
 
 ---
 ## Introduction

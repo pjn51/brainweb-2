@@ -2,7 +2,7 @@
 aliases: [French]
 ---
 # France 🇫🇷
-`TAGS:` 
+
 
 ---
 ## 1968

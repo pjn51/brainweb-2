@@ -6,7 +6,7 @@ format: article
 ---
 # Advanced Excel Tutorial (2021)
 `LINKS:` [source](https://www.tutorialspoint.com/advanced_excel/index.htm)
-`TAGS`: #article 
+#article 
 
 ---
 This tutorial is an advanced guide for [[Excel]]. 

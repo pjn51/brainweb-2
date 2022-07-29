@@ -1,6 +1,6 @@
 # Metis Notes for Wednesday, Feb 3rd
 `LINKS:` [[metis week 5]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 We're starting off today with a pair programming problem about [[decorators]]. Later, we have lectures on flask web applications, and a review of the classification assessment that we took yesterday. 

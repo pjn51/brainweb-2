@@ -4,7 +4,7 @@ aliases: [PQM]
 ---
 # Measurement
 ---
-This is a sub-team within [[Measurement & Tools]] in [[Indeed]]. I'm on this team as a Technical Analyst. 
+This is a sub-team within [[Measurement & Tools]] in [[Indeed]]. I'm on this team as a Technical Analyst.
 
 ## Standups
 ```dataview
@@ -16,9 +16,9 @@ WHERE contains(file.name, "standup") AND contains(file.name, "PQM")
 ```dataview
 LIST
 FROM ("Work Meetings" OR "Personal/Work Meetings")
-WHERE endswith(file.name, "biweekly")
+WHERE endswith(file.name, "presentation")
 ```
-## Sprint and biweekly planning
+## Planning
 ```dataview
 LIST
 FROM ("Work Meetings" OR "Personal/Work Meetings")

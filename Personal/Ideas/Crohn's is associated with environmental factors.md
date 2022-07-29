@@ -1,8 +1,3 @@
----
-sr-due: 2022-06-06
-sr-interval: 28
-sr-ease: 250
----
 # Crohn's is associated with environmental factors.
 Prevalence of [[Crohn's disease]] correlates with consumption of meat, milk protein, and fatty acids. Smoking correlates with increased symptoms.
 

@@ -2,7 +2,7 @@
 aliases: [ecosystems]
 ---
 # Ecosystem
-`TAGS`: 
+
 
 ---
 An ecosystem is a term in [[environmental science]] used to refer to the biotic and abiotic elements in a given area. This includes the plant and animal community as well as the abiotic factors such as the climate and geology. 

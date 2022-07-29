@@ -3,7 +3,7 @@ born: 1844
 died: 1900
 ---
 # Friedrich Nietzsche
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

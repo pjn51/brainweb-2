@@ -4,7 +4,7 @@ author: Frank Herbert
 genre: fiction
 ---
 # Dune - Messiah
-`TAGS:` #book
+#book
 
 ---
 # Review

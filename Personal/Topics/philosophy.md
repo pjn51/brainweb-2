@@ -2,7 +2,7 @@
 aliases: [philosophical, philosopher, philosophers]
 ---
 # Philosophy
-`TAGS:` #hub 
+#hub 
 
 ---
 Philosophy is the study of reality and our experience of it. It is divided into a few areas of investigation. [[Epistemology]] seeks to investigate questions about knowledge. [[Ontology]] seeks to answer questions about existence. 

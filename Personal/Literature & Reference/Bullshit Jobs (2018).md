@@ -5,7 +5,7 @@ genre: non-fiction
 ---
 # Bullshit Jobs (2018)
 `SOURCE:` PDF
-`TAGS:` #wip #book 
+#wip #book 
 
 ---
 > [!Abstract]
@@ -20,7 +20,7 @@ His basic view is that it appears that there's a proliferation of these useless 
 
 Now, in my opinion, he makes a serious error:
 
-> The answer clearly isn't economic: it's moral and political. The [[bourgeoisie|ruling class]]has figured out that a happy and productive population with free time on their hands is a mortal danger (8). 
+> The answer clearly isn't economic: it's moral and political. The [[bourgeoisie|ruling class]] has figured out that a happy and productive population with free time on their hands is a mortal danger (8). 
 
 Moving on to the psychological effects of this phenomenon, he says that this must erode dignity of labor when [[proletariat|workers]] view their own work as pointless. Furthermore, he notes a general rule that the more useful one's work is, the less one gets paid (9). 
 

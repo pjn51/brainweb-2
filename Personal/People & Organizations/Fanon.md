@@ -3,7 +3,7 @@ born:
 died: 
 ---
 # Franz Fanon
-`TAGS:` #people 
+#people 
 
 ---
 # Introduction

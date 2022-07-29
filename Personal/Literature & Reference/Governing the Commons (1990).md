@@ -5,7 +5,7 @@ genre: political
 # Governing the Commons
 `LINKS:` [Source](https://www.burmalibrary.org/docs20/Ostrom-1990-governing_the_commons.pdf)
 `AUTHOR:` [[Ostrom]]
-`TAGS:` #book #wip
+#book #wip
 
 ---
 # Summary

@@ -2,7 +2,7 @@
 aliases: [NYSE, stock exchange]
 ---
 # Stock Market
-`TAGS:` 
+
 
 ---
 # Introduction

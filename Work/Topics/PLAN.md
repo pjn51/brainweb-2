@@ -1,6 +1,6 @@
 # P.L.A.N. 
 `LINKS:` [[career]]
-`TAGS:` #hub 
+#hub 
 
 ---
 This is a method for balancing the things I need to be doing as part of my job hunt. 

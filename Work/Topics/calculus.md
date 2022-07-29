@@ -1,5 +1,5 @@
 # Calculus
-`TAGS:` #hub
+#hub
 
 ---
 This is a branch of math that deals with finding the slope of a curve at a given point. 

@@ -1,5 +1,5 @@
 # The International Marxist Tendency
-`TAGS:` #org #imt 
+#org #imt 
 
 ---
 <center>

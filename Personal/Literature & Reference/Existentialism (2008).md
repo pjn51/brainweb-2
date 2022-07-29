@@ -4,7 +4,7 @@ genre: philosophy
 ---
 # Existentialism (2008)
 `SOURCE:` [source]()
-`TAGS:` #wip 
+#wip 
 
 ---
 # 8. Oppression

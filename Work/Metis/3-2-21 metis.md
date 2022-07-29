@@ -1,6 +1,6 @@
 # Metis Notes For Tuesday, March 2nd
 `LINKS:` [[metis week 9]]
-`TAGS:` #meeting/career
+#meeting/career
 
 ---
 ## Pair - [[neural network]]  with Keras

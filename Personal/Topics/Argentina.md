@@ -1,5 +1,5 @@
 # Argentina 🇦🇷
-`TAGS:` 
+
 
 ---
 # Introduction

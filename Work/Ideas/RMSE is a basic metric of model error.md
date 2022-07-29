@@ -1,4 +1,5 @@
-*RMSE is a basic metric of model error.* [[RMSE]], or root mean square error, is:
+# RMSE is a basic metric of model error.
+[[RMSE]], or root mean square error, is:
 
 $$
 \frac{\sum{\sqrt{(y_p-y_a)^2}}}{n}
@@ -9,10 +10,9 @@ This equation tells us how wrong, on average, we got each predicted value for $y
 
 If we subtract this equation from one, we get $R^2$. [[The coefficient of determination reports the proportion of predicted vs actual variance]]. 
 
+---
 #idea/math 
 #idea/compsci/data-science 
-
----
 ```dataview
 LIST
 FROM [[RMSE is a basic metric of model error]] AND -outgoing([[RMSE is a basic metric of model error]])

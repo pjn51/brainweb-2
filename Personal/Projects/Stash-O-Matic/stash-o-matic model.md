@@ -1,5 +1,5 @@
 # Stash-o-Matic Model
-`TAGS:` 
+
 
 ---
 ## Introduction

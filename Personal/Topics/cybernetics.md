@@ -1,6 +1,6 @@
 # Cybernetics
 `LINKS:` [wiki](https://en.wikipedia.org/wiki/Cybernetics) | [intro](https://web.archive.org/web/20100811013353/http://www.smithsrisca.demon.co.uk/cybernetics.html)
-`TAGS:` 
+
 
 ---
 # Introduction
